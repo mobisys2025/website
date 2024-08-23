@@ -1,0 +1,37 @@
+{{ define "main" }}
+<container>
+  <h1 id="welcome-to-acm-mobisys-2024">Welcome to ACM MobiSys 2025</h1>
+  <p>The 23rd ACM International Conference on Mobile Systems, Applications, and Services. ACM MobiSys 2025 seeks to
+    present innovative and significant research on the design, implementation, usage, and evaluation of mobile computing
+    and wireless systems, applications, and services. This conference builds on the success of the previous nineteen ACM
+    MobiSys conferences. It is sponsored by ACM SIGMOBILE.
+    <strong>Location: California</strong>
+  </p>
+  <div class="shade1">
+    <style>
+      main a {
+        color: inherit;
+      }
+
+      div.keynote-highlights img {
+        max-height: 240px;
+        width: auto;
+      }
+
+      @media only screen and (max-width: 600px) {
+        div.keynote-highlights img {
+          max-height: 105px;
+          width: auto;
+        }
+
+        div.keynote-highlights {
+          font-size: 8px;
+          line-height: 1.5em;
+        }
+      }
+    </style>
+    <h2 id="announcements">Announcements</h2>
+    {{ .Content }}
+  </div>
+</container>
+{{ end }}

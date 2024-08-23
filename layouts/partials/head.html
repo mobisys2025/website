@@ -1,0 +1,15 @@
+<head>
+	<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Site.Title }} - {{ .Title }}{{ end }}</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<meta name="title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Site.Title }} - {{ .Title }}{{ end }}" />
+	{{/*  <meta name="keyword" content="{{ .Site.Keyword }}" />  */}}
+	<meta http-equiv="Cache-control" content="no-store" />
+	<link rel="icon" href='{{.Site.BaseURL}}favicon.ico' />
+	<link rel="stylesheet" href='{{ relURL "css/normalize.css" }}'/>
+	<link rel="stylesheet" href='{{ relURL "css/main.css" }}'>
+	<link rel="stylesheet" href='{{ relURL "css/icomoon/style.css" }}' />
+	<link rel="stylesheet"
+		href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900" />
+    <link rel="stylesheet" href='{{ relURL "css/custom.css" }}' />
+</head>

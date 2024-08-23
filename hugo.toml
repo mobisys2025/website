@@ -1,0 +1,38 @@
+baseURL = "https://www.sigmobile.org/mobisys/2025/"
+languageCode = "en-us"
+title = "ACM MobiSys 2025"
+keyword = "mobisys25,mobisys2025,mobisys 2025,mobisys 25"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Author Info"
+    url = "#"
+    weight = 2
+  [[menu.main]]
+    name = "Call For Papers"
+    url = "/call_for_papers/"
+    parent = "Author Info"
+    weight = 1
+#   [[menu.main]]
+#     name = "Transportation"
+#     url = "./transportation.html"
+#     parent = "Attendee Info"
+#     weight = 2
+  [[menu.main]]
+    name = "Committees"
+    url = "#"
+    weight = 3
+  [[menu.main]]
+    name = "Organizing Committee"
+    url = "/organizing_committee/"
+    parent = "Committees"
+    weight = 1
+#   [[menu.main]]
+#     name = "Transportation11"
+#     url = "./transportation.html"
+#     parent = "Attendee Info11"
+#     weight = 2
