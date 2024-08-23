@@ -2,7 +2,7 @@
 title: "Call For Papers"
 ---
 
-ACM MobiSys 2024 seeks to present innovative and significant research on all aspects of mobile computing, applications, and services. The conference values technical contributions with working implementations and practical evaluations. We also welcome work that critically examines compelling mobile scenarios and applications, shedding light on novel insights and lessons learned. We also encourage the submission of experience papers that provide detailed technical explorations of real-world deployments of applications and systems.
+ACM MobiSys 2025 seeks to present innovative and significant research on all aspects of mobile computing, applications, and services. The conference values technical contributions with working implementations and practical evaluations. We also welcome work that critically examines compelling mobile scenarios and applications, shedding light on novel insights and lessons learned. We also encourage the submission of experience papers that provide detailed technical explorations of real-world deployments of applications and systems.
 
 Topics of interest include, but are not limited to:
 
@@ -32,7 +32,8 @@ Topics of interest include, but are not limited to:
 
 ## Important Dates
 
-TBD
+<!-- Modify the assets/paper_important_dates.csv to modify the date -->
+{{< important-date-table "paper_important_dates.csv" >}}
 
 Note that titles and abstracts submitted to register the paper by the abstract deadline, albeit not final, must be sufficiently informative.
 

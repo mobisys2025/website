@@ -1,6 +1,5 @@
 +++
 title = 'Sponsorship'
-draft = true
 +++
 
 The 22nd ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2024) is the premier conference for the design, implementation, usage, and evaluation of mobile computing and wireless systems, applications, and services. MobiSys 2024 is sponsored by SIGMOBILE.

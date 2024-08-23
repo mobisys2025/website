@@ -1,0 +1,23 @@
+{{ $csv := .Get 0 }}
+{{ $separator := .Get 1 | default "," }}
+
+{{ $resource := resources.Get $csv }}
+{{ $data := $resource | transform.Unmarshal (dict "delimiter" $separator) }}
+
+<div class="split">
+    <table>
+        <tbody>
+            {{ range $row := $data }}
+            <tr>
+                {{ range $index, $cell := $row }}
+                {{ if eq $index 0 }}
+                    <td><strong>{{ . }}</strong></td>
+                {{ else }}
+                    <td>{{ . }}</td>
+                {{ end }}
+                {{ end }}
+            </tr>
+            {{ end }}
+        </tbody>
+    </table>
+</div>

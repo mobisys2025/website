@@ -1,0 +1,35 @@
+{{ $json := .Get 0 }}
+{{ $resource := resources.Get $json }}
+{{ $data := $resource | transform.Unmarshal }}
+
+{{ range $group := $data }}
+<h3>{{ $group.chairs }} &ensp;
+    {{ if $group.contacts }}
+    <a href="mailto:{{ $group.contacts }}">{{ $group.contacts }}</a>
+    {{ end }}
+</h3>
+
+<table class="table table-striped table-bordered table-fixed">
+    <tbody>
+        <tr>
+            {{ range $group.members }}
+            <td>
+                {{ if .image }}
+                <img src="../images/profiles/{{ .image }}" alt="{{ .name }}">
+                {{ end }}
+            </td>
+            {{ end }}
+        </tr>
+        <tr>
+            {{ range $group.members }}
+            <td><strong>{{ .name }}</strong></td>
+            {{ end }}
+        </tr>
+        <tr>
+            {{ range $group.members }}
+            <td>{{ .affiliation }}</td>
+            {{ end }}
+        </tr>
+    </tbody>
+</table>
+{{ end }}

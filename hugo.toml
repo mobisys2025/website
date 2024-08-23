@@ -1,7 +1,10 @@
 baseURL = "https://www.sigmobile.org/mobisys/2025/"
 languageCode = "en-us"
 title = "ACM MobiSys 2025"
-keyword = "mobisys25,mobisys2025,mobisys 2025,mobisys 25"
+enableRobotsTXT = true
+
+# Disable categories and tags
+[Taxonomies]
 
 [menu]
   [[menu.main]]
@@ -19,8 +22,8 @@ keyword = "mobisys25,mobisys2025,mobisys 2025,mobisys 25"
     weight = 1
 #   [[menu.main]]
 #     name = "Transportation"
-#     url = "./transportation.html"
-#     parent = "Attendee Info"
+#     url = "/transportation/"
+#     parent = "Author Info"
 #     weight = 2
   [[menu.main]]
     name = "Committees"
@@ -34,10 +37,4 @@ keyword = "mobisys25,mobisys2025,mobisys 2025,mobisys 25"
   [[menu.main]]
     name = "Sponsorship"
     url = "/sponsorship/"
-    weight = 3
-
-#   [[menu.main]]
-#     name = "Transportation11"
-#     url = "./transportation.html"
-#     parent = "Attendee Info11"
-#     weight = 2
+    weight = 4

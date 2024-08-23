@@ -27,8 +27,10 @@ strong {
 
 header {
   background-color: #50bcdf;
-  background-image: url(/mobisys/2025/images/mobisys2024_head_img_2.jpg);
+  background-image: url(/mobisys/2025/images/header_background.jpg);
   background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 header h1,

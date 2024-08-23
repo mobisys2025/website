@@ -1,0 +1,34 @@
+[
+    {
+        "chairs": "General Co-Chairs",
+        "contacts": "",
+        "members": [
+            {
+                "name": "TBD",
+                "affiliation": "TBD",
+                "image": ""
+            },
+            {
+                "name": "TBD",
+                "affiliation": "TBD",
+                "image": ""
+            }
+        ]
+    },
+    {
+        "chairs": "Program Co-Chairs",
+        "contacts": "",
+        "members": [
+            {
+                "name": "TBD",
+                "affiliation": "TBD",
+                "image": ""
+            },
+            {
+                "name": "TBD",
+                "affiliation": "TBD",
+                "image": ""
+            }
+        ]
+    }
+]

@@ -61,6 +61,7 @@ jobs:
           git checkout --orphan public
           git rm -rf .
           mv public/* .
+          rm -f .hugo_build.lock
           git add .
           git commit -m "Build site"
           git push origin public --force
