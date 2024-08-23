@@ -31,6 +31,11 @@ keyword = "mobisys25,mobisys2025,mobisys 2025,mobisys 25"
     url = "/organizing_committee/"
     parent = "Committees"
     weight = 1
+  [[menu.main]]
+    name = "Sponsorship"
+    url = "/sponsorship/"
+    weight = 3
+
 #   [[menu.main]]
 #     name = "Transportation11"
 #     url = "./transportation.html"
