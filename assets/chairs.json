@@ -1,33 +1,294 @@
 [
     {
-        "chairs": "General Co-Chairs",
-        "contacts": "",
+        "chairs": "General Chairs",
         "members": [
             {
-                "name": "TBD",
-                "affiliation": "TBD",
-                "image": ""
+                "name": "Ardalan Amiri Sani",
+                "affiliation": "University of California, Irvine",
+                "image": "ardalan-amiri-sani.jpg",
+                "contact": "ardalan@uci.edu"
             },
             {
-                "name": "TBD",
-                "affiliation": "TBD",
-                "image": ""
+                "name": "Chenren Xu",
+                "affiliation": "Peking University",
+                "image": "chenren_xu.jpg",
+                "contact": "chenren.xu@gmail.com"
             }
         ]
     },
     {
-        "chairs": "Program Co-Chairs",
-        "contacts": "",
+        "chairs": "TPC Chairs",
         "members": [
             {
-                "name": "TBD",
-                "affiliation": "TBD",
-                "image": ""
+                "name": "Swarun Kumar",
+                "affiliation": "Carnegie Mellon University",
+                "image": "swarun_kumar.png",
+                "contact": "swarun@cmu.edu"
             },
             {
-                "name": "TBD",
-                "affiliation": "TBD",
-                "image": ""
+                "name": "Przemysław Pawełczak",
+                "affiliation": "Delft University of Technology",
+                "image": "przemysław_pawełczak.jpg",
+                "contact": "P.Pawelczak@tudelft.n"
+            }
+        ]
+    },
+    {
+        "chairs": "Workshop Chairs",
+        "members": [
+            {
+                "name": "Jiliang Wang",
+                "affiliation": "Tsinghua University",
+                "image": "jiliang_wang.jpg",
+                "contact": "jiliangwang99@gmail.com"
+            },
+            {
+                "name": "Phuc Nguyen",
+                "affiliation": "University of Massachusetts Amherst",
+                "image": "phuc_nguyen.jpeg",
+                "contact": "vp.nguyen@cs.umass.edu"
+            }
+        ]
+    },
+    {
+        "chairs": "Poster Chairs",
+        "members": [
+            {
+                "name": "Jun Han",
+                "affiliation": "Korea Advanced Institute of Science and Technology",
+                "image": "jun_han.jpg",
+                "contact": "jun.han@kaist.ac.kr"
+            },
+            {
+                "name": "Hang Qiu",
+                "affiliation": "University of California, Riverside",
+                "image": "hang_qiu.jpg",
+                "contact": "hangq@ucr.edu"
+            }
+        ]
+    },
+    {
+        "chairs": "Demo Chairs",
+        "members": [
+            {
+                "name": "Felix Lin",
+                "affiliation": "The University of Virginia",
+                "image": "felix_lin.jpg",
+                "contact": "felixlin@virginia.edu"
+            },
+            {
+                "name": "Habiba Farrukh",
+                "affiliation": "University of California, Irvine",
+                "image": "habiba_farrukh.jpeg",
+                "contact": "habibaf@uci.edu"
+            }
+        ]
+    },
+    {
+        "chairs": "Publicity Chairs",
+        "members": [
+            {
+                "name": "Renjie Zhao",
+                "affiliation": "Johns Hopkins University",
+                "image": "renjie_zhao.webp",
+                "region": "North America",
+                "contact": "rjzhao@jhu.edu"
+            },
+            {
+                "name": "Sicong Liu",
+                "affiliation": "Northwestern Polytechnical University",
+                "image": "sicong_liu.jpeg",
+                "region": "Asia",
+                "contact": "scliu@nwpu.edu.cn"
+            },
+            {
+                "name": "Kasım Sinan Yıldırım",
+                "affiliation": "University of Trento",
+                "image": "ksy.png",
+                "region": "Europe",
+                "contact": "sinanyil81@gmail.com"
+            }
+        ]
+    },
+    {
+        "chairs": "Publication Chairs",
+        "members": [
+            {
+                "name": "Ruipeng Gao",
+                "affiliation": "Beijing Jiaotong University",
+                "image": "ruipeng_gao.jpg",
+                "contact": "rpgao@bjtu.edu.cn"
+            },
+            {
+                "name": "Tianxin Li",
+                "affiliation": "Michigan State University",
+                "image": "tianxin_li.png",
+                "contact": "litianx2@msu.edu"
+            }
+        ]
+    },
+    {
+        "chairs": "Finance Chairs",
+        "members": [
+            {
+                "name": "Jingao Xu",
+                "affiliation": "Carnegie Mellon University",
+                "image": "jingao_xu.jpg",
+                "contact": "jingaox@andrew.cmu.edu"
+            },
+            {
+                "name": "Yuanqin Zheng",
+                "affiliation": "The Hong Kong Polytechnic University",
+                "image": "yuanqing_zheng.jpg",
+                "contact": "zhengyq7@gmail.com"
+            }
+        ]
+    },
+    {
+        "chairs": "Sponsorship Chairs",
+        "members": [
+            {
+                "name": "Zhihao (Zephyr) Yao",
+                "affiliation": "New Jersey Institute of Technology",
+                "image": "zhihao_yao.jpg",
+                "region": "North America",
+                "contact": "zhihao.yao@njit.edu"
+            },
+            {
+                "name": "Yuuki Nishiyama",
+                "affiliation": "University of Tokyo",
+                "image": "yuuki_nishiyama.jpg",
+                "region": "Asia",
+                "contact": "nishiyama@csis.u-tokyo.ac.jp"
+            },
+            {
+                "name": "Qing Wang",
+                "affiliation": "Delft University of Technology",
+                "image": "qing_wang.jpg",
+                "region": "Europe",
+                "contact": "qing.wang@tudelft.nl"
+            }
+        ]
+    },
+    {
+        "chairs": "IoT Day Chairs",
+        "members": [
+            {
+                "name": "Wei Gao",
+                "affiliation": "University of Pittsburgh",
+                "image": "wei_gao.jpg",
+                "contact": "weigao@pitt.edu"
+            },
+            {
+                "name": "Luca Mottloa",
+                "affiliation": "Politecnico di Milano",
+                "image": "luca_mottloa.webp",
+                "contact": "luca.mottola@polimi.it"
+            }
+        ]
+    },
+    {
+        "chairs": "Rising Stars Forum Chairs",
+        "members": [
+            {
+                "name": "Shijia Pan",
+                "affiliation": "University of California, Merced",
+                "image": "shijia_pan.jpg",
+                "contact": "span24@ucmerced.edu"
+            },
+            {
+                "name": "Nirupam Roy",
+                "affiliation": "The University of Maryland",
+                "image": "nirupam_roy.jpg",
+                "contact": "niruroy@umd.edu"
+            }
+        ]
+    },
+    {
+        "chairs": "Student Volunteer Chairs",
+        "members": [
+            {
+                "name": "Ge Wang",
+                "affiliation": "Xi'an Jiaotong University",
+                "image": "ge_wang.webp",
+                "contact": "gewang@xjtu.edu.cn"
+            }
+        ]
+    },
+    {
+        "chairs": "Local Arrangement Chairs",
+        "members": [
+            {
+                "name": "Yuxin (Myles) Liu",
+                "affiliation": "University of California, Irvine",
+                "image": "yuxin_liu.jpeg",
+                "contact": "lyx981mike@gmail.com"
+            },
+            {
+                "name": "Zhaowei Tan",
+                "affiliation": "University of California, Riverside",
+                "image": "zhaowei_tan.jpeg",
+                "contact": "ztan@ucr.edu"
+            }
+        ]
+    },
+    {
+        "chairs": "Registration Chairs",
+        "members": [
+            {
+                "name": "Dongyao Chen",
+                "affiliation": "Shanghai Jiaotong University",
+                "image": "dongyao_chen.jpg",
+                "contact": "chendy@sjtu.edu.cn"
+            },
+            {
+                "name": "Anh Nguyen",
+                "affiliation": "University of Montana",
+                "image": "anh_guyen.jpg",
+                "contact": "nguyen.tran.lan.anh@gmail.com"
+            }
+        ]
+    },
+    {
+        "chairs": "Student Travel Grant Chairs",
+        "members": [
+            {
+                "name": "Tingjun Chen",
+                "affiliation": "Duke University",
+                "image": "tingjun_chen.jpg",
+                "region": "North America",
+                "contact": "tingjun.chen@duke.edu"
+            },
+            {
+                "name": "Zhimeng Yin",
+                "affiliation": "City University of Hong Kong",
+                "image": "zhimeng_yin.jpg",
+                "region": "Asia",
+                "contact": "zhimeyin@cityu.edu.hk"
+            },
+            {
+                "name": "Aaron Ding",
+                "affiliation": "Delft University of Technology",
+                "image": "aaron-ding.jpg",
+                "region": "Europe",
+                "contact": "Aaron.Ding@tudelft.nl"
+            }
+        ]
+    },
+    {
+        "chairs": "Web Chairs",
+        "members": [
+            {
+                "name": "Zhibo Wang",
+                "affiliation": "Zhejiang University",
+                "image": "zhibo_wang.jpeg",
+                "contact": "zhibowang@zju.edu.cn"
+            },
+            {
+                "name": "Mingyi Chen",
+                "affiliation": "University of California, Irvine",
+                "image": "mingyi_chen.png",
+                "contact": "mingyi.chen@uci.edu"
             }
         ]
     }

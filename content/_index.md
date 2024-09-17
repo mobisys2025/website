@@ -23,4 +23,4 @@ The 23rd ACM International Conference on Mobile Systems, Applications, and Servi
 
 ## Announcements
 
-- **Aug 28th, 2024 - ACM MobiSys 2025 webpage is live**
+- **Sep 17th, 2024 - ACM MobiSys 2025 webpage is live**
