@@ -5,7 +5,7 @@ title: "Home"
 
 The 23rd ACM International Conference on Mobile Systems, Applications, and Services. ACM MobiSys 2025 seeks to present innovative and significant research on the design, implementation, usage, and evaluation of mobile computing and wireless systems, applications, and services. This conference builds on the success of the previous twenty-two ACM MobiSys conferences. It is sponsored by ACM SIGMOBILE.
     
-**Location: California, US**
+**Location: Anaheim, California, US**
 
 ## Important Dates
 
