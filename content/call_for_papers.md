@@ -59,7 +59,7 @@ Submissions must be in PDF. We will not accept papers in any other format. Any p
 - Font size no smaller than 10 points.
 - Double column format with each column having dimensions 9.25 inches x 3.33 inches, a space of 0.33 inches between the two columns, and with no more than 55 lines of text per column.
 - Fit properly on US letter-sized paper (8.5 inches by 11 inches).
-- Submissions must be in PDF (Portable Document Format) authors should ensure that they are compatible with Adobe Acrobat (English version). - Any other formats, including Postscript and MS-Word, will not be accepted.
+- Submissions must be in PDF (Portable Document Format) authors should ensure that they are compatible with Adobe Acrobat (English version). Any other formats, including Postscript and MS-Word, will not be accepted.
 - Authors’ names must not appear anywhere in the paper or in the PDF file. The PDF file must also not contain any embedded hyperlinks, as these may compromise reviewer anonymity.
 - Limit the file size to less than 15 MB: contact the PC chairs if you have a file larger than this limit.
 
@@ -86,7 +86,7 @@ MobiSys’25 will have early rejection notifications and a rebuttal phase. The a
 To ensure a fair review process, PC members who have a conflict of interest with any author of the submission will not review or participate in the discussion of the submission. It is the author’s responsibility to mark conflict of interests in the submission website.
 We generally follow the ACM policy ([Conflict of Interest Policy for ACM Publications](https://www.acm.org/publications/policies/conflict-of-interest)) and also add and extend rules on the specific relationships to explicitly define conflicts of interest of one submission as:
 
-1.  any PC member who works/worked at the same organizational affiliation with any co-author in the last 24 months or reasonably expected within the next 12 months;
+1. any PC member who works/worked at the same organizational affiliation with any co-author in the last 24 months or reasonably expected within the next 12 months;
 2. any PC member who has co-authored any book, article, report, abstract or paper with collaboration in the last 24 months or reasonably expected within the next 12 months;
 3. any PC member who has collaborated on projects, such as funded grants, research or others with any co-author in the last 24 months or reasonably expected within the next 12 months;
 4. any PC member who is/was the advisor or advisee of any co-author;
@@ -103,4 +103,4 @@ Knowingly hiding or falsifying a stated conflict of interest, and knowingly and 
 
 ## Contact Us
 
-If you have any questions, please contact the Program Co-Chairs
+If you have any questions, please contact the TPC Chairs, Swarun Kumar (swarun@cmu.edu) and Przemysław Pawełczak (P.Pawelczak@tudelft.nl).
