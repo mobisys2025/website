@@ -212,6 +212,12 @@
                 "affiliation": "Xi'an Jiaotong University",
                 "image": "ge_wang.webp",
                 "contact": "gewang@xjtu.edu.cn"
+            },
+            {
+                "name": "Mehdi Sepasi",
+                "affiliation": "University of California, Irvine",
+                "image": "mehdi_sepasi.jpeg",
+                "contact": "msepasia@uci.edu"
             }
         ]
     },
