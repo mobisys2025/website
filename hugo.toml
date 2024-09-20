@@ -35,6 +35,11 @@ enableRobotsTXT = true
     parent = "Committees"
     weight = 1
   [[menu.main]]
+    name = "PC Self Nomination"
+    url = "/pc_self_nomination/"
+    parent = "Committees"
+    weight = 2
+  [[menu.main]]
     name = "Sponsorship"
     url = "/sponsorship/"
     weight = 4
