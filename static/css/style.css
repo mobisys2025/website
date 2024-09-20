@@ -35,7 +35,7 @@
 }
 
 body {
-  font-family: Montserrat;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: var(--color-text);
   background-color: var(--color-background);
   font-weight: 400;
@@ -54,7 +54,7 @@ h3,
 h4,
 h5 {
   color: var(--color-emphasis);
-  font-weight: 800;
+  font-weight: 700;
 }
 
 strong {
