@@ -88,8 +88,8 @@ a {
 header {
   background-position: center;
   background-size: 100% auto;
-  padding-top: 4.5em;
-  padding-bottom: 4.5em;
+  padding-top: 8em;
+  padding-bottom: 8em;
   grid-area: header;
   text-align: center;
 }
@@ -726,7 +726,6 @@ footer {
   padding: 0.5em;
 }
 
-footer a,
 footer copyright {
   vertical-align: middle;
   display: inline-block;
