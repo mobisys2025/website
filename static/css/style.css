@@ -1,0 +1,171 @@
+/* Color Palette */
+:root {
+  /* Main colors */
+  --color-primary: #0b4148;
+  --color-secondary: #1f7162;
+  --color-background: #edf0f2;
+  --color-dark-text: #222;
+  --color-light-text: #fff;
+  --color-accent: #BC3E4A;
+
+  /* Text colors */
+  --color-text: var(--color-dark-text);
+  --color-emphasis: var(--color-primary);
+  --color-link: var(--color-secondary);
+
+  /* Header colors */
+  --color-header-text: var(--color-light-text);
+
+  /* Navigation colors */
+  --color-nav-bg: var(--color-primary);
+  --color-nav-text: var(--color-light-text);
+
+  /* Sponsors colors */
+  --color-sponsor-bg: #fff;
+  --color-sponsor-text: var(--color-primary);
+
+  /* Footer colors */
+  --color-footer-bg: var(--color-primary);
+  --color-footer-text: var(--color-light-text);
+
+  /* Other colors */
+  --color-border: #bbb;
+  --color-button: var(--color-secondary);
+  --color-button-text: var(--color-light-text);
+}
+
+body {
+  font-family: Montserrat;
+  color: var(--color-text);
+  background-color: var(--color-background);
+  font-weight: 400;
+  text-align: justify;
+}
+
+hr {
+  height: 1px;
+  background: var(--color-border);
+  border: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: var(--color-emphasis);
+  font-weight: 800;
+}
+
+strong {
+  font-weight: 600;
+}
+
+header {
+  background-image: url(/mobisys/2025/images/header_background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+header h1,
+header h2,
+header h3,
+header h4 {
+  color: var(--color-header-text);
+  -webkit-text-stroke-color: #000;
+  text-shadow: 0 0 10px #000;
+}
+
+nav label:before {
+  text-shadow: 0 0 50px #000;
+}
+
+header h1 {
+  font-weight: 900;
+}
+
+header h2 {
+  font-weight: 600;
+}
+
+header h3 {
+  font-weight: 700;
+  font-size: 1.3em;
+}
+
+header h4 {
+  font-weight: 900;
+}
+
+footer {
+  background-color: var(--color-footer-bg);
+  color: var(--color-footer-text);
+}
+
+#sponsors {
+  background-color: var(--color-sponsor-bg);
+  color: var(--color-sponsor-text);
+}
+
+#sponsors * {
+  color: var(--color-sponsor-text);
+}
+
+main a {
+  font-weight: 500;
+  color: var(--color-link);
+}
+
+main .button a {
+  color: inherit;
+}
+
+p a {
+  word-break: break-word;
+}
+
+.badge,
+.button {
+  background-color: var(--color-button);
+  color: var(--color-button-text);
+  font-weight: 400;
+}
+
+span.new,
+div.new *,
+div.new h2:before {
+  color: var(--color-accent);
+  border-color: var(--color-accent);
+}
+
+nav.active container {
+  background-color: var(--color-nav-bg);
+}
+
+nav li ul li a {
+  border-color: var(--color-nav-text);
+}
+
+nav {
+  color: var(--color-nav-text);
+  background-color: var(--color-nav-bg);
+  font-weight: 400;
+}
+
+nav a span {
+  border-color: #fff !important;
+}
+
+nav ul ul {
+  background-color: rgba(255, 255, 255, 0.95);
+  color: var(--color-link);
+}
+
+nav label {
+  color: #fff;
+}
+
+nav ul ul a {
+  color: var(--color-link);
+}
