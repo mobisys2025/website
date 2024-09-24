@@ -10,12 +10,13 @@ The 23rd ACM International Conference on Mobile Systems, Applications, and Servi
 {{< rawhtml >}}
 <br>
 <span class="button">
-  <a href="https://mobisys25.hotcrp.com">
+  <a href="https://mobisys25.hotcrp.com" target="_blank">
   <span class="icon-file-text2"></span> Paper Submission</a>
 </span>
 {{< /rawhtml >}}
 
 {{< rawhtml >}}
+&nbsp;&nbsp;
 <span class="button">
   <a href="https://forms.gle/gpCttBLPfvGkFd2K7" target="_blank">
   <span class="icon-file-text2"></span> PC Self Nomination Form</a>
