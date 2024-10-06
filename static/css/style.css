@@ -132,6 +132,22 @@ p a {
   font-weight: 400;
 }
 
+.disabled {
+  cursor: not-allowed;
+  pointer-events: none;
+  background-color: #ccc !important;
+  color: #666 !important;
+}
+
+tr.due {
+  text-decoration: line-through;
+  color: #888888;
+}
+
+tr.due strong {
+  text-decoration: line-through;
+}
+
 span.new,
 div.new *,
 div.new h2:before {

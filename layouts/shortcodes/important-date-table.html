@@ -8,11 +8,12 @@
     <table>
         <tbody>
             {{ range $row := $data }}
-            <tr>
+            {{ $isDue := and (gt (len $row) 2) (eq (index $row 2) "due") }}
+            <tr{{ if $isDue }} class="due"{{ end }}>
                 {{ range $index, $cell := $row }}
                 {{ if eq $index 0 }}
                     <td><strong>{{ . }}</strong></td>
-                {{ else }}
+                {{ else if ne $index 2 }}
                     <td>{{ . }}</td>
                 {{ end }}
                 {{ end }}

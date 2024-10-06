@@ -3,13 +3,13 @@ title: "PC Self Nomination"
 ---
 
 {{< rawhtml >}}
-<span class="button">
+<span class="button disabled">
   <a href="https://forms.gle/gpCttBLPfvGkFd2K7" target="_blank">
   <span class="icon-file-text2"></span> PC Self Nomination Form</a>
 </span>
 {{< /rawhtml >}}
 
-The ACM MobiSys program committee (PC) is a set of experts in mobile systems, wireless networks and mobile computing that review academic papers for publication in the ACM MobiSys 2025 program. Please fill out this form (https://forms.gle/gpCttBLPfvGkFd2K7) to apply to be a member of the ACM MobiSys 2025 PC. 
+The ACM MobiSys program committee (PC) is a set of experts in mobile systems, wireless networks and mobile computing that review academic papers for publication in the ACM MobiSys 2025 program. Please fill out this form (~~https://forms.gle/gpCttBLPfvGkFd2K7~~) to apply to be a member of the ACM MobiSys 2025 PC. 
 
 To apply, you must have:
 - Published at least one full-length paper in a SIGMOBILE conference: MobiSys, MobiCom, UbiComp, MobiHoc, SenSys or SEC. 
