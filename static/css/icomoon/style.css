@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'icomoon';
   src:
-    url('fonts/icomoon.ttf?wn3esu') format('truetype'),
-    url('fonts/icomoon.woff?wn3esu') format('woff'),
-    url('fonts/icomoon.svg?wn3esu#icomoon') format('svg');
+    url('fonts/icomoon.ttf?e84qkf') format('truetype'),
+    url('fonts/icomoon.woff?e84qkf') format('woff'),
+    url('fonts/icomoon.svg?e84qkf#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -34,6 +34,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-slideshare:before {
+  content: "\f1e7";
+}
 .icon-mobisys2025:before {
   content: "\e900";
 }

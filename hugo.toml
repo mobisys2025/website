@@ -12,9 +12,18 @@ enableRobotsTXT = true
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Author Info"
+    name = "Attendee Info"
     url = "#"
     weight = 2
+  [[menu.main]]
+    name = "Venue"
+    url = "/venue/"
+    parent = "Attendee Info"
+    weight = 1
+  [[menu.main]]
+    name = "Author Info"
+    url = "#"
+    weight = 3
   [[menu.main]]
     name = "Call For Papers"
     url = "/call_for_papers/"
@@ -28,7 +37,7 @@ enableRobotsTXT = true
   [[menu.main]]
     name = "Committees"
     url = "#"
-    weight = 3
+    weight = 4
   [[menu.main]]
     name = "Organizing Committee"
     url = "/organizing_committee/"
@@ -42,4 +51,4 @@ enableRobotsTXT = true
   [[menu.main]]
     name = "Sponsorship"
     url = "/sponsorship/"
-    weight = 4
+    weight = 5

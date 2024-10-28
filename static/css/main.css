@@ -88,8 +88,8 @@ a {
 header {
   background-position: center;
   background-size: 100% auto;
-  padding-top: 8em;
-  padding-bottom: 8em;
+  padding-top: 6em;
+  padding-bottom: 6em;
   grid-area: header;
   text-align: center;
 }

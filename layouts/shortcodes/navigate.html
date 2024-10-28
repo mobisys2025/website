@@ -1,0 +1,83 @@
+<!-- layouts/shortcodes/navigation-buttons.html -->
+{{- $address := .Get "address" -}}
+{{- $latitude := .Get "latitude" -}}
+{{- $longitude := .Get "longitude" -}}
+
+<div class="navigation-buttons">
+  <button onclick="openAppleMaps('{{ $address }}', '{{ $latitude }}', '{{ $longitude }}')" class="nav-button apple-maps-btn">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <polygon points="3 11 22 2 13 21 11 13 3 11"/>
+    </svg>
+    Navigate using Apple Maps
+  </button>
+  
+  <button onclick="openGoogleMaps('{{ $address }}')" class="nav-button google-maps-btn">
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="12" cy="12" r="10"/>
+      <polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76"/>
+    </svg>
+    Navigate using Google Maps
+  </button>
+</div>
+
+<style>
+.navigation-buttons {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  margin-top: 1em;
+}
+
+.nav-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.apple-maps-btn {
+  background-color: #000000;
+  color: white;
+}
+
+.apple-maps-btn:hover {
+  background-color: #333333;
+}
+
+.google-maps-btn {
+  background-color: #4285f4;
+  color: white;
+}
+
+.google-maps-btn:hover {
+  background-color: #2b7de9;
+}
+
+.nav-button svg {
+  width: 1.25rem;
+  height: 1.25rem;
+}
+</style>
+
+<script>
+function openAppleMaps(address, latitude, longitude) {
+  const encodedAddress = encodeURIComponent(address);
+  const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
+  
+  if (isIOS) {
+    window.location.href = `maps://?q=${encodedAddress}&ll=${latitude},${longitude}`;
+  } else {
+    window.open(`https://maps.apple.com/?q=${encodedAddress}&ll=${latitude},${longitude}`, '_blank');
+  }
+}
+
+function openGoogleMaps(address) {
+  const encodedAddress = encodeURIComponent(address);
+  window.open(`https://www.google.com/maps/search/?api=1&query=${encodedAddress}`, '_blank');
+}
+</script>
