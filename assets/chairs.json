@@ -85,6 +85,23 @@
         ]
     },
     {
+        "chairs": "Artifact Evaluation Chairs",
+        "members": [
+            {
+                "name": "Yaxiong Xie",
+                "affiliation": "University of Buffalo",
+                "image": "yaxiong_xie.jpeg",
+                "contact": "yaxiongx@buffalo.edu"
+            },
+            {
+                "name": "Ashwin Ashok",
+                "affiliation": "Georgia State University",
+                "image": "ashwin_ashok.png",
+                "contact": "aashok@gsu.edu"
+            }
+        ]
+    },
+    {
         "chairs": "Publicity Chairs",
         "members": [
             {
@@ -251,7 +268,7 @@
                 "name": "Anh Nguyen",
                 "affiliation": "University of Montana",
                 "image": "anh_guyen.jpg",
-                "contact": "nguyen.tran.lan.anh@gmail.com"
+                "contact": "anh.nguyen@umontana.edu"
             }
         ]
     },
