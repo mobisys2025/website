@@ -249,7 +249,10 @@ nav li a span {
 }
 
 nav li ul {
-  border-radius: 0.5em;
+  border-bottom-left-radius: 0.5em;
+  border-bottom-right-radius: 0.5em;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
   position: absolute;
   padding: 0;
   left: 50%;

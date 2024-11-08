@@ -1,0 +1,11 @@
+{{ $csv := .Get 0 }}
+{{ $resource := resources.Get $csv }}
+{{ $data := $resource | transform.Unmarshal }}
+
+<ul>
+  {{ range $data }}
+    <li>
+      <a href="{{ index . 2 }}" target="blank_"><strong>{{ index . 0 }}</strong></a> {{ index . 1 }}
+    </li>
+  {{ end }}
+</ul>

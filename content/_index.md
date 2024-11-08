@@ -24,8 +24,9 @@ The 23rd ACM International Conference on Mobile Systems, Applications, and Servi
 
 ## Announcements
 
-- Oct 28th, 2024 - **[Venue](./venue/) information is available** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
-- Oct 28th, 2024 - **Main conference dates are available** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
+- Nov 7th, 2024 - **[Technical Program Committee](./technical_program_committee/) is available**  {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
+- Oct 28th, 2024 - **[Venue](./venue/) information is available**
+- Oct 28th, 2024 - **Main conference dates are available**
 - Oct 5th, 2024 - **[PC Self Nomination](./pc_self_nomination/) is due**
 - Sep 24th, 2024 - **[Paper Submission](https://mobisys25.hotcrp.com) is open**
 - Sep 20th, 2024 - **[PC Self Nomination](./pc_self_nomination/) is open**
