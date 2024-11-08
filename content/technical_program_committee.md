@@ -2,10 +2,10 @@
 title: "Technical Program Committee"
 ---
 
-### Heavy Committee
+### Heavy Track Committee
 
 {{< tpc-to-list "heavy_tpc.csv" >}}
 
-### Light Committee
+### Light Track Committee
 
 {{< tpc-to-list "light_tpc.csv" >}}
