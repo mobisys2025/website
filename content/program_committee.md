@@ -1,5 +1,8 @@
 ---
-title: "Technical Program Committee"
+title: "Program Committee"
+aliases:
+- /program_committee
+- /technical_program_committee
 ---
 
 ### Heavy Track Committee

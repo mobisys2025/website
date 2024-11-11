@@ -44,8 +44,8 @@ enableRobotsTXT = true
     parent = "Committees"
     weight = 1
   [[menu.main]]
-    name = "Technical Program Committee"
-    url = "/technical_program_committee/"
+    name = "Program Committee"
+    url = "/program_committee/"
     parent = "Committees"
     weight = 2
   [[menu.main]]
