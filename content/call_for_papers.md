@@ -3,7 +3,7 @@ title: "Call For Papers"
 ---
 
 {{< rawhtml >}}
-<span class="button">
+<span class="button disabled">
   <a href="https://mobisys25.hotcrp.com" target="_blank">
   <span class="icon-file-text2"></span> Paper Submission</a>
 </span>

@@ -7,13 +7,12 @@ The 23rd ACM International Conference on Mobile Systems, Applications, and Servi
 
 **Location: Anaheim, California, US**
 
-{{< rawhtml >}}
+<!-- {{< rawhtml >}}
 <span class="button" style="margin: 0.5em 0 0 0">
   <a href="https://mobisys25.hotcrp.com" target="_blank">
-  <span class="icon-file-text2"></span> Paper Submission</a>
+  <span class="icon-file-text2"></span> Rebuttal Submission</a>
 </span>
-{{< /rawhtml >}}
-
+{{< /rawhtml >}} -->
 
 ## Important Dates
 
@@ -24,7 +23,8 @@ The 23rd ACM International Conference on Mobile Systems, Applications, and Servi
 
 ## Announcements
 
-- Dec 3rd, 2024 -- **Abstract Registration is due**  {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
+- Dec 10th, 2024 -- **[Paper Submission](https://mobisys25.hotcrp.com) is due**  {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
+- Dec 3rd, 2024 -- **Abstract Registration is due**
 - Nov 7th, 2024 - **[Program Committee](./program_committee/) is available**
 - Oct 28th, 2024 - **[Venue](./venue/) information is available**
 - Oct 28th, 2024 - **Main conference dates are available**
