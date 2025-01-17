@@ -29,6 +29,11 @@ enableRobotsTXT = true
     url = "/call_for_papers/"
     parent = "Author Info"
     weight = 1
+  [[menu.main]]
+    name = "Call For Workshops"
+    url = "/call_for_workshops/"
+    parent = "Author Info"
+    weight = 4
 #   [[menu.main]]
 #     name = "Transportation"
 #     url = "/transportation/"

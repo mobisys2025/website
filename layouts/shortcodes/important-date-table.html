@@ -5,7 +5,7 @@
 {{ $data := $resource | transform.Unmarshal (dict "delimiter" $separator) }}
 
 <div class="split">
-    <table>
+    <table style="width: 100%; table-layout: auto;">
         <tbody>
             {{ range $row := $data }}
             {{ $isDue := and (gt (len $row) 2) (eq (index $row 2) "due") }}
@@ -22,3 +22,15 @@
         </tbody>
     </table>
 </div>
+
+<style>
+.split table td {
+    white-space: nowrap;
+    padding-right: 1em;
+    min-width: 120px;
+}
+.split table td:last-child {
+    width: 100%;
+    white-space: normal;
+}
+</style>
