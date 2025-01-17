@@ -49,4 +49,4 @@ Please send your proposal in PDF format via email to the Workshops Co-Chairs Jil
 
 ## Workshops Chair
 
-If you have any questions do not hesitate to contact the workshop co-chairs: Jiliang Wang ([jiliangwang@tsinghua.edu.cn](mailto:jiliangwang@tsinghua.edu.cn)) and VP Nguyen [vp.nguyen@cs.umass.edu](mailto:vp.nguyen@cs.umass.edu).
+If you have any questions do not hesitate to contact the workshop co-chairs: Jiliang Wang ([jiliangwang@tsinghua.edu.cn](mailto:jiliangwang@tsinghua.edu.cn)) and VP Nguyen ([vp.nguyen@cs.umass.edu](mailto:vp.nguyen@cs.umass.edu)).
