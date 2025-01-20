@@ -3,7 +3,7 @@
 {{ $data := $resource | transform.Unmarshal }}
 
 {{ range $group := $data }}
-<h3>{{ $group.chairs }}</h3>
+<h3>{{ $group.chairs | safeHTML }}</h3>
 
 <table class="table table-striped table-bordered table-fixed">
     <tbody>

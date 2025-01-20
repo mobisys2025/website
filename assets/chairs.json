@@ -145,6 +145,58 @@
         ]
     },
     {
+        "chairs": "IoT Day Chairs",
+        "members": [
+            {
+                "name": "Wei Gao",
+                "affiliation": "University of Pittsburgh",
+                "image": "wei_gao.jpg",
+                "contact": "weigao@pitt.edu"
+            },
+            {
+                "name": "Luca Mottola",
+                "affiliation": "Politecnico di Milano",
+                "image": "luca_mottola.webp",
+                "contact": "luca.mottola@polimi.it"
+            }
+        ]
+    },
+    {
+        "chairs": "Rising Stars Forum Chairs",
+        "members": [
+            {
+                "name": "Shijia Pan",
+                "affiliation": "University of California, Merced",
+                "image": "shijia_pan.jpg",
+                "contact": "span24@ucmerced.edu"
+            },
+            {
+                "name": "Nirupam Roy",
+                "affiliation": "The University of Maryland",
+                "image": "nirupam_roy.jpg",
+                "contact": "niruroy@umd.edu"
+            }
+        ]
+    },
+    {
+        "chairs": "N<sup>2</sup>Women Chairs",
+        "members": [
+            {
+                "name": "Xiaomin Ouyang",
+                "affiliation": "Hong Kong University of Science and Technology",
+                "image": "xiaomin_ouyang.jpeg",
+                "contact": "xmouyang@cse.ust.hk"
+            },
+            {
+                "name": "Zerina Kapetanovic",
+                "affiliation": "Standford University",
+                "image": "zerina_kapetanovi.jpg",
+                "contact": "zerina@stanford.edu"
+            }
+        ]
+    },
+
+    {
         "chairs": "Finance Chairs",
         "members": [
             {
@@ -184,40 +236,6 @@
                 "image": "qing_wang.jpg",
                 "region": "Europe",
                 "contact": "qing.wang@tudelft.nl"
-            }
-        ]
-    },
-    {
-        "chairs": "IoT Day Chairs",
-        "members": [
-            {
-                "name": "Wei Gao",
-                "affiliation": "University of Pittsburgh",
-                "image": "wei_gao.jpg",
-                "contact": "weigao@pitt.edu"
-            },
-            {
-                "name": "Luca Mottola",
-                "affiliation": "Politecnico di Milano",
-                "image": "luca_mottola.webp",
-                "contact": "luca.mottola@polimi.it"
-            }
-        ]
-    },
-    {
-        "chairs": "Rising Stars Forum Chairs",
-        "members": [
-            {
-                "name": "Shijia Pan",
-                "affiliation": "University of California, Merced",
-                "image": "shijia_pan.jpg",
-                "contact": "span24@ucmerced.edu"
-            },
-            {
-                "name": "Nirupam Roy",
-                "affiliation": "The University of Maryland",
-                "image": "nirupam_roy.jpg",
-                "contact": "niruroy@umd.edu"
             }
         ]
     },

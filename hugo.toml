@@ -30,16 +30,6 @@ enableRobotsTXT = true
     parent = "Author Info"
     weight = 1
   [[menu.main]]
-    name = "Call For Workshops"
-    url = "/call_for_workshops/"
-    parent = "Author Info"
-    weight = 4
-#   [[menu.main]]
-#     name = "Transportation"
-#     url = "/transportation/"
-#     parent = "Author Info"
-#     weight = 2
-  [[menu.main]]
     name = "Committees"
     url = "#"
     weight = 4
@@ -59,6 +49,15 @@ enableRobotsTXT = true
     parent = "Committees"
     weight = 3
   [[menu.main]]
+    name = "Workshops"
+    url = "#"
+    weight = 5
+  [[menu.main]]
+    name = "Call For Workshops"
+    url = "/call_for_workshops/"
+    parent = "Workshops"
+    weight = 1
+  [[menu.main]]
     name = "Sponsorship"
     url = "/sponsorship/"
-    weight = 5
+    weight = 6
