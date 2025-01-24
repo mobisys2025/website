@@ -1,0 +1,4 @@
+{{- $path := . -}}
+{{- $file := readFile (printf "static/%s" .) -}}
+{{- $hash := sha256 $file | truncate 8 "" -}}
+{{- printf "%s?v=%s" $path $hash -}}

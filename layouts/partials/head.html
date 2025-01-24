@@ -9,8 +9,8 @@
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
 	<link rel="icon" href='/mobisys/2025/favicon.ico' />
-	<link rel="stylesheet" href='{{ relURL "css/normalize.css" }}' />
-	<link rel="stylesheet" href='{{ relURL "css/main.css" }}'>
-	<link rel="stylesheet" href='{{ relURL "css/icomoon/style.css" }}' />
-	<link rel="stylesheet" href='{{ relURL "css/style.css" }}' />
+	<link rel="stylesheet" href='{{ relURL (partial "cache-busting.html" "css/normalize.css") }}' />
+    <link rel="stylesheet" href='{{ relURL (partial "cache-busting.html" "css/main.css") }}' />
+    <link rel="stylesheet" href='{{ relURL (partial "cache-busting.html" "css/icomoon/style.css") }}' />
+    <link rel="stylesheet" href='{{ relURL (partial "cache-busting.html" "css/style.css") }}' />
 </head>
