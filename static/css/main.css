@@ -358,6 +358,10 @@ main {
   grid-area: content;
 }
 
+main h1, h2, h3, h4, h5 {
+  line-height: 1.3em;
+}
+
 main table {
   width: 100%;
   table-layout: fixed;
@@ -369,6 +373,47 @@ main td {
 
 main table th:empty {
   display: none;
+}
+
+@media screen and (max-width: 992px) {
+  main .table-responsive-profile tbody {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  main .table-responsive-profile tr {
+    display: contents;
+  }
+  
+  main .table-responsive-profile td {
+    display: block;
+    width: 100% !important;
+    text-align: center;
+  }
+
+  main .table-responsive-profile .member-group {
+    width: 100% !important;
+    margin-bottom: 2em;
+  }
+}
+
+main .no-indent ul {
+  margin-left: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+main .no-indent ul li {
+  position: relative;
+  padding-left: 1.5em;
+}
+
+main .no-indent ul li::before {
+  content: "•";
+  position: absolute;
+  left: 0.5em;
+  font-size: 1em; /* Ensures consistent marker size */
+  line-height: inherit; /* Maintains alignment with first line */
 }
 
 main .badge,

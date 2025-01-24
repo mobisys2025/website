@@ -4,8 +4,8 @@
 {{ $resource := resources.Get $csv }}
 {{ $data := $resource | transform.Unmarshal (dict "delimiter" $separator) }}
 
-<div class="split">
-    <table style="width: 100%; table-layout: auto;">
+<div class="resize">
+    <table>
         <tbody>
             {{ range $row := $data }}
             {{ $isDue := and (gt (len $row) 2) (eq (index $row 2) "due") }}
@@ -24,13 +24,36 @@
 </div>
 
 <style>
-.split table td {
+.resize table {
+    width: 100%;
+    table-layout: auto;
+}
+
+.resize table td {
     white-space: nowrap;
     padding-right: 1em;
     min-width: 120px;
 }
-.split table td:last-child {
+
+.resize table td:last-child {
     width: 100%;
     white-space: normal;
+}
+
+@media screen and (max-width: 640px) {
+    .resize table, .resize tbody, .resize tr, .resize td {
+        display: block;
+        width: 100%;
+    }
+    
+    .resize tr {
+        margin-bottom: 0.5em;
+        padding-bottom: 0em;
+    }
+    
+    .resize td {
+        white-space: normal;
+        padding: 0.2em 0;
+    }
 }
 </style>

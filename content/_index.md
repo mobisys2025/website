@@ -23,9 +23,13 @@ The 23rd ACM International Conference on Mobile Systems, Applications, and Servi
 
 ## Announcements
 
-- Jan 16th, 2025 -- **[Call for Workshops](./call_for_workshops/) is open** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
-- Dec 10th, 2024 -- **[Paper Submission](https://mobisys25.hotcrp.com) is due**
-- Dec 3rd, 2024 -- **Abstract Registration is due**
+{{< rawhtml >}}
+<div class="no-indent">
+{{< /rawhtml >}}
+
+- Jan 16th, 2025 - **[Call for Workshops](./call_for_workshops/) is open** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
+- Dec 10th, 2024 - **[Paper Submission](https://mobisys25.hotcrp.com) is due**
+- Dec 3rd, 2024 - **Abstract Registration is due**
 - Nov 7th, 2024 - **[Program Committee](./program_committee/) is available**
 - Oct 28th, 2024 - **[Venue](./venue/) information is available**
 - Oct 28th, 2024 - **Main conference dates are available**
@@ -35,3 +39,7 @@ The 23rd ACM International Conference on Mobile Systems, Applications, and Servi
 - Sep 20th, 2024 - **Important dates are available**
 - Sep 19th, 2024 - **[Call for Papers](./call_for_papers/) is updated**
 - Sep 18th, 2024 - **ACM MobiSys 2025 webpage goes live**
+
+{{< rawhtml >}}
+</div>
+{{< /rawhtml >}}
