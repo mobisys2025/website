@@ -27,7 +27,8 @@ The 23rd ACM International Conference on Mobile Systems, Applications, and Servi
 <div class="no-indent">
 {{< /rawhtml >}}
 
-- Jan 16th, 2025 - **[Call for Workshops](./call_for_workshops/) is open** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
+- Feb 11th, 2025 - **[Call for Posters](./call_for_posters/) is open** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
+- Jan 16th, 2025 - **[Call for Workshops](./call_for_workshops/) is open**
 - Dec 10th, 2024 - **[Paper Submission](https://mobisys25.hotcrp.com) is due**
 - Dec 3rd, 2024 - **Abstract Registration is due**
 - Nov 7th, 2024 - **[Program Committee](./program_committee/) is available**
