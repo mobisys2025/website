@@ -16,7 +16,7 @@ The selection of posters will be based on a short abstract, evaluated in terms o
 ## Poster Submission Guidelines
 
 - Poster submissions must include an extended abstract no longer than two 8.5x11-inch pages, including all figures and references.
-- The extended abstract should use the same LaTeX template as full ACM MobiSys 2024 papers; it should be formatted in two columns, single-spaced, and with a font no smaller than 10-point.
+- The extended abstract should use the same LaTeX template as full ACM MobiSys 2025 papers; it should be formatted in two columns, single-spaced, and with a font no smaller than 10-point.
 - The abstract title should begin with “Poster:”.
 - Please use the [LaTeX template ](https://www.overleaf.com/latex/templates/mobisys24-poster-template-authors/xbhhcpgqgdmt)
 - Easels will be provided at the conference for 3x4 feet posters (approximately 0.75x1.0 meters), and the posters should be sized appropriately. Specifically, posters should be of A0 size (841 x 1189 mm / 33.1 x 46.8 in).
