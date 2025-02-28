@@ -14,12 +14,12 @@
             <ul>
               {{ range .Children }}
                 <li>
-                  <a href="{{ .URL }}" class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">{{ .Name }}</a>
+                  <a href="{{ .URL }}" class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">{{ .Name | safeHTML }}</a>
                 </li>
               {{ end }}
             </ul>
           {{ else }}
-            <a href="{{ .URL }}">{{ .Name }}</a>
+            <a href="{{ .URL }}">{{ .Name | safeHTML }}</a>
           {{ end }}
         </li>
       {{ end }}

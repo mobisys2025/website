@@ -1,6 +1,6 @@
 {{ define "main" }}
 <container>
-<h1>{{ .Title }}</h1>
+<h1>{{ .Title | safeHTML }}</h1>
 {{ .Content }}
 </container>
 {{ end }}
