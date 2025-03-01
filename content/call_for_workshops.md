@@ -2,12 +2,11 @@
 title: "Call For Workshops"
 ---
 
-{{< rawhtml >}}
-<span class="button">
-  <a href="mailto:jiliangwang@tsinghua.edu.cn,vp.nguyen@cs.umass.edu">
-  <span class="icon-file-text2"></span> Workshop Submission</a>
-</span>
-{{< /rawhtml >}}
+{{< button
+    link="mailto:jiliangwang@tsinghua.edu.cn,vp.nguyen@cs.umass.edu"
+    icon="article"
+    text="Workshop Submission"
+>}}
 
 ACM MobiSys is a premier venue for researchers working in the area of mobile and wireless systems, middleware, services, and applications. We solicit workshop proposals for workshops to be held in conjunction with the conference in June 2025. Workshop papers will be included with the ACM MobiSys proceedings and published in the ACM Digital Library. The duration and format of the workshop are flexible to best adapt to the audience and workshop goal.
 

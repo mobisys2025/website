@@ -7,13 +7,6 @@ The 23rd ACM International Conference on Mobile Systems, Applications, and Servi
 
 **Location: Anaheim, California, US**
 
-<!-- {{< rawhtml >}}
-<span class="button" style="margin: 0.5em 0 0 0">
-  <a href="https://mobisys25.hotcrp.com" target="_blank">
-  <span class="icon-file-text2"></span> Rebuttal Submission</a>
-</span>
-{{< /rawhtml >}} -->
-
 ## Important Dates
 
 <!-- Modify the assets/index_important_dates.csv to modify the date -->

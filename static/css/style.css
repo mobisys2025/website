@@ -3,6 +3,7 @@
   /* Main colors */
   --color-primary: #0b4148;
   --color-secondary: #1f7162;
+  --color-hover: #2aa288;
   --color-background: #edf0f2;
   --color-dark-text: #222;
   --color-light-text: #fff;
@@ -29,17 +30,14 @@
   --color-footer-text: var(--color-light-text);
 
   /* Other colors */
-  --color-border: #bbb;
+  --color-border: #dde2e1;
   --color-button: var(--color-secondary);
   --color-button-text: var(--color-light-text);
 }
 
 body {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: var(--color-text);
   background-color: var(--color-background);
-  font-weight: 400;
-  text-align: justify;
 }
 
 hr {
@@ -129,7 +127,6 @@ p a {
 .button {
   background-color: var(--color-button);
   color: var(--color-button-text);
-  font-weight: 400;
 }
 
 .disabled {

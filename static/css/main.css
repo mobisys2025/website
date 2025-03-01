@@ -1,9 +1,3 @@
-/*
-	~~Dynamic~~ Constants
-*/
-/*
-	Structure
-*/
 html,
 body {
   height: 100%;
@@ -12,7 +6,7 @@ body {
 }
 
 body {
-  font-family: sans-serif;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   min-height: 100%;
   display: grid;
   grid-template-columns: auto;
@@ -21,6 +15,15 @@ body {
   grid-template-areas: "header" "nav" "content" "sponsors" "footer";
   font-size: 16px;
   line-height: 1.65em;
+  font-weight: 400;
+  text-align: justify;
+}
+
+container {
+  max-width: 1120px;
+  margin: 0 auto;
+  display: block;
+  padding: 1em 2em;
 }
 
 @media only screen and (max-width: 600px) {
@@ -29,13 +32,6 @@ body {
     word-break: normal;
     hyphens: auto;
   }
-}
-
-container {
-  max-width: 1120px;
-  margin: 0 auto;
-  display: block;
-  padding: 1em 2em;
 }
 
 a {
@@ -49,37 +45,10 @@ a {
   nav label:hover {
     opacity: 0.5;
   }
+
   a:hover {
     opacity: 0.5;
   }
-}
-
-/*
-	IcoMoon
-*/
-.icomoon .icon {
-  font-family: "icomoon" !important;
-  speak: never;
-  font-style: normal;
-  font-weight: normal;
-  font-variant: normal;
-  text-transform: none;
-  line-height: 1;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  display: none;
-}
-
-.fontface.generatedcontent .icomoon .icon {
-  display: inline-block;
-}
-
-.fontface.generatedcontent .icomoon .text {
-  clip: rect(0 0 0 0);
-  overflow: hidden;
-  position: absolute;
-  height: 1px;
-  width: 1px;
 }
 
 /*
@@ -100,11 +69,8 @@ header {
     background-image: url("/mobisys/2025/images/header_background.jpg");
     background-size: 100% auto;
     width: 100%;
-    /* Adjust background size to fit the width */
     padding-top: 5em;
-    /* Reduce top padding for mobile view */
     padding-bottom: 5em;
-    /* Reduce bottom padding for mobile view */
   }
 }
 
@@ -161,12 +127,12 @@ header .countdown * {
   vertical-align: middle;
 }
 
-header .icomoon {
+header .logo {
   line-height: 1.5em;
   margin-bottom: 0em;
 }
 
-header .icomoon * {
+header .logo * {
   vertical-align: baseline;
 }
 
@@ -176,6 +142,13 @@ header .acm {
   font-weight: 700;
   font-size: 1.3em;
   letter-spacing: -0.05em;
+}
+
+header .logo img {
+  color: inherit;
+  filter: brightness(0) invert(1);
+  height: 1.3em;
+  line-height: 0em;
 }
 
 /*
@@ -358,7 +331,11 @@ main {
   grid-area: content;
 }
 
-main h1, h2, h3, h4, h5 {
+main h1,
+h2,
+h3,
+h4,
+h5 {
   line-height: 1.3em;
 }
 
@@ -380,11 +357,11 @@ main table th:empty {
     display: flex;
     flex-wrap: wrap;
   }
-  
+
   main .table-responsive-profile tr {
     display: contents;
   }
-  
+
   main .table-responsive-profile td {
     display: block;
     width: 100% !important;
@@ -417,10 +394,9 @@ main .no-indent ul li::before {
 }
 
 main .badge,
-main .button,
 main .best-paper {
-  padding: 2px 5px;
-  border-radius: 5px;
+  padding: 0px 6px;
+  border-radius: 10px;
   display: inline-block;
   margin: 0;
 }
@@ -787,4 +763,35 @@ footer copyright {
   width: 100%;
   height: 30em;
   border: 0;
+}
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 8px;
+  text-decoration: none;
+  border-radius: 4px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+.button-icon {
+  margin-right: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.button-text {
+  flex-grow: 1;
+}
+
+.button-arrow {
+  margin-left: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.button-arrow svg {
+  width: 16px;
+  height: 16px;
 }
