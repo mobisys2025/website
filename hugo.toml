@@ -6,38 +6,62 @@ enableRobotsTXT = true
 # Disable categories and tags
 [Taxonomies]
 
+# Menu
 [menu]
   [[menu.main]]
     name = "Home"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Attendee Info"
+    name = "Calls"
     url = "#"
     weight = 2
   [[menu.main]]
-    name = "Venue"
-    url = "/venue/"
-    parent = "Attendee Info"
-    weight = 1
-  [[menu.main]]
-    name = "Author Info"
-    url = "#"
-    weight = 3
-  [[menu.main]]
     name = "Call For Papers"
     url = "/call_for_papers/"
-    parent = "Author Info"
+    parent = "Calls"
     weight = 1
   [[menu.main]]
     name = "Call For Posters"
     url = "/call_for_posters/"
-    parent = "Author Info"
+    parent = "Calls"
     weight = 2
+  [[menu.main]]
+    name = "Call For Workshops"
+    url = "/call_for_workshops/"
+    parent = "Calls"
+    weight = 3
+  [[menu.main]]
+    name = "Call For N<sup>2</sup>Women"
+    url = "/n2women/"
+    parent = "Calls"
+    weight = 4
+  [[menu.main]]
+    name = "Accepted"
+    url = "#"
+    weight = 3
+  [[menu.main]]
+    name = "Accepted Workshops"
+    url = "/accepted_workshops/"
+    parent = "Accepted"
+    weight = 1
+  # [[menu.main]]
+  #   name = "Program"
+  #   url = "#"
+  #   weight = 4
+  [[menu.main]]
+    name = "Attending"
+    url = "#"
+    weight = 5
+  [[menu.main]]
+    name = "Venue"
+    url = "/venue/"
+    parent = "Attending"
+    weight = 1
   [[menu.main]]
     name = "Committees"
     url = "#"
-    weight = 4
+    weight = 6
   [[menu.main]]
     name = "Organizing Committee"
     url = "/organizing_committee/"
@@ -54,19 +78,6 @@ enableRobotsTXT = true
     parent = "Committees"
     weight = 3
   [[menu.main]]
-    name = "N<sup>2</sup>Women"
-    url = "/n2women/"
-    weight = 4
-  [[menu.main]]
-    name = "Workshops"
-    url = "#"
-    weight = 5
-  [[menu.main]]
-    name = "Call For Workshops"
-    url = "/call_for_workshops/"
-    parent = "Workshops"
-    weight = 1
-  [[menu.main]]
     name = "Sponsorship"
     url = "/sponsorship/"
-    weight = 6
+    weight = 7
