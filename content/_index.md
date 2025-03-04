@@ -20,7 +20,8 @@ The 23rd ACM International Conference on Mobile Systems, Applications, and Servi
 <div class="no-indent">
 {{< /rawhtml >}}
 
-- Mar 3rd, 2025 - **[Accepted Workshops](./accepted_workshops/) are available** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
+- Mar 4th, 2025 - **[Call for Demos](./call_for_demos/) is open** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
+- Mar 3rd, 2025 - **[Accepted Workshops](./accepted_workshops/) are available**
 - Feb 28th, 2025 - {{<rawhtml>}}<a href="./n2women/">N<sup>2</sup>Women Workshop</a>{{</rawhtml>}} **is open**
 - Feb 11th, 2025 - **[Call for Posters](./call_for_posters/) is open**
 - Jan 16th, 2025 - **[Call for Workshops](./call_for_workshops/) is open**

@@ -37,6 +37,11 @@ enableRobotsTXT = true
     parent = "Calls"
     weight = 4
   [[menu.main]]
+    name = "Call For Demos"
+    url = "/call_for_demos/"
+    parent = "Calls"
+    weight = 5
+  [[menu.main]]
     name = "Accepted"
     url = "#"
     weight = 3
