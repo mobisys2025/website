@@ -32,15 +32,20 @@ enableRobotsTXT = true
     parent = "Calls"
     weight = 3
   [[menu.main]]
-    name = "Call For N<sup>2</sup>Women"
-    url = "/n2women/"
-    parent = "Calls"
-    weight = 4
-  [[menu.main]]
     name = "Call For Demos"
     url = "/call_for_demos/"
     parent = "Calls"
+    weight = 4
+  [[menu.main]]
+    name = "N<sup>2</sup>Women"
+    url = "/n2women/"
+    parent = "Calls"
     weight = 5
+  [[menu.main]]
+    name = "Rising Stars Forum"
+    url = "/rising_stars/"
+    parent = "Calls"
+    weight = 6
   [[menu.main]]
     name = "Accepted"
     url = "#"

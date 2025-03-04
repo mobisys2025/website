@@ -2,12 +2,11 @@
 title: "Call For Demos"
 ---
 
-{{< rawhtml >}}
-<span class="button">
-  <a href="https://mobisys25demos.hotcrp.com" target="_blank">
-  <span class="icon-file-text2"></span> Demo Submission</a>
-</span>
-{{< /rawhtml >}}
+{{< button
+    link="https://mobisys25demos.hotcrp.com" 
+    icon="article"
+    text="Demo Submission" 
+>}}
 
 MobiSys 2025 invites proposals for live demonstrations of mobile systems, applications, and services. Both research prototypes and commercial products are welcome; however, MobiSys is not suitable for marketing or sales presentations. Presenters should possess a thorough understanding of the system being demonstrated and be able to articulate its technical contributions to the audience. Unlike posters, demonstrations of previously published systems are welcome. Demos will be selected based on their anticipated interest to the MobiSys audience.
 
