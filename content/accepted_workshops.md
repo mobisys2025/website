@@ -29,6 +29,10 @@ Workshop Chairs:
 
 **Eleventh Workshop on Micro Aerial Vehicle Networks, Systems, and Applications.**
 
+Website: https://sites.google.com/view/dronet2025/
+
+Submission: https://dronet25.hotcrp.com
+
 Workshop Chairs:
 - Aymen Fakhreddine - University of Klagenfurt, Austria
 - Anh Nguyen - University of Montana
