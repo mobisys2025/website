@@ -71,3 +71,23 @@ footer .footer-content {
   padding: 1.5em 0;
   color: colors.$color-gray-700;
 }
+
+footer .copyright {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+@media only screen and (max-width: 576px) {
+  footer .footer-content {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+  }
+
+  footer .copyright {
+    align-items: center;
+  }
+}
