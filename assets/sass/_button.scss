@@ -27,3 +27,8 @@
   align-items: center;
 }
 
+.button-disabled {
+  cursor: not-allowed;
+  border: 1px solid colors.$color-gray-400;
+  text-decoration-line: line-through;
+}

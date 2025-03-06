@@ -32,7 +32,6 @@ enableRobotsTXT = true
     parent = "Calls"
     weight = 3
   [[menu.main]]
-<<<<<<< HEAD
     name = "Call For Demos"
     url = "/call_for_demos/"
     parent = "Calls"
@@ -56,16 +55,6 @@ enableRobotsTXT = true
     url = "/accepted_workshops/"
     parent = "Accepted"
     weight = 1
-=======
-    name = "Call For N<sup>2</sup>Women"
-    url = "/n2women/"
-    parent = "Calls"
-    weight = 4
-  # [[menu.main]]
-  #   name = "Accepted"
-  #   url = "#"
-  #   weight = 3
->>>>>>> rebrand
   # [[menu.main]]
   #   name = "Program"
   #   url = "#"

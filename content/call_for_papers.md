@@ -2,12 +2,12 @@
 title: "Call For Papers"
 ---
 
-{{< rawhtml >}}
-<span class="button disabled">
-  <a href="https://mobisys25.hotcrp.com" target="_blank">
-  <span class="icon-file-text2"></span> Paper Submission</a>
-</span>
-{{< /rawhtml >}}
+{{< button
+    link="https://mobisys25.hotcrp.com" 
+    icon="article"
+    text="Paper Submission" 
+    disabled=true
+>}}
 
 ACM MobiSys conference series, started in 2003, is a premier forum to present innovative and significant research on all aspects of mobile computing, mobile applications, and mobile services. ACM MobiSys values high-impact technical contributions with working, **replicable** implementations and practical evaluations of modern mobile systems.
 
