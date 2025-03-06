@@ -1,3 +1,5 @@
+{{ $currentPage := . }}
+
 <footer>
   <div class="container">
     <div class="footer-sponsor">
@@ -32,8 +34,13 @@
     <div class="footer-content">
       <div class="copyright">
         <span>&copy; 2025 ACM</span>
-        <span>Header &copy;&nbsp;<a href="https://commons.wikimedia.org/wiki/File:Sleeping_Beauty_Castle_(28926763390).jpg"
-          target="_blank">Wikimedia</a>,&nbsp &copy; Simple Line, lovelyday12 - stock.adobe.com</span>
+        <span>Header &copy;&nbsp;
+          {{if $currentPage.IsHome}}<a href="https://commons.wikimedia.org/wiki/File:Sleeping_Beauty_Castle_(28926763390).jpg"
+          target="_blank">Wikimedia</a>
+          {{else}}
+          Simple Line - stock.adobe.com
+          {{end}}
+        </span>
       </div>
       <div class="flex flex-column justify-around items-center gap-4">
         <a href="https://github.com/mobisys2025/website-feedback/issues" target="_blank"><i
