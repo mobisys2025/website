@@ -1,0 +1,196 @@
+@use "colors";
+
+// Adapted from JMenu: https://github.com/jamesjohnson280/JMenu
+nav {
+  width: 100%;
+  color: colors.$color-green-900;
+  background-color: #ffffff;
+  font-weight: 500;
+}
+
+.fixed {
+  position: fixed;
+  width: inherit;
+  z-index: 100;
+}
+
+nav .container {
+  padding: 0 2em;
+  position: relative;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav .navbar-nav {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav .navbar-title {
+  display: flex;
+  margin: 0;
+  font-style: italic;
+  font-weight: 700;
+}
+
+nav .nav-item {
+  margin: 0;
+  list-style: none;
+  display: inline-block;
+  position: relative;
+  border-top: 1em solid transparent;
+  border-bottom: 1em solid transparent;
+}
+
+nav .nav-item a {
+  display: inline-block;
+  padding: 0.5em;
+  border-color: colors.$light-text-color;
+}
+
+nav .nav-item a span {
+  border: solid transparent;
+  border-width: 0 2px 2px 0;
+  display: inline-flex;
+  margin: 0 0 3px 3px;
+  padding: 0.2em;
+  transform: rotate(45deg);
+  border-color: colors.$color-green-900 !important;
+}
+
+nav .dropdown-menu {
+  border-bottom-left-radius: 0.5em;
+  border-bottom-right-radius: 0.5em;
+  position: absolute;
+  padding: 0;
+  margin-top: 1em;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 200;
+  display: none;
+  background-color: rgba(255, 255, 255, 0.95);
+  color: colors.$color-green-900;
+}
+
+nav .nav-item:hover .dropdown-menu {
+  display: flex;
+  flex-direction: column;
+}
+
+nav .nav-item:hover .nav-item a {
+  opacity: 0.8;
+}
+
+nav .dropdown-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 15em;
+}
+
+nav .dropdown-item a {
+  padding: 1em 2em;
+  color: colors.$color-green-900;
+}
+
+nav .dropdown-item a:hover {
+  opacity: 0.6;
+}
+
+nav label:before {
+  content: "\2630";
+  font-size: 3em;
+}
+
+nav label,
+nav input[type="checkbox"] {
+  color: #ffffff;
+  display: none;
+}
+
+nav input[type="checkbox"]:checked ~ ul:first-of-type {
+  display: block;
+}
+
+/* Mobile screens */
+@media only screen and (max-width: 960px) {
+  nav .container {
+    padding: 0;
+    position: fixed;
+    top: 0;
+    right: 0;
+    flex-direction: column;
+    justify-content: end;
+    align-items: end;
+  }
+
+  nav .navbar-nav {
+    height: 100%;
+    position: relative;
+  }
+
+  nav.active .container {
+    bottom: 0;
+    width: 15em;
+    text-align: right;
+    opacity: 0.99;
+    overflow: scroll;
+    background-color: colors.$color-green-900;
+  }
+
+  nav .navbar-title {
+    display: none;
+  }
+
+  nav .nav-item a span {
+    border-color: colors.$light-text-color !important;
+  }
+
+  nav .nav-item a {
+    padding: 1em 1.5em;
+    color: colors.$light-text-color;
+  }
+
+  nav .nav-item {
+    display: block;
+    border: none;
+  }
+
+  nav .nav-item:hover .dropdown-menu {
+    display: none;
+  }
+
+  nav .nav-item a {
+    white-space: normal;
+  }
+
+  nav .dropdown-menu {
+    border-radius: 0;
+    position: relative;
+  }
+
+  nav .dropdown-item {
+    justify-content: flex-end;
+  }
+
+  nav .dropdown-item a {
+    padding: 1em 1.5em;
+    border-bottom: 1px solid transparent;
+    color: colors.$color-green-900;
+  }
+
+  nav .navbar-nav .active {
+    display: block !important;
+  }
+
+  nav label {
+    display: block;
+    padding: 1em 1.5em;
+  }
+
+  nav input[type="checkbox"] ~ ul:first-of-type {
+    display: none;
+  }
+}

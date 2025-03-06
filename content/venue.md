@@ -3,7 +3,7 @@ title: "Venue"
 ---
 
 {{< rawhtml >}}
-<h2 id="main-conference"><span class="icon-slideshare"></span> Main Conference</h2>
+<h2 id="main-conference"><i class="bi bi-buildings-fill"></i> Main Conference</h2>
 {{< /rawhtml >}}
 
 ### Hilton Anaheim

@@ -1,0 +1,108 @@
+@use "colors";
+
+.index-background {
+  background-image: url("/mobisys/2025/images/header_background.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 8em 0;
+}
+
+.subpage-background {
+  background-image: url("/mobisys/2025/images/sky.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 4em 0;
+}
+
+header .container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding: 0 2em;
+  text-shadow: 0 0 15px #fff;
+}
+
+header .banner {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+header .tag {
+  display: inline-block;
+  background: rgba($color: #FFFFFF, $alpha: 0.3);
+  padding: 0.5em 1em;
+  border-radius: 10em;
+}
+
+header .title {
+  margin-bottom: 0em;
+  line-height: 1em;
+  font-size: 3em;
+}
+
+header .acm {
+  font-style: italic;
+  font-weight: 700;
+  font-size: 1.3em;
+  letter-spacing: -0.05em;
+}
+
+header .subtitle {
+  margin-bottom: 0;
+}
+
+header .drawing {
+  min-width: 430px;
+  width: 430px;
+}
+
+header a,
+header h1,
+header h3 {
+  color: colors.$dark-text-color;
+}
+
+header h1 {
+  font-weight: 900;
+}
+
+header h2 {
+  font-weight: 600;
+}
+
+header h3 {
+  font-weight: 700;
+  font-size: 1.3em;
+}
+
+header h4 {
+  font-weight: 900;
+}
+
+
+@media only screen and (max-width: 960px) {
+  .subpage-background {
+    padding: 1em 0;
+  }
+
+  header .container {
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+
+  }
+
+  header .banner {
+    align-items: center;
+    text-align: center;
+  }
+
+  header .drawing {
+    padding-top: 1em;
+    min-width: 0;
+    max-width: 100%;
+  }
+}

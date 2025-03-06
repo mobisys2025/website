@@ -1,0 +1,29 @@
+@use "colors";
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75em 0.75em;
+  margin: 0.5em 0;
+  border: 1px solid colors.$color-green-700;
+  border-radius: 4px;
+  font-weight: 700;
+  transition: all 0.3s ease;
+}
+
+.button-icon {
+  margin-right: 8px;
+  align-items: center;
+}
+
+.button-text {
+  flex-grow: 1;
+}
+
+.button-arrow {
+  margin-left: 8px;
+  display: flex;
+  align-items: center;
+}
+

@@ -1,0 +1,172 @@
+@use "colors";
+
+main {
+  background-color: colors.$background-color;
+}
+
+main .container {
+  display: block;
+  // flex-direction: column;
+}
+
+main h1,
+h2,
+h3,
+h4,
+h5 {
+  line-height: 1.3em;
+  color: colors.$color-green-900;
+}
+
+main table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+main td {
+  border: none;
+}
+
+main table th:empty {
+  display: none;
+}
+
+@media screen and (max-width: 992px) {
+  main .table-responsive-profile tbody {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  main .table-responsive-profile tr {
+    display: contents;
+  }
+
+  main .table-responsive-profile td {
+    display: block;
+    width: 100% !important;
+    text-align: center;
+  }
+
+  main .table-responsive-profile .member-group {
+    width: 100% !important;
+    margin-bottom: 2em;
+  }
+}
+
+main .no-indent ul {
+  margin-left: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+main .no-indent ul li {
+  position: relative;
+  padding-left: 1.5em;
+}
+
+main .no-indent ul li::before {
+  content: "•";
+  position: absolute;
+  left: 0.5em;
+  font-size: 1em; /* Ensures consistent marker size */
+  line-height: inherit; /* Maintains alignment with first line */
+}
+
+main .badge,
+main .best-paper {
+  padding: 0px 6px;
+  border-radius: 10px;
+  background-color: colors.$color-green-900;
+  color: colors.$light-text-color;
+  display: inline-block;
+  margin: 0;
+}
+
+main .new h2:before,
+main .best-paper:before {
+  content: "New!";
+  border: 1px solid transparent;
+  padding: 5px;
+  border-radius: 5px;
+  text-align: center;
+  margin-right: 1em;
+  line-height: 1em;
+  font-weight: normal;
+  font-size: 0.75em;
+}
+
+main .teaser {
+  margin-right: 1em;
+  line-height: 0.75em;
+  font-weight: normal;
+  font-size: 0.75em;
+  display: inline-block;
+}
+
+main .paper span {
+  font-size: 23px;
+}
+
+main .paper {
+  margin-right: 1em;
+  line-height: 0.75em;
+  font-weight: normal;
+  font-size: 0.75em;
+  display: inline-block;
+}
+
+main .topic-preview {
+  font-size: 1em;
+  display: inline;
+  padding: 0;
+  margin: 0;
+}
+
+main .teaser * {
+  vertical-align: middle;
+}
+
+main .teaser img {
+  width: 2em;
+  height: 2em;
+  margin-right: 0.25em;
+}
+
+main .paper * {
+  vertical-align: middle;
+}
+
+body .profile > img {
+  height: 100%;
+  width: unset;
+  max-width: unset;
+  min-height: 15em;
+  max-height: 15em;
+  display: inline-block;
+}
+
+main a {
+  font-weight: 500;
+  color: colors.$color-green-700;
+  word-wrap: break-word;
+}
+
+main code {
+  word-wrap: break-word;
+}
+
+tr.due {
+  text-decoration: line-through;
+  color: #888888;
+}
+
+tr.due strong {
+  text-decoration: line-through;
+}
+
+span.new,
+div.new *,
+div.new h2:before {
+  color: colors.$waring-color;
+  border-color: colors.$waring-color;
+}

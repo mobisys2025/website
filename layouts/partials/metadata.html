@@ -3,14 +3,12 @@
 
 <time>{{ .PublishDate.Format $dateFormat }}</time>
 
-
 {{ with .Params.tags }}
 {{ range . }}
 {{ $href1 := print (absURL "tags/") (urlize .) }}
 <a href="{{ $href1 }}">{{ . }}</a>
 {{ end }}
 {{ end }}
-
 
 {{ with .Params.categories }}
 {{ range . }}

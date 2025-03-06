@@ -1,0 +1,22 @@
+$spacing: (
+  0: 0,
+  1: 0.25rem,
+  2: 0.5rem,
+  3: 0.75rem,
+  4: 1rem
+);
+
+// Padding utilities
+@each $key, $value in $spacing {
+  .p-#{$key} { padding: $value; }
+}
+
+// Margin utilities
+@each $key, $value in $spacing {
+  .m-#{$key} { margin: $value; }
+}
+
+// Gap utilities
+@each $key, $value in $spacing {
+  .gap-#{$key} { gap: $value; }
+}

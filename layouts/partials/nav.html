@@ -1,20 +1,21 @@
+{{ $currentPage := . }}
 <nav>
-  <container style="max-width: 1120x">
+  <div class="container">
     <input type="checkbox" id="hamburger" />
     <label for="hamburger"></label>
-    <ul>
-      {{ $currentPage := . }}
+    <p class="navbar-title">ACM MobiSys 2025</p>
+    <ul class="navbar-nav">
       {{ range .Site.Menus.main }}
-        <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+        <li class="nav-item">
           {{ if .HasChildren }}
-            <a href="{{ .URL }}" class="{{ if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}active{{ end }}">
+            <a href="{{ .URL }}">
               {{ .Name }}
               <span></span>
             </a>
-            <ul>
+            <ul class="dropdown-menu">
               {{ range .Children }}
-                <li>
-                  <a href="{{ .URL }}" class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">{{ .Name | safeHTML }}</a>
+                <li class="dropdown-item">
+                  <a href="{{ .URL }}">{{ .Name | safeHTML }}</a>
                 </li>
               {{ end }}
             </ul>
@@ -24,5 +25,5 @@
         </li>
       {{ end }}
     </ul>
-  </container>
+  </div>
 </nav>

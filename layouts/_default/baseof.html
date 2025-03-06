@@ -1,14 +1,15 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
-    {{- partial "head.html" . -}}
-    <body>
-        {{- partial "header.html" . -}}
-        {{- partial "nav.html" . -}}
-        <main>
+{{- partial "head.html" . -}}
+<body>
+    {{- partial "nav.html" . -}}
+    {{- partial "header.html" . -}}
+    <main>
         {{- block "main" . }}{{- end }}
-        </main>
-        {{- partial "sponsors.html" . -}}
-        {{- partial "footer.html" . -}}
-        {{- partial "script.html" . -}}
-    </body>
+    </main>
+    {{- partial "sponsors.html" . -}}
+    {{- partial "footer.html" . -}}
+    {{- partial "script.html" . -}}
+</body>
+
 </html>

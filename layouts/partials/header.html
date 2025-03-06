@@ -1,20 +1,37 @@
-<header style="margin-bottom: 0px;">
-    <container style="background-color: rgba(74, 89, 104, 0.418); background-clip: content-box; padding: 1em 0">
-        <h1 class="logo">
-            <span class="acm">ACM</span>
-            <span class="icon-mobisys2025"></span>
-        </h1>
-        <h2>The 23rd ACM International Conference on Mobile Systems, Applications, and Services</h2>
-        <h3>
-            <span class="date">June 23 - June 27, 2025</span>
-            <span class="bullet-point"> • </span>
-            <span class="location">Anaheim, California, US</span>
-        </h3>
-        <style>
-            @media (max-width: 768px) {
-                .bullet-point { display: none; }
-                .date, .location { display: block; }
-            }
-        </style>
-    </container>
+{{ $currentPage := . }}
+
+<header class="{{if $currentPage.IsHome}}index-background{{else}}subpage-background{{end}}">
+    <div class="container">
+        <div class="banner">
+            <div class="tag">
+                <span class="date">June 23 - 27, 2025</span>
+                <span class="bullet-point"> • </span>
+                <span class="location">Anaheim, California, US</span>
+            </div>
+            <h1 class="title">
+                <span class="acm">ACM</span>
+                <span class="icon-mobisys2025"></span>
+            </h1>
+            <h3 class="subtitle">The 23rd ACM International Conference on Mobile Systems, Applications, and Services
+            </h3>
+            {{/*
+            <style>
+                @media (max-width: 768px) {
+                    .bullet-point {
+                        display: none;
+                    }
+
+                    .date,
+                    .location {
+                        display: block;
+                    }
+                }
+            </style>  */}}
+        </div>
+        <div class="drawing">
+            {{if not $currentPage.IsHome}}
+            <img src='{{ relURL "images/anaheim.svg" }}' role="img" alt="MobiSys 2025" />
+            {{end}}
+        </div>
+    </div>
 </header>
