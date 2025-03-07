@@ -41,6 +41,8 @@ Workshop Chairs:
 
 **The 1st ACM International Workshop on Exploring Sensing, Computing, and Communication Systems with Quantum**
 
+Website:  http://wsslab.org/workshops/qsys25/
+
 Workshop Chairs:
 - VP Nguyen - University of Massachusetts Amherst
 - Nirupam Roy - University of Maryland College Park
