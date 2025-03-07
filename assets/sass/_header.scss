@@ -8,7 +8,7 @@
 }
 
 .subpage-background {
-  background-image: url("/mobisys/2025/images/sky.jpg");
+  background-image: url("/mobisys/2025/images/header_background_2.jpg");
   background-size: cover;
   background-position: top;
   padding: 4em 0;
@@ -32,7 +32,7 @@ header .banner {
 
 header .tag {
   display: inline-block;
-  background: rgba($color: #FFFFFF, $alpha: 0.3);
+  background: rgba($color: #ffffff, $alpha: 0.3);
   padding: 0.5em 1em;
   border-radius: 10em;
 }
@@ -82,7 +82,6 @@ header h4 {
   font-weight: 900;
 }
 
-
 @media only screen and (max-width: 960px) {
   .subpage-background {
     padding: 1em 0;
@@ -92,7 +91,6 @@ header h4 {
     flex-direction: column;
     align-items: center;
     justify-items: center;
-
   }
 
   header .banner {
@@ -104,5 +102,14 @@ header h4 {
     padding-top: 1em;
     min-width: 0;
     max-width: 100%;
+  }
+
+  .bullet-point {
+    display: none;
+  }
+
+  .date,
+  .location {
+    display: block;
   }
 }

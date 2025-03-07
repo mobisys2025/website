@@ -3,30 +3,26 @@
 <header class="{{if $currentPage.IsHome}}index-background{{else}}subpage-background{{end}}">
     <div class="container">
         <div class="banner">
+            {{if $currentPage.IsHome}}
             <div class="tag">
                 <span class="date">June 23 - 27, 2025</span>
                 <span class="bullet-point"> • </span>
                 <span class="location">Anaheim, California, US</span>
             </div>
+            {{end}}
             <h1 class="title">
                 <span class="acm">ACM</span>
                 <span class="icon-mobisys2025"></span>
             </h1>
-            <h3 class="subtitle">The 23rd ACM International Conference on Mobile Systems, Applications, and Services
+            <h3 class="subtitle">
+                {{if $currentPage.IsHome}}
+                The 23rd ACM International Conference on Mobile Systems, Applications, and Services
+                {{else}}
+                <span class="date">June 23 - 27, 2025</span>
+                <span class="bullet-point"> • </span>
+                <span class="location">Anaheim, California, US</span>
+                {{end}}
             </h3>
-            {{/*
-            <style>
-                @media (max-width: 768px) {
-                    .bullet-point {
-                        display: none;
-                    }
-
-                    .date,
-                    .location {
-                        display: block;
-                    }
-                }
-            </style>  */}}
         </div>
         <div class="drawing">
             {{if not $currentPage.IsHome}}
