@@ -1,20 +1,27 @@
 {{ $csv := .Get 0 }}
 {{ $separator := .Get 1 | default "," }}
-
 {{ $resource := resources.Get $csv }}
 {{ $data := $resource | transform.Unmarshal (dict "delimiter" $separator) }}
+{{ $flag := true }}
 
 <div class="resize">
     <table>
         <tbody>
             {{ range $row := $data }}
             {{ $isDue := and (gt (len $row) 2) (eq (index $row 2) "due") }}
-            <tr{{ if $isDue }} class="due"{{ end }}>
+            {{ if and $isDue $flag }}
+            <tr>
+                <td class="collapse-trigger"><strong>Overdue</strong></td>
+                <td></td>
+            </tr>
+                {{ $flag = false }}
+            {{ end }}
+            <tr{{ if $isDue }} class="due" style="display: none;" {{ end }}>
                 {{ range $index, $cell := $row }}
                 {{ if eq $index 0 }}
-                    <td><strong>{{ . }}</strong></td>
+                    <td><strong>{{ . | safeHTML }}</strong></td>
                 {{ else if ne $index 2 }}
-                    <td>{{ . }}</td>
+                    <td>{{ . | safeHTML }}</td>
                 {{ end }}
                 {{ end }}
             </tr>
@@ -40,6 +47,23 @@
     white-space: normal;
 }
 
+.collapse-trigger {
+    cursor: pointer;
+    position: relative;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
+.collapse-trigger::after {
+    content: "+";
+    padding-left: 4px;
+}
+
+.collapse-trigger.active::after {
+    content: "−";
+}
+
 @media screen and (max-width: 640px) {
     .resize table, .resize tbody, .resize tr, .resize td {
         display: block;
@@ -57,3 +81,18 @@
     }
 }
 </style>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const triggers = document.querySelectorAll('.collapse-trigger');
+        triggers.forEach(trigger => {
+            trigger.addEventListener('click', function() {
+                // Toggle active class on the trigger
+                this.classList.toggle('active');
+                document.querySelectorAll('.due').forEach(due => {
+                    due.style.display = due.style.display === 'none' ? 'table-row' : 'none';
+                });
+            });
+        });
+    });
+</script>
