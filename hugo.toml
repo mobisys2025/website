@@ -37,15 +37,20 @@ enableRobotsTXT = true
     parent = "Calls"
     weight = 4
   [[menu.main]]
+    name = "Artifact Evaluation"
+    url = "/artifact_evaluation/"
+    parent = "Calls"
+    weight = 5
+  [[menu.main]]
     name = "N<sup>2</sup>Women"
     url = "/n2women/"
     parent = "Calls"
-    weight = 5
+    weight = 6
   [[menu.main]]
     name = "Rising Stars Forum"
     url = "/rising_stars/"
     parent = "Calls"
-    weight = 6
+    weight = 7
   [[menu.main]]
     name = "Accepted"
     url = "#"
