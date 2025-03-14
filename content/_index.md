@@ -9,10 +9,7 @@ The 23rd ACM International Conference on Mobile Systems, Applications, and Servi
 
 ## Important Dates
 
-<!-- Modify the assets/index_important_dates.csv to modify the date -->
 {{< important-date-table "index_important_dates.csv" >}}
-
----
 
 ## Announcements
 

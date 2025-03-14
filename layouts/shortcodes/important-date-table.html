@@ -10,7 +10,7 @@
             {{ range $row := $data }}
             {{ $isDue := and (gt (len $row) 2) (eq (index $row 2) "due") }}
             {{ if and $isDue $flag }}
-            <tr>
+            <tr style="color: #888888;">
                 <td class="collapse-trigger"><strong>Overdue</strong></td>
                 <td></td>
             </tr>
