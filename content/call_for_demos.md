@@ -34,6 +34,17 @@ All demo submissions will be considered for the Best Demo Award. An independent 
 
 {{< important-date-table "demo_important_dates.csv" >}}
 
+## Technical Program Committee
+
+- Felix Lin, UVA
+- Habiba Farrukh, University of California Irvine
+- Anh Nguyen, University of Montana
+- Thivya Kandappu, Singapore Management University
+- Mengwei Xu, Beijing University of Posts and Telecommunications
+- Soundarya Ramesh, NUS
+- Minhao Cui, UMass Amherst
+- Ngoc Thi Nguyen, University of Helsinki
+
 ## Demo Co-Chairs
 
 If you have any questions, do not hesitate to contact the demo co-chairs:
