@@ -5,13 +5,15 @@ title: "Artifact Evaluation"
 {{< button
     link="https://mobisys25ae.hotcrp.com" 
     icon="article"
-    text="Artifact Submission" 
+    text="Artifact Submission"
+    disabled=true
 >}}
 
 {{< button
     link="https://forms.gle/xSo6VVFr8atqE7ff8" 
     icon="mentor"
-    text="TPC Self Nomination Form" 
+    text="TPC Self Nomination Form"
+    disabled=true
 >}}
 
 At MobiSys, we aim to promote high-quality research in mobile systems and to advance the state of the art. However, traditional peer-review of papers alone cannot guarantee the reproducibility of the research results. The Artifact Evaluation process complements the paper review process by verifying that the artifacts (e.g., code, data, scripts, or instructions) associated with a paper are correct, complete, and properly documented. The Artifact Evaluation committee also provides feedback to authors to improve the artifacts and ensure that they are reusable by others in the community.
