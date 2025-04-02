@@ -88,10 +88,15 @@ enableRobotsTXT = true
     parent = "Committees"
     weight = 2
   [[menu.main]]
+    name = "Artifact Evaluation Committee"
+    url = "/artifact_evaluation_committee/"
+    parent = "Committees"
+    weight = 3
+  [[menu.main]]
     name = "PC Self Nomination"
     url = "/pc_self_nomination/"
     parent = "Committees"
-    weight = 3
+    weight = 4
   [[menu.main]]
     name = "Sponsorship"
     url = "/sponsorship/"

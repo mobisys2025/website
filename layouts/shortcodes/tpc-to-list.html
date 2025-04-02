@@ -5,7 +5,11 @@
 <ul>
   {{ range $data }}
     <li>
-      <a href="{{ index . 2 }}" target="blank_"><strong>{{ index . 0 }}</strong></a> {{ index . 1 }}
+      {{ if index . 2 }}
+        <a href="{{ index . 2 }}" target="blank_"><strong>{{ index . 0 }}</strong></a> {{ index . 1 }}
+      {{ else }}
+        <strong>{{ index . 0 }}</strong> {{ index . 1 }}
+      {{ end }}
     </li>
   {{ end }}
 </ul>

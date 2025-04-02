@@ -48,6 +48,7 @@ nav .nav-item a {
   display: inline-block;
   padding: 0.5em;
   border-color: colors.$light-text-color;
+  text-align: center;
 }
 
 nav .nav-item a span {
@@ -151,6 +152,7 @@ nav input[type="checkbox"]:checked ~ ul:first-of-type {
   nav .nav-item a {
     padding: 1em 1.5em;
     color: colors.$light-text-color;
+    text-align: unset;
   }
 
   nav .nav-item {
