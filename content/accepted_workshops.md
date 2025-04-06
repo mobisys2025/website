@@ -49,13 +49,6 @@ Workshop Chairs:
 - Namitha Godawatte Lyanage - Yale University
 - Yilun Xu - Lawrence Berkeley National Laboratory
 
-## SpaceSys'25
-
-**The 1st ACM Workshop on Space Computing Systems.**
-
-Workshop Chair:
-- Ashwin Ashok - Georgia State University
-
 ## Tutorial on TockOS
 
 Website: https://tockos.org/events/mobisys25
