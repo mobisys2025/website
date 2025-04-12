@@ -6,6 +6,7 @@ title: "Call For Posters"
     link="https://mobisys25posters.hotcrp.com"
     icon="article"
     text="Poster Submission"
+    disabled=true
 >}}
 
 MobiSys 2025 continues the tradition of seeking proposals for posters describing novel work not published before on mobile systems, applications, and services. Posters will be presented during a specially designated session of the conference. The poster session is meant to introduce new or ongoing work and provide opportunities for authors to interact directly with conference attendees. Posters are especially suited for presenting controversial research directions that may generate discussion, or promising ideas not yet validated through extensive evaluation.

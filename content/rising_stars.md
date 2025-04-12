@@ -5,7 +5,8 @@ title: "Call For Rising Stars Forum"
 {{< button
     link="https://mobisys25risingstar.hotcrp.com" 
     icon="article"
-    text="Paper Submission" 
+    text="Paper Submission"
+    disabled=true
 >}}
 
 ACM MobiSys 2025 will host the Rising Stars Forum, aimed at early career researchers, including early-stage postdoctoral researchers and PhD students, conducting research on any aspects of mobile computing, applications, and services. The forum will offer:

@@ -9,6 +9,10 @@
         <i class="bi bi-file-text-fill"></i>
         {{ else if eq (.Get "icon") "mentor" }}
         <i class="bi bi-person-raised-hand"></i>
+        {{ else if eq (.Get "icon") "cash" }}
+        <i class="bi bi-cash-coin"></i>
+        {{ else if eq (.Get "icon") "exclamation" }}
+        <i class="bi bi-exclamation-diamond-fill"></i>
         {{ else }}
         {{ warnf "Unknown icon: %s" (.Get "icon") }}
         {{ end }}

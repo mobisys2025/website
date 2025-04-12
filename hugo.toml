@@ -69,15 +69,25 @@ enableRobotsTXT = true
     url = "#"
     weight = 5
   [[menu.main]]
+    name = "Code of Conduct"
+    url = "/code_of_conduct/"
+    parent = "Attending"
+    weight = 1
+  [[menu.main]]
+    name = "Registration"
+    url = "/registration/"
+    parent = "Attending"
+    weight = 2
+  [[menu.main]]
     name = "Venue"
     url = "/venue/"
     parent = "Attending"
-    weight = 1
+    weight = 3
   [[menu.main]]
     name = "Student Volunteering"
     url = "/student_volunteering/"
     parent = "Attending"
-    weight = 2
+    weight = 4
   [[menu.main]]
     name = "Committees"
     url = "#"
