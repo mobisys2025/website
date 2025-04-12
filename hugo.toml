@@ -74,6 +74,11 @@ enableRobotsTXT = true
     parent = "Attending"
     weight = 1
   [[menu.main]]
+    name = "Student Volunteering"
+    url = "/student_volunteering/"
+    parent = "Attending"
+    weight = 2
+  [[menu.main]]
     name = "Committees"
     url = "#"
     weight = 6
