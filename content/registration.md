@@ -2,11 +2,11 @@
 title: "Registration"
 ---
 
-<!-- {{< button
-    link="#" 
+{{< button
+    link="" 
     icon="cash"
-    text="Register Now"
->}} -->
+    text="Registration Coming Soon"
+>}}
 
 MobiSys 2025 will be happening from Monday, June 23, 2025 to Friday, June 27, 2025.
 
