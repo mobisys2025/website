@@ -195,7 +195,7 @@ On-site registration will be possible but only online with a valid credit card. 
 
 To complete your registration for MobiSys 2025, please proceed to our official registration page. Click the link below to secure your spot and be a part of this groundbreaking event.
 
-[Comming soon!](#)
+[Coming soon!](#)
 
 We look forward to welcoming you to MobiSys 2025!
 
