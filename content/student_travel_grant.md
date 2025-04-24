@@ -15,7 +15,7 @@ ACM MobiSys 2025 is pleased to provide travel grants to support students attendi
 
 Grants are available only for full-time students attending colleges and universities in and outside the United States.
 
-# Selection Criteria
+## Selection Criteria
 
 The student’s merit qualifications, student’s statement/letter, and advisor letter(s) weigh strongly in selecting students for a travel grant. Generally, travel grants are awarded to PhD students pursuing research in areas of interest to MobiSys. We rarely consider masters students and postdocs. The factors below represent our rough prioritization.
 
