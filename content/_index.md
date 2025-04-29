@@ -7,6 +7,12 @@ The 23rd ACM International Conference on Mobile Systems, Applications, and Servi
 
 **Location: Anaheim, California, US**
 
+{{< button
+    link="https://book.passkey.com/go/MobiSys2025" 
+    icon="building"
+    text="Hotel Booking"
+>}}
+
 ## Important Dates
 
 {{< important-date-table "index_important_dates.csv" >}}
@@ -17,7 +23,8 @@ The 23rd ACM International Conference on Mobile Systems, Applications, and Servi
 <div class="no-indent">
 {{< /rawhtml >}}
 
-- Apr 24th, 2025 - **[Student Travel Grant](./student_travel_grant/) Application is open** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
+- Apr 28th, 2025 - **[Hotel Booking](./venue/#accommodation) is open** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
+- Apr 24th, 2025 - **[Student Travel Grant](./student_travel_grant/) Application is open**
 - Apr 12th, 2025 - **[Registration](./registration/) Information is available**
 - Apr 12th, 2025 - **[Code of Conduct](./code_of_conduct/) is available**
 - Apr 11th, 2025 - **[Student Volunteering](./student_volunteering/) is open**

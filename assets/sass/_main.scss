@@ -132,6 +132,10 @@ main .teaser img {
   margin-right: 0.25em;
 }
 
+main img {
+  max-width: 100% !important;
+}
+
 main .paper * {
   vertical-align: middle;
 }
