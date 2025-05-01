@@ -3,9 +3,9 @@ title: "Registration"
 ---
 
 {{< button
-    link="" 
+    link="https://web.cvent.com/event/3d8f4bde-961f-43f2-a2c9-3d1dd12f53b7/summary" 
     icon="cash"
-    text="Registration Coming Soon"
+    text="Registration Now!"
 >}}
 
 MobiSys 2025 will be happening from Monday, June 23, 2025 to Friday, June 27, 2025.
@@ -195,7 +195,7 @@ On-site registration will be possible but only online with a valid credit card. 
 
 To complete your registration for MobiSys 2025, please proceed to our official registration page. Click the link below to secure your spot and be a part of this groundbreaking event.
 
-[Coming soon!](#)
+[Proceed to Registration](https://web.cvent.com/event/3d8f4bde-961f-43f2-a2c9-3d1dd12f53b7/summary)
 
 We look forward to welcoming you to MobiSys 2025!
 

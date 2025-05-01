@@ -5,7 +5,8 @@ title: "Student Volunteering"
 {{< button
     link="https://docs.google.com/forms/d/e/1FAIpQLSfS-jVQyi2NKqSTXsgoBrsGvRm9MiAmcFygKyRdiuF_lsJJ-Q/viewform?usp=header" 
     icon="mentor"
-    text="Volunteer Application" 
+    text="Volunteer Application"
+    disabled="true"
 >}}
 
 ACM MobiSys 2025 will take place from June 23 to June 27, 2025, in Anaheim, California, US. We are seeking student volunteers to help ensure a smooth and successful conference. If you are interested, please apply by filling out the application form below before **April 30th AoE**.
