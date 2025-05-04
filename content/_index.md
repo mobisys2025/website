@@ -17,6 +17,7 @@ The 23rd ACM International Conference on Mobile Systems, Applications, and Servi
     link="https://book.passkey.com/go/MobiSys2025" 
     icon="building"
     text="Hotel Booking"
+    subtext="Group Code: ACM"
 >}}
 
 ## Important Dates
