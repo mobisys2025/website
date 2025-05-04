@@ -2,7 +2,7 @@
 <a href='{{ .Get "link" | default "#" }}' target="_blank">
   {{end}}
   <div class='button {{if .Get "disabled"}}button-disabled{{end}}'>
-    <div>
+    <div class="button-left">
       {{- if .Get "icon" -}}
       <span class="button-icon">
         {{ if eq (.Get "icon") "article" }}
@@ -22,7 +22,12 @@
         {{ end }}
       </span>
       {{- end -}}
-      <span class="button-text">{{ .Get "text" | default "Button" }}</span>
+      <div class="button-content">
+        <span class="button-text">{{ .Get "text" | default "Button" }}</span>
+        {{- if .Get "subtext" -}}
+        <span class="button-subtext">// {{ .Get "subtext" }}</span>
+        {{- end -}}
+      </div>
     </div>
     <span class="button-arrow">
       <i class="bi bi-chevron-right"></i>

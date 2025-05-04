@@ -17,8 +17,29 @@
   align-items: center;
 }
 
-.button-text {
+.button-left {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
   flex-grow: 1;
+}
+
+.button-content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+// .button-text {
+// }
+
+.button-subtext {
+  font-size: 13px;
+  line-height: normal;
+  color: colors.$color-green-900;
+  font-weight: 600;
+  font-style: italic;
 }
 
 .button-arrow {
