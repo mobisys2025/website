@@ -30,7 +30,8 @@ The 23rd ACM International Conference on Mobile Systems, Applications, and Servi
 <div class="no-indent">
 {{< /rawhtml >}}
 
-- May 1st, 2025 - **[Registration](./registration/) is open** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
+- May 5th, 2025 - **[Accepted Papers](./accepted_papers/) are available** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
+- May 1st, 2025 - **[Registration](./registration/) is open**
 - Apr 28th, 2025 - **[Hotel Booking](./venue/#accommodation) is open**
 - Apr 24th, 2025 - **[Student Travel Grant](./student_travel_grant/) Application is open**
 - Apr 12th, 2025 - **[Registration](./registration/) Information is available**
