@@ -5,7 +5,7 @@ title: "Student Travel Grant"
 {{<
     button
     link="https://mobisys25-travel-grant.hotcrp.com/" 
-    icon="travel"
+    icon="suitcase-fill"
     text="Travel Grant Application"
 >}}
 

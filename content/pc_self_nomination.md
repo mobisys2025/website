@@ -4,7 +4,7 @@ title: "PC Self Nomination"
 
 {{< button
     link="https://forms.gle/gpCttBLPfvGkFd2K7" 
-    icon="mentor"
+    icon="person-raised-hand"
     text="PC Self Nomination Form" 
     disabled="true"
 >}}

@@ -4,7 +4,7 @@ title: "Student Volunteering"
 
 {{< button
     link="https://docs.google.com/forms/d/e/1FAIpQLSfS-jVQyi2NKqSTXsgoBrsGvRm9MiAmcFygKyRdiuF_lsJJ-Q/viewform?usp=header" 
-    icon="mentor"
+    icon="person-raised-hand"
     text="Volunteer Application"
     disabled="true"
 >}}

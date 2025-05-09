@@ -4,7 +4,7 @@ title: "Call For Papers"
 
 {{< button
     link="https://mobisys25.hotcrp.com" 
-    icon="article"
+    icon="file-text-fill"
     text="Paper Submission" 
     disabled=true
 >}}

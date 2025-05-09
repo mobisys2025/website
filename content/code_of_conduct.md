@@ -4,7 +4,7 @@ title: "Code of Conduct"
 
 {{< button
     link="mailto:ardalan@uci.edu,chenren.xu@gmail.com"
-    icon="exclamation"
+    icon="exclamation-diamond-fill"
     text="Report a Violation"
 >}}
 

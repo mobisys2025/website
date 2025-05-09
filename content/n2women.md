@@ -4,20 +4,20 @@ title: "Networking Networking Women (N<sup>2</sup>Women) Workshop"
 
 {{< button
     link="https://n2women25.hotcrp.com" 
-    icon="article"
+    icon="file-text-fill"
     text="Poster Submission" 
 >}}
 
 {{<
     button
     link="https://forms.gle/AM78r6ScpwS27Wua9" 
-    icon="travel"
+    icon="suitcase-fill"
     text="Travel Grant Application"
 >}}
 
 {{< button
     link="https://docs.google.com/forms/d/e/1FAIpQLSd5mN84vjEW_d0q86l5G-D4A8YM3s7O0VwsfFDIpPbjExyU0Q/viewform" 
-    icon="mentor"
+    icon="person-raised-hand"
     text="Mentor Application" 
 >}}
 

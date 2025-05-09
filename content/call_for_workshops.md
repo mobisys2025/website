@@ -4,7 +4,7 @@ title: "Call For Workshops"
 
 {{< button
     link="mailto:jiliangwang@tsinghua.edu.cn,vp.nguyen@cs.umass.edu"
-    icon="article"
+    icon="file-text-fill"
     text="Workshop Submission"
     disabled=true
 >}}

@@ -4,7 +4,7 @@ title: "Call For Demos"
 
 {{< button
     link="https://mobisys25demos.hotcrp.com" 
-    icon="article"
+    icon="file-text-fill"
     text="Demo Submission"
     disabled=true
 >}}

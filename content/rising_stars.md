@@ -4,7 +4,7 @@ title: "Call For Rising Stars Forum"
 
 {{< button
     link="https://mobisys25risingstar.hotcrp.com" 
-    icon="article"
+    icon="file-text-fill"
     text="Paper Submission"
     disabled=true
 >}}

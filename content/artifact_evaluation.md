@@ -4,14 +4,14 @@ title: "Artifact Evaluation"
 
 {{< button
     link="https://mobisys25ae.hotcrp.com" 
-    icon="article"
+    icon="file-text-fill"
     text="Artifact Submission"
     disabled=true
 >}}
 
 {{< button
     link="https://forms.gle/xSo6VVFr8atqE7ff8" 
-    icon="mentor"
+    icon="person-raised-hand"
     text="TPC Self Nomination Form"
     disabled=true
 >}}

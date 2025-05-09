@@ -4,7 +4,7 @@ title: "Registration"
 
 {{< button
     link="https://web.cvent.com/event/3d8f4bde-961f-43f2-a2c9-3d1dd12f53b7/summary" 
-    icon="cash"
+    icon="cash-coin"
     text="Registration Now!"
 >}}
 

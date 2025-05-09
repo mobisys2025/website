@@ -4,7 +4,7 @@ title: "Call For Posters"
 
 {{< button
     link="https://mobisys25posters.hotcrp.com"
-    icon="article"
+    icon="file-text-fill"
     text="Poster Submission"
     disabled=true
 >}}
