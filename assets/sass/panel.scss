@@ -1,0 +1,64 @@
+.panel {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.panel-header {
+  border-bottom: 1px solid #ddd;
+}
+
+.panel-title-container {
+  flex: 1;
+}
+
+.panel-title-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f5f5f5;
+  cursor: pointer;
+}
+
+.panel-title-row h4 {
+  margin: 0;
+  padding: 15px;
+  flex: 1;
+}
+
+.panel-subheader {
+  padding: 10px 15px;
+  background-color: #eaeaea;
+  font-size: 14px;
+  color: #666;
+}
+
+.panel-toggle {
+  background: none;
+  border: none;
+  padding: 0 15px;
+  cursor: pointer;
+  height: 48px; /* Fixed height to match the title row height */
+  display: flex;
+  align-items: center;
+  transition: transform 0.3s;
+}
+
+.panel-toggle[aria-expanded="false"] .panel-toggle-icon {
+  transform: rotate(180deg);
+}
+
+.panel-toggle[aria-expanded="false"] .panel-toggle-icon .minus-icon {
+  display: none;
+}
+
+.panel-toggle[aria-expanded="true"] .panel-toggle-icon .plus-icon {
+  display: none;
+}
+
+.panel-content {
+  padding: 15px;
+  background-color: #fff;
+}

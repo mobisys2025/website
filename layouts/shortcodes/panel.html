@@ -1,0 +1,26 @@
+{{ $id := .Get "id" | default (printf "panel-%s" (anchorize .Inner)) }}
+{{ $header := .Get "header" | default "Title: To Be Determined" }}
+{{ $subheader := .Get "subheader" | default "" }}
+{{ $open := .Get "open" | default "false" }}
+
+<div class="panel">
+  <div class="panel-header">
+    <div class="panel-title-container">
+      <div class="panel-title-row">
+        <h4>{{ $header }}</h4>
+        <button class="panel-toggle" aria-expanded="{{ $open }}" aria-controls="{{ $id }}">
+          <span class="panel-toggle-icon">
+            <i class="bi bi-plus-lg plus-icon"></i>
+            <i class="bi bi-dash-lg minus-icon"></i>
+          </span>
+        </button>
+      </div>
+      {{ if $subheader }}
+        <div class="panel-subheader">{{ $subheader }}</div>
+      {{ end }}
+    </div>
+  </div>
+  <div id="{{ $id }}" class="panel-content" {{ if ne $open "true" }}style="display: none;"{{ end }}>
+    {{ .Inner }}
+  </div>
+</div>

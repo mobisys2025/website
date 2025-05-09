@@ -1,0 +1,12 @@
+<!-- Timeline shortcode for displaying events with time, title, and content -->
+<div class="timeline-wrapper">
+    <div class="timeline-item">
+        <div class="timeline-item-time">{{ .Get "time" }}</div>
+        <div class="timeline-item-content">
+            <h3 class="timeline-item-title">{{ .Get "title" }}</h3>
+            <div class="timeline-item-body">
+                {{ .Inner }}
+            </div>
+        </div>
+    </div>
+</div>
