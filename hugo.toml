@@ -89,20 +89,25 @@ enableRobotsTXT = true
     parent = "Attending"
     weight = 2
   [[menu.main]]
+    name = "Visa Information"
+    url = "/visa/"
+    parent = "Attending"
+    weight = 3
+  [[menu.main]]
     name = "Venue"
     url = "/venue/"
     parent = "Attending"
-    weight = 3
+    weight = 4
   [[menu.main]]
     name = "Student Travel Grant"
     url = "/student_travel_grant/"
     parent = "Attending"
-    weight = 4
+    weight = 5
   [[menu.main]]
     name = "Student Volunteering"
     url = "/student_volunteering/"
     parent = "Attending"
-    weight = 5
+    weight = 6
   [[menu.main]]
     name = "Committees"
     url = "#"

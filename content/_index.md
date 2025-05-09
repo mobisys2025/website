@@ -30,6 +30,7 @@ The 23rd ACM International Conference on Mobile Systems, Applications, and Servi
 <div class="no-indent">
 {{< /rawhtml >}}
 
+- May 9th, 2025 - **[Visa Information](./visa/) is available** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
 - May 9th, 2025 - **[IoT Day Program](./iot_day_program/) (Tentative) is available** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
 - May 5th, 2025 - **[Accepted Papers](./accepted_papers/) are available**
 - May 1st, 2025 - **[Registration](./registration/) is open**

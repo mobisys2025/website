@@ -49,6 +49,6 @@ The following behaviors are strictly prohibited at ACM MobiSys 2025:
 
 If you experience or witness behavior that violates this Code of Conduct, you are encouraged to report the matter promptly and confidentially to the conference organizers:
 
-📧 General Chair(s): ardalan@uci.edu, chenren.xu@gmail.com
+General Chair(s): ardalan@uci.edu, chenren.xu@gmail.com
 
 All reports will be handled with discretion and seriousness. The organizers may take appropriate actions, which may include but are not limited to verbal warnings, removal from the event, or notifying an individual’s institution or employer.
