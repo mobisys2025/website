@@ -65,10 +65,15 @@ enableRobotsTXT = true
     url = "/accepted_workshops/"
     parent = "Accepted"
     weight = 2
-  # [[menu.main]]
-  #   name = "Program"
-  #   url = "#"
-  #   weight = 4
+  [[menu.main]]
+    name = "Program"
+    url = "#"
+    weight = 4
+  [[menu.main]]
+    name = "IoT Day Program"
+    url = "/iot_day_program/"
+    parent = "Program"
+    weight = 2
   [[menu.main]]
     name = "Attending"
     url = "#"
