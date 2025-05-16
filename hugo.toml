@@ -69,16 +69,16 @@ enableRobotsTXT = true
     name = "Program"
     url = "#"
     weight = 4
-  # [[menu.main]]
-  #   name = "Full Program"
-  #   url = "/program/"
-  #   parent = "Program"
-  #   weight = 1
-  # [[menu.main]]
-  #   name = "Keynotes"
-  #   url = "/keynotes/"
-  #   parent = "Program"
-  #   weight = 2
+  [[menu.main]]
+    name = "Full Program"
+    url = "/program/"
+    parent = "Program"
+    weight = 1
+  [[menu.main]]
+    name = "Keynotes"
+    url = "/keynotes/"
+    parent = "Program"
+    weight = 2
   [[menu.main]]
     name = "IoT Day Program"
     url = "/iot_day_program/"
