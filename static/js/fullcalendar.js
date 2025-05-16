@@ -194,7 +194,7 @@ document.addEventListener("DOMContentLoaded", function () {
       {
         title: "Session 3 - LLM",
         start: "2025-06-24T15:50:00",
-        end: "2025-06-24T17:00:00",
+        end: "2025-06-24T17:20:00",
         url: "#session-3---llm",
         backgroundColor: "#4A6E91",
       },
@@ -258,7 +258,7 @@ document.addEventListener("DOMContentLoaded", function () {
       {
         title: "Session 6 - Smart Surfaces and FutureG",
         start: "2025-06-25T16:00:00",
-        end: "2025-06-25T17:10:00",
+        end: "2025-06-25T17:30:00",
         url: "#session-6---smart-surfaces-and-futureg",
         backgroundColor: "#4A6E91",
       },
@@ -322,7 +322,7 @@ document.addEventListener("DOMContentLoaded", function () {
       {
         title: "Session 10 - Edge and Embedded Systems",
         start: "2025-06-26T15:35:00",
-        end: "2025-06-26T16:45:00",
+        end: "2025-06-26T17:05:00",
         url: "#session-10---edge-and-embedded-systems",
         backgroundColor: "#4A6E91",
       },
