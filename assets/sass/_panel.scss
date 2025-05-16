@@ -1,3 +1,5 @@
+@use "colors";
+
 .panel {
   border: 1px solid #ddd;
   border-radius: 4px;
@@ -18,21 +20,21 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: #f5f5f5;
+  background-color: colors.$color-white;
   cursor: pointer;
 }
 
-.panel-title-row h4 {
+.panel-title-row h3 {
   margin: 0;
-  padding: 15px;
+  padding: 15px 15px;
   flex: 1;
 }
 
 .panel-subheader {
   padding: 10px 15px;
-  background-color: #eaeaea;
-  font-size: 14px;
-  color: #666;
+  background-color: colors.$color-gray-100;
+  font-size: 15px;
+  color: colors.$color-black;
 }
 
 .panel-toggle {
@@ -60,5 +62,26 @@
 
 .panel-content {
   padding: 15px;
-  background-color: #fff;
+  background-color: colors.$color-white;
+}
+
+.panel-content hr {
+  margin: 0.5em 0;
+  border: none;
+  border-top: 1px solid colors.$color-gray-300;
+}
+
+.panel .paper-title {
+  font-weight: bold;
+  // margin-bottom: 0.5em;
+}
+
+.panel .paper-authors {
+  font-style: italic;
+}
+
+.panel .paper-badges img {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
 }

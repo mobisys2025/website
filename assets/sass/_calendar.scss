@@ -1,0 +1,63 @@
+@use "colors";
+
+:root {
+  --fc-button-bg-color: none;
+  --fc-button-border-color: oklch(0.527 0.154 150.069);
+  --fc-button-hover-bg-color: oklch(0.527 0.154 150.069);
+  --fc-button-hover-border-color: oklch(0.527 0.154 150.069);
+  --fc-button-active-bg-color: oklch(0.527 0.154 150.069);
+  --fc-button-active-border-color: oklch(0.527 0.154 150.069);
+  --fc-button-text-color: white;
+}
+
+.fc-timegrid-slot {
+  height: 120px !important;
+}
+
+.fc-v-event {
+  border: none;
+}
+
+.fc-event-main-frame {
+  padding: 1px 2px;
+}
+
+.fc-event-title {
+  white-space: normal;
+  overflow: visible;
+  text-overflow: clip;
+  line-height: normal;
+}
+
+.fc-event-time {
+  line-height: normal;
+  margin-bottom: 0;
+}
+
+.fc-list-table {
+  table-layout: auto;
+}
+
+.fc-scrollgrid-sync-inner a {
+  text-decoration: none;
+  color: #000;
+}
+
+.fc .fc-button {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.5em 1em;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+  text-transform: capitalize;
+}
+
+.fc .fc-button-primary {
+  color: colors.$color-green-700;
+}
+
+.fc .fc-toolbar-title {
+    font-size: revert;
+    margin: revert;
+}

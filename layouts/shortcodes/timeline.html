@@ -1,9 +1,14 @@
 <!-- Timeline shortcode for displaying events with time, title, and content -->
+{{ $time := .Get "time" | default "Time: To Be Determined" }}
+{{ $title := .Get "title" }}
+
 <div class="timeline-wrapper">
     <div class="timeline-item">
-        <div class="timeline-item-time">{{ .Get "time" }}</div>
+        <div class="timeline-item-time">{{ $time }}</div>
         <div class="timeline-item-content">
-            <h3 class="timeline-item-title">{{ .Get "title" }}</h3>
+            {{ if $title }}
+            <h4 class="timeline-item-title">{{ $title }}</h4>
+            {{ end }}
             <div class="timeline-item-body">
                 {{ .Inner }}
             </div>

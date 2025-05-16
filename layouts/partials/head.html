@@ -12,4 +12,8 @@
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.min.css">
 	<link rel="stylesheet" href='{{ relURL (partial "cache-busting.html" "css/icomoon/style.css") }}' />
 	{{ partialCached "css.html" . }}
+	{{ if eq .Title "Program" }}
+	<script src='{{ relURL (partial "cache-busting.html" "js/index.global.min.js") }}'></script>
+	<script src='{{ relURL (partial "cache-busting.html" "js/fullcalendar.js") }}'></script>
+	{{ end }}
 </head>
