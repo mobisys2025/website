@@ -8,6 +8,12 @@ The 23rd ACM International Conference on Mobile Systems, Applications, and Servi
 **Location: Anaheim, California, US**
 
 {{< button
+    link="/mobisys/2025/program/" 
+    icon="calendar2-week-fill"
+    text="Program Overview"
+>}}
+
+{{< button
     link="https://web.cvent.com/event/3d8f4bde-961f-43f2-a2c9-3d1dd12f53b7/summary" 
     icon="cash-coin"
     text="Registration Now!"
@@ -30,8 +36,10 @@ The 23rd ACM International Conference on Mobile Systems, Applications, and Servi
 <div class="no-indent">
 {{< /rawhtml >}}
 
-- May 9th, 2025 - **[Visa Information](./visa/) is available** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
-- May 9th, 2025 - **[IoT Day Program](./iot_day_program/) (Tentative) is available** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
+- May 16th, 2025 - **[Full Program](./program/) is available** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
+- May 16th, 2025 - **[Keynotes](./keynotes/) are available** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
+- May 9th, 2025 - **[Visa Information](./visa/) is available**
+- May 9th, 2025 - **[IoT Day Program](./iot_day_program/) (Tentative) is available**
 - May 5th, 2025 - **[Accepted Papers](./accepted_papers/) are available**
 - May 1st, 2025 - **[Registration](./registration/) is open**
 - Apr 28th, 2025 - **[Hotel Booking](./venue/#accommodation) is open**

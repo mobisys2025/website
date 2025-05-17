@@ -7,6 +7,7 @@ title: "Student Travel Grant"
     link="https://mobisys25-travel-grant.hotcrp.com/" 
     icon="suitcase-fill"
     text="Travel Grant Application"
+    disabled="true"
 >}}
 
 ACM MobiSys 2025 is pleased to provide travel grants to support students attending the main conference and the co-located events. The purpose of this program is to encourage graduate student participation at the conference by funding the travel cost for students who would otherwise be unable to attend. Furthermore, underrepresented minorities and women students are particularly encouraged to apply.
