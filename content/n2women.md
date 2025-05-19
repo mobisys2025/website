@@ -5,7 +5,8 @@ title: "Networking Networking Women (N<sup>2</sup>Women) Workshop"
 {{< button
     link="https://n2women25.hotcrp.com" 
     icon="file-text-fill"
-    text="Poster Submission" 
+    text="Poster Submission"
+    disabled="true"
 >}}
 
 {{<
@@ -13,12 +14,14 @@ title: "Networking Networking Women (N<sup>2</sup>Women) Workshop"
     link="https://forms.gle/AM78r6ScpwS27Wua9" 
     icon="suitcase-fill"
     text="Travel Grant Application"
+    disabled="true"
 >}}
 
 {{< button
     link="https://docs.google.com/forms/d/e/1FAIpQLSd5mN84vjEW_d0q86l5G-D4A8YM3s7O0VwsfFDIpPbjExyU0Q/viewform" 
     icon="person-raised-hand"
-    text="Mentor Application" 
+    text="Mentor Application"
+    disabled="true" 
 >}}
 
 The {{<rawhtml>}}N<sup>2</sup>Women{{</rawhtml>}} workshop aims to foster professional networking among women in computer networking and related research fields in which women are traditionally underrepresented. Its goal is to:
