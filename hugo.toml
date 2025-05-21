@@ -61,10 +61,15 @@ enableRobotsTXT = true
     parent = "Accepted"
     weight = 1
   [[menu.main]]
+    name = "Accepted Posters"
+    url = "/accepted_posters/"
+    parent = "Accepted"
+    weight = 2
+  [[menu.main]]
     name = "Accepted Workshops"
     url = "/accepted_workshops/"
     parent = "Accepted"
-    weight = 2
+    weight = 3
   [[menu.main]]
     name = "Program"
     url = "#"
