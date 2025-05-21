@@ -1,8 +1,14 @@
 document.addEventListener("DOMContentLoaded", function () {
   var calendarEl = document.getElementById("calendar");
+
+  // Function to determine the initial view based on screen size
+  function getInitialView() {
+    return window.innerWidth < 768 ? "list" : "calendar";
+  }
+
   var calendar = new FullCalendar.Calendar(calendarEl, {
     timeZone: 'America/Los_Angeles',
-    initialView: "calendar",
+    initialView: getInitialView(),
     schedulerLicenseKey: "GPL-My-Project-Is-Open-Source",
     titleFormat: () => "Program", // Global setting to force title to be "Program"
     viewTitle: "Program", // Custom property for view title
@@ -328,5 +334,14 @@ document.addEventListener("DOMContentLoaded", function () {
       },
     ],
   });
+
+  // Add window resize event listener to handle responsive view changes
+  window.addEventListener('resize', function() {
+    const newView = window.innerWidth < 768 ? "list" : "calendar";
+    if (newView !== calendar.view.type) {
+      calendar.changeView(newView);
+    }
+  });
+
   calendar.render();
 });

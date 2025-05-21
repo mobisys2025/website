@@ -61,3 +61,10 @@
     font-size: revert;
     margin: revert;
 }
+
+
+@media only screen and (max-width: 410px) {
+  .fc .fc-list-event-time {
+    white-space: normal;
+  }
+}
