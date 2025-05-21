@@ -1,98 +1,115 @@
 {{ $id := .Get "id" | default (printf "panel-%s" (anchorize .Inner)) }}
 {{ $header := .Get "header" | default "Title: To Be Determined" }}
 {{ $subheader := .Get "subheader" | default "" }}
-{{ $open := .Get "open" | default "false" }}
+{{ $open := .Get "open" | default "true" }}
 {{ $data := .Get "data" | default "" }}
 
 {{ if $data }}
-  {{ $resource := resources.Get $data }}
-  {{ $jsonData := $resource | transform.Unmarshal }}
-  
-  {{ range $day, $sessions := $jsonData }}
-    <h2>{{ $day }}</h2>
-    {{ range $session := $sessions }}
-      <div class="panel" id="{{ anchorize $session.title }}">
-        <div class="panel-header">
-          <div class="panel-title-container">
-            <div class="panel-title-row">
-              <h3>{{ $session.title }}</h3>
-              <button class="panel-toggle" aria-expanded="{{ $open }}" aria-controls="panel-{{ anchorize $session.title }}">
-                <span class="panel-toggle-icon">
-                  <i class="bi bi-plus-lg plus-icon"></i>
-                  <i class="bi bi-dash-lg minus-icon"></i>
-                </span>
-              </button>
-            </div>
-            {{ if $session.chair }}
+{{ $resource := resources.Get $data }}
+{{ $jsonData := $resource | transform.Unmarshal }}
+
+{{ range $day, $sessions := $jsonData }}
+<h2>{{ $day }}</h2>
+{{ range $session := $sessions }}
+<div class="timeline-wrapper">
+  <div class="timeline-item">
+    <div class="timeline-item-time">{{ $session.time }}</div>
+    <div class="timeline-item-content">
+      <div class="timeline-item-body">
+        <div class="panel" id="{{ anchorize $session.title }}">
+          <div class="panel-header">
+            <div class="panel-title-container">
+              <div class="panel-title-row">
+                <h3>{{ $session.title }}</h3>
+                <button class="panel-toggle" aria-expanded="{{ $open }}"
+                  aria-controls="panel-{{ anchorize $session.title }}">
+                  <span class="panel-toggle-icon">
+                    <i class="bi bi-plus-lg plus-icon"></i>
+                    <i class="bi bi-dash-lg minus-icon"></i>
+                  </span>
+                </button>
+              </div>
+              {{ if $session.chair }}
               <div class="panel-subheader">Chair: {{ $session.chair }}</div>
-            {{ end }}
+              {{ end }}
+            </div>
           </div>
-        </div>
-        <div id="panel-{{ anchorize $session.title }}" class="panel-content" {{ if ne $open "true" }}style="display: none;"{{ end }}>
-          {{ range $index, $paper := $session.papers }}
+          <div id="panel-{{ anchorize $session.title }}" class="panel-content" {{ if ne $open "true"
+            }}style="display: none;" {{ end }}>
+            {{ range $index, $paper := $session.papers }}
             <div class="paper">
               <div class="paper-title">
                 {{ if $paper.doi }}
-                  <a href="{{ $paper.doi }}">{{ $paper.title }}</a>
+                <a href="{{ $paper.doi }}">{{ $paper.title }}</a>
                 {{ else }}
-                  {{ $paper.title }}
+                {{ $paper.title }}
                 {{ end }}
               </div>
               <div class="paper-authors">{{ $paper.authors }}</div>
               {{ if $paper.teaser}}
-                <div class="paper-links">
-                  {{ if $paper.teaser }}
-                    <a href="{{ $paper.teaser }}">Teaser</a>
-                  {{ end }}
-                </div>
+              <div class="paper-links">
+                {{ if $paper.teaser }}
+                <a href="{{ $paper.teaser }}">Teaser</a>
+                {{ end }}
+              </div>
               {{ end }}
               {{ if or $paper.badge $paper.artifact }}
-                <div class="paper-badges">
-                  {{ if $paper.artifact }}
-                    <img src="https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/artifacts_available_dl.jpg" alt="Available Badge" /> Artifacts Available
-                  {{ end }}
-                  {{ range $badge := $paper.badge }}
-                      {{ if eq $badge "functional" }}
-                        <img src="https://www.acm.org/binaries/content/gallery/acm/publications/large-replication-badges/artifacts_evaluated_functional.jpg" alt="Functional Badge" /> Artifacts Evaluated – Functional
-                      {{ else if eq $badge "reusable" }}
-                        <img src="https://www.acm.org/binaries/content/gallery/acm/publications/large-replication-badges/artifacts_evaluated_reusable.jpg" alt="Reusable Badge" /> Artifacts Evaluated – Reusable
-                      {{ else }}
-                        {{/*  {{ $badge }}  */}}
-                      {{ end }}
-                  {{ end }}
-                </div>
+              <div class="paper-badges">
+                {{ if $paper.artifact }}
+                <img
+                  src="https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/artifacts_available_dl.jpg"
+                  alt="Available Badge" /> Artifacts Available
+                {{ end }}
+                {{ range $badge := $paper.badge }}
+                {{ if eq $badge "functional" }}
+                <img
+                  src="https://www.acm.org/binaries/content/gallery/acm/publications/large-replication-badges/artifacts_evaluated_functional.jpg"
+                  alt="Functional Badge" /> Artifacts Evaluated – Functional
+                {{ else if eq $badge "reusable" }}
+                <img
+                  src="https://www.acm.org/binaries/content/gallery/acm/publications/large-replication-badges/artifacts_evaluated_reusable.jpg"
+                  alt="Reusable Badge" /> Artifacts Evaluated – Reusable
+                {{ else }}
+                {{/* {{ $badge }} */}}
+                {{ end }}
+                {{ end }}
+              </div>
               {{ end }}
             </div>
             {{ if ne $index (sub (len $session.papers) 1) }}
-              <hr>
+            <hr>
             {{ end }}
-          {{ end }}
+            {{ end }}
+          </div>
         </div>
-      </div>
-    {{ end }}
-  {{ end }}
-{{ else }}
-  <div class="panel" id="{{ anchorize $header }}">
-    <div class="panel-header">
-      <div class="panel-title-container">
-        <div class="panel-title-row">
-          <h3>{{ $header }}</h3>
-          <button class="panel-toggle" aria-expanded="{{ $open }}" aria-controls="{{ $id }}">
-            <span class="panel-toggle-icon">
-              <i class="bi bi-plus-lg plus-icon"></i>
-              <i class="bi bi-dash-lg minus-icon"></i>
-            </span>
-          </button>
-        </div>
-        {{ if $subheader }}
-          <div class="panel-subheader">{{ $subheader }}</div>
-        {{ end }}
-      </div>
-    </div>
-    <div class="panel-content clearfix" {{ if ne $open "true" }}style="display: none;"{{ end }}>
-      <div class="panel-inner-content">
-      {{ .Inner | safeHTML }}
       </div>
     </div>
   </div>
+</div>
+{{ end }}
+{{ end }}
+{{ else }}
+<div class="panel" id="{{ anchorize $header }}">
+  <div class="panel-header">
+    <div class="panel-title-container">
+      <div class="panel-title-row">
+        <h3>{{ $header }}</h3>
+        <button class="panel-toggle" aria-expanded="{{ $open }}" aria-controls="{{ $id }}">
+          <span class="panel-toggle-icon">
+            <i class="bi bi-plus-lg plus-icon"></i>
+            <i class="bi bi-dash-lg minus-icon"></i>
+          </span>
+        </button>
+      </div>
+      {{ if $subheader }}
+      <div class="panel-subheader">{{ $subheader }}</div>
+      {{ end }}
+    </div>
+  </div>
+  <div class="panel-content clearfix" {{ if ne $open "true" }}style="display: none;" {{ end }}>
+    <div class="panel-inner-content">
+      {{ .Inner | safeHTML }}
+    </div>
+  </div>
+</div>
 {{ end }}

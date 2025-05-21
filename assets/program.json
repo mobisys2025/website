@@ -2,6 +2,7 @@
     "Day 1: Tuesday, June 24": [
         {
             "title": "Session 1 - Sensing",
+            "time": "10:30 AM - 12:00 PM",
             "chair": "",
             "papers": [
                 {
@@ -40,6 +41,7 @@
         },
         {
             "title": "Session 2 - Internet of Things",
+            "time": "1:30 PM - 3:25 PM",
             "chair": "",
             "papers": [
                 {
@@ -86,6 +88,7 @@
         },
         {
             "title": "Session 3 - LLM",
+            "time": "3:50 PM - 5:20 PM",
             "chair": "",
             "papers": [
                 {
@@ -126,6 +129,7 @@
     "Day 2: Wednesday, June 25": [
         {
             "title": "Session 4 - Tools and Testbeds",
+            "time": "10:10 AM - 12:05 PM",
             "chair": "",
             "papers": [
                 {
@@ -172,6 +176,7 @@
         },
         {
             "title": "Session 5 - AR/VR/XR",
+            "time": "1:35 PM - 3:05 PM",
             "chair": "",
             "papers": [
                 {
@@ -210,6 +215,7 @@
         },
         {
             "title": "Session 6 - Smart Surfaces and FutureG",
+            "time": "4:00 PM - 5:30 PM",
             "chair": "",
             "papers": [
                 {
@@ -250,6 +256,7 @@
     "Day 3: Thursday, June 26": [
         {
             "title": "Session 7 - Video and Vision",
+            "time": "9:00 AM - 10:30 AM",
             "chair": "",
             "papers": [
                 {
@@ -288,6 +295,7 @@
         },
         {
             "title": "Session 8 - Robotic and Vehicular Systems",
+            "time": "10:40 AM - 12:10 PM",
             "chair": "",
             "papers": [
                 {
@@ -326,6 +334,7 @@
         },
         {
             "title": "Session 9 - Security and Privacy",
+            "time": "1:40 PM - 3:10 PM",
             "chair": "",
             "papers": [
                 {
@@ -364,6 +373,7 @@
         },
         {
             "title": "Session 10 - Edge and Embedded Systems",
+            "time": "3:35 PM - 5:05 PM",
             "chair": "",
             "papers": [
                 {
