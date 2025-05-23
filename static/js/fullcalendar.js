@@ -27,11 +27,24 @@ document.addEventListener("DOMContentLoaded", function () {
       start: "2025-06-23",
       end: "2025-06-27",
     },
+    // customButtons: {
+    //   icsButton: {
+    //     text: '.ics',
+    //     click: function() {
+    //       alert('clicked the custom button!');
+    //     }
+    //   }
+    // },
     headerToolbar: {
       left: "title",
       center: "",
       right: "calendar,list",
     },
+    // footerToolbar: {
+    //   left: "",
+    //   center: "",
+    //   right: "icsButton",
+    // },
     // slotLabelFormat: {
     //     hour: "2-digit",
     //     minute: "2-digit",
@@ -192,10 +205,11 @@ document.addEventListener("DOMContentLoaded", function () {
         backgroundColor: "#4A6E91",
       },
       {
-        title: "Coffee Break",
+        title: "FutureWei Technologies Coffee Break",
         start: "2025-06-24T15:25:00",
         end: "2025-06-24T15:50:00",
         backgroundColor: "#B55E3C",
+        classNames: ["futurewei-coffee-break"],
       },
       {
         title: "Session 3 - LLM",
