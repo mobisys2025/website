@@ -1,0 +1,41 @@
+.navigation-buttons {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  margin-top: 1em;
+}
+
+.nav-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.apple-maps-btn {
+  background-color: #000000;
+  color: white;
+}
+
+.apple-maps-btn:hover {
+  background-color: #333333;
+}
+
+.google-maps-btn {
+  background-color: #4285f4;
+  color: white;
+}
+
+.google-maps-btn:hover {
+  background-color: #3367D6;
+}
+
+.nav-button svg {
+  width: 1.25rem;
+  height: 1.25rem;
+}
