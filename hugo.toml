@@ -6,6 +6,12 @@ enableRobotsTXT = true
 # Disable categories and tags
 [Taxonomies]
 
+# Allow raw HTML in Markdown content
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 # Menu
 [menu]
   [[menu.main]]
@@ -114,15 +120,25 @@ enableRobotsTXT = true
     parent = "Attending"
     weight = 4
   [[menu.main]]
+    name = "Transportation"
+    url = "/transportation/"
+    parent = "Attending"
+    weight = 5
+  [[menu.main]]
+    name = "Sightseeing"
+    url = "/sightseeing/"
+    parent = "Attending"
+    weight = 6
+  [[menu.main]]
     name = "Student Travel Grant"
     url = "/student_travel_grant/"
     parent = "Attending"
-    weight = 5
+    weight = 7
   [[menu.main]]
     name = "Student Volunteering"
     url = "/student_volunteering/"
     parent = "Attending"
-    weight = 6
+    weight = 8
   [[menu.main]]
     name = "Committees"
     url = "#"
