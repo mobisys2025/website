@@ -1,0 +1,22 @@
+@use "colors";
+
+.image-with-ref {
+  margin: 0.75em 0;
+}
+
+.image-info {
+  color: colors.$color-gray-500;
+}
+
+.image-title {
+  font-size: 0.9em;
+  font-weight: 700;
+}
+
+.image-ref {
+  font-size: 0.8em;
+}
+
+.image-ref a {
+  color: colors.$color-gray-500 !important;
+}

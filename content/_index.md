@@ -36,7 +36,9 @@ The 23rd ACM International Conference on Mobile Systems, Applications, and Servi
 <div class="no-indent">
 {{< /rawhtml >}}
 
-- May 21th, 2025 - **[Accepted Posters](./accepted_posters/) are available** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
+- May 26th, 2025 - **[Transportation](./transportation/) information is available** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
+- May 26th, 2025 - **[Sightseeing](./sightseeing/) information is available** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
+- May 21th, 2025 - **[Accepted Posters](./accepted_posters/) are available**
 - May 16th, 2025 - **[Full Program](./program/) is available**
 - May 16th, 2025 - **[Keynotes](./keynotes/) are available**
 - May 9th, 2025 - **[Visa Information](./visa/) is available**
