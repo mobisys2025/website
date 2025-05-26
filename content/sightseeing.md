@@ -12,7 +12,7 @@ title: "Sightseeing"
 
 ## Disneyland and Disney California Adventure Parks
 
-Disneyland is the very first theme park opened by the Walt Disney Company, where Disney California Adventure was opened back in 2001. Disneyland offers more family friendly attractions, where California Adventure offers more thrilling ones. They are both located one block away from the hotel. **Please note that although tickets are sold at the gate, reservation is needed to get into the park. If you plan to visit them, we recommend booking online.** Along with the two disney parks, there is also [Downtown Disney District](https://disneyland.disney.go.com/destinations/downtown-disney-district/), which is free for every to go! It offers Disney-themed shopping and dinning experience. On select days, there is also live performance.
+Disneyland is the very first theme park opened by the Walt Disney Company, where Disney California Adventure was opened back in 2001. Disneyland offers more family friendly attractions, where California Adventure offers more thrilling ones. They are both located one block away from the hotel. **Please note that although tickets are sold at the gate, reservation is needed to get into the park. If you plan to visit them, we recommend booking online.** Along with the two Disney parks, there is also [Downtown Disney District](https://disneyland.disney.go.com/destinations/downtown-disney-district/), which is free for everyone to go! It offers Disney-themed shopping and dinning experience. On select days, there is also live performance.
 
 Access https://disneyland.disney.go.com/ for more information about the parks, tickets, and reservation.
 
