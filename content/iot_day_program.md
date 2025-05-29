@@ -23,26 +23,26 @@ title: "IoT Day Program"
 {{< /panel >}}
 {{< /timeline >}}
 
-{{< timeline time="11:30 AM - 01:00 PM" title="Lunch" >}}
+{{< timeline time="12:30 PM - 02:00 PM" title="Lunch" >}}
 {{< /timeline >}}
 
-{{< timeline time="01:00 PM - 02:00 PM" >}}
+{{< timeline time="02:00 PM - 03:00 PM" >}}
 {{< panel header="Keynote 4" subheader="Speaker: Lin Zhong, Yale University" >}}
 {{< profile_pic src="../images/iot_day/lin_zhong.jpg" >}}
 {{< /panel >}}
 {{< /timeline >}}
 
-{{< timeline time="02:15 PM - 03:15 PM" >}}
+{{< timeline time="03:15 PM - 04:15 PM" >}}
 {{< panel header="Keynote 5" subheader="Speaker: Landon Cox, Microsoft Research" >}}
 {{< profile_pic src="../images/iot_day/landon_cox.jpg" >}}
 {{< /panel >}}
 {{< /timeline >}}
 
-{{< timeline time="03:15 PM - 03:45 PM" title="Coffee Break" >}}
+<!-- {{< timeline time="03:15 PM - 03:45 PM" title="Coffee Break" >}}
+{{< /timeline >}} -->
+
+{{< timeline time="04:30 PM - 05:20 PM" title="Panel discussion" >}}
 {{< /timeline >}}
 
-{{< timeline time="03:45 PM - 05:00 PM" title="Panel discussion" >}}
-{{< /timeline >}}
-
-{{< timeline time="05:00 PM" title="Closing remarks" >}}
+{{< timeline time="05:20 PM" title="Closing remarks" >}}
 {{< /timeline >}}
