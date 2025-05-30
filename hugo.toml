@@ -77,6 +77,11 @@ enableRobotsTXT = true
     parent = "Accepted"
     weight = 3
   [[menu.main]]
+    name = "Accepted Demos"
+    url = "/accepted_demos/"
+    parent = "Accepted"
+    weight = 4
+  [[menu.main]]
     name = "Program"
     url = "#"
     weight = 4
