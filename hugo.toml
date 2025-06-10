@@ -72,13 +72,13 @@ enableRobotsTXT = true
     parent = "Accepted"
     weight = 2
   [[menu.main]]
-    name = "Accepted Workshops"
-    url = "/accepted_workshops/"
+    name = "Accepted Demos"
+    url = "/accepted_demos/"
     parent = "Accepted"
     weight = 3
   [[menu.main]]
-    name = "Accepted Demos"
-    url = "/accepted_demos/"
+    name = "Accepted Workshops"
+    url = "/accepted_workshops/"
     parent = "Accepted"
     weight = 4
   [[menu.main]]
