@@ -44,7 +44,7 @@ title: "Accepted Demos"
 
 - **Demo: InvisibleFence: Non-Lethal, Edge-Optimized AI for Coexistence and Crop Protection**
 
-  Authors: Snehalraj Chugh, Elijah Polyakov, Milind Rampure, Bipendra Basnyat, Nirmalya Roy (University of Maryland Baltimore County)
+  Authors: Snehalraj Chugh, Milind Rampure, Elijah Polyakov, Bipendra Basnyat, Nirmalya Roy (University of Maryland Baltimore County)
 
 - **Demo: Enabling Ubiquitous Connectivity for Embedded Systems through Audio-Broadcasting Low-power Tags**
 
