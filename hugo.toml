@@ -101,6 +101,11 @@ enableRobotsTXT = true
     parent = "Program"
     weight = 3
   [[menu.main]]
+    name = "N<sup>2</sup>Women Program"
+    url = "/n2women_program/"
+    parent = "Program"
+    weight = 4
+  [[menu.main]]
     name = "Attending"
     url = "#"
     weight = 5

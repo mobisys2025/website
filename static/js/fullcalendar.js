@@ -57,7 +57,7 @@ document.addEventListener("DOMContentLoaded", function () {
     dayMaxEvents: false,
     height: "auto",
     contentHeight: "auto",
-    slotEventOverlap: true,
+    slotEventOverlap: false,
     fixedWeekCount: false,
     showNonCurrentDates: false,
     nextDayThreshold: "00:00:00",
@@ -69,6 +69,18 @@ document.addEventListener("DOMContentLoaded", function () {
     allDaySlot: true,
     slotDuration: "01:00:00",
     snapDuration: "01:00:00",
+    // Event ordering configuration
+    eventOrder: function(a, b) {
+      // N2Women events (groupId: "n2women") should appear on the right
+      const aIsN2Women = a.groupId === "n2women";
+      const bIsN2Women = b.groupId === "n2women";
+      
+      if (aIsN2Women && !bIsN2Women) return 1; // a (N2Women) goes after b (right side)
+      if (!aIsN2Women && bIsN2Women) return -1; // b (N2Women) goes after a (right side)
+      
+      // If both are N2Women or both are not N2Women, maintain original order
+      return 0;
+    },
     // eventContent: function(arg) {
     //   return {
     //     html: '<div class="fc-event-title-container"><div class="fc-event-title fc-sticky">' + arg.timeText + ' ' + arg.event.title + '</div></div>'
@@ -95,11 +107,18 @@ document.addEventListener("DOMContentLoaded", function () {
         start: "2025-06-27",
       },
       {
-        title: "IoT Day Opening Remarks",
-        start: "2025-06-23T08:50:00",
+        title: "Opening Remarks",
+        start: "2025-06-23T08:45:00",
         end: "2025-06-23T09:00:00",
-        backgroundColor: "#6A4E77",
+        backgroundColor: "#3788d8",
+        classNames: ["no-time"]
       },
+      // {
+      //   title: "IoT Day Opening Remarks",
+      //   start: "2025-06-23T08:40:00",
+      //   end: "2025-06-23T09:00:00",
+      //   backgroundColor: "#6A4E77",
+      // },
       {
         title: "IoT Day Keynote 1",
         start: "2025-06-23T09:00:00",
@@ -141,17 +160,53 @@ document.addEventListener("DOMContentLoaded", function () {
         url: "/mobisys/2025/iot_day_program/#keynote-5",
         backgroundColor: "#6A4E77",
       },
-      // {
-      //   title: "Coffee Break",
-      //   start: "2025-06-23T15:15:00",
-      //   end: "2025-06-23T15:45:00",
-      //   backgroundColor: "#B55E3C",
-      // },
+      {
+        title: "Coffee Break",
+        start: "2025-06-23T15:00:00",
+        end: "2025-06-23T15:30:00",
+        backgroundColor: "#B55E3C",
+      },
       {
         title: "IoT Day Panel Discussion",
         start: "2025-06-23T16:30:00",
         end: "2025-06-23T17:20:00",
         backgroundColor: "#6A4E77",
+      },
+      // {
+      //   title: "N2Women Opening Remarks",
+      //   start: "2025-06-23T08:45:00",
+      //   end: "2025-06-23T09:00:00",
+      //   backgroundColor: "#412C50",
+      //   groupId: "n2women",
+      // },
+      {
+        title: "N2Women Keynote",
+        start: "2025-06-23T09:00:00",
+        end: "2025-06-23T10:00:00",
+        url: "/mobisys/2025/n2women_program/#keynote",
+        backgroundColor: "#412C50",
+        groupId: "n2women",
+      },
+      {
+        title: "N2Women Poster Session",
+        start: "2025-06-23T10:00:00",
+        end: "2025-06-23T12:30:00",
+        backgroundColor: "#412C50",
+        groupId: "n2women",
+      },
+      {
+        title: "N2Women Panel",
+        start: "2025-06-23T14:00:00",
+        end: "2025-06-23T15:00:00",
+        backgroundColor: "#412C50",
+        groupId: "n2women",
+      },
+      {
+        title: "N2Women Mentor Session",
+        start: "2025-06-23T15:30:00",
+        end: "2025-06-23T17:00:00",
+        backgroundColor: "#412C50",
+        groupId: "n2women",
       },
       {
         title: "Registration",
