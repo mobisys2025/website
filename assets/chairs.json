@@ -330,6 +330,12 @@
                 "affiliation": "University of California, Irvine",
                 "image": "mingyi_chen.png",
                 "contact": "mingyi.chen@uci.edu"
+            },
+            {
+                "name": "Rui Zheng",
+                "affiliation": "Zhejiang University",
+                "image": "rui_zheng.jpg",
+                "contact": "zr_12f@zju.edu.cn"
             }
         ]
     }
