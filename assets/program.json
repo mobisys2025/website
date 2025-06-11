@@ -3,7 +3,7 @@
         {
             "title": "Session 1 - Sensing",
             "time": "10:30 AM - 12:00 PM",
-            "chair": "",
+            "chair": "Sijie Ji, California Institute of Technology",
             "papers": [
                 {
                     "title": "MobiChem: A Low-Cost Smartphones-based Toolkit for Practical Fruit Monitoring",
@@ -42,7 +42,7 @@
         {
             "title": "Session 2 - Internet of Things",
             "time": "1:30 PM - 3:25 PM",
-            "chair": "",
+            "chair": "Zerina Kapetanovic, Stanford University",
             "papers": [
                 {
                     "title": "Are LoRa Logical Channels Really Orthogonal? Practically Orthogonalizing Massive Logical Channels",
@@ -89,7 +89,7 @@
         {
             "title": "Session 3 - LLM",
             "time": "3:50 PM - 5:20 PM",
-            "chair": "",
+            "chair": "Akshay Gadre, University of Washington",
             "papers": [
                 {
                     "title": "CoT-LM: A Data-Free Collaborative Fine-Tuning Framework for Large and Small Language Models",
@@ -130,7 +130,7 @@
         {
             "title": "Session 4 - Tools and Testbeds",
             "time": "10:10 AM - 12:05 PM",
-            "chair": "",
+            "chair": "Huangxun Chen, Hong Kong University of Science and Technology (Guangzhou)",
             "papers": [
                 {
                     "title": "ARMing x86 Games: Accelerating Binary Translation Using Software-Only Validated Flag Speculation",
@@ -177,7 +177,7 @@
         {
             "title": "Session 5 - AR/VR/XR",
             "time": "1:35 PM - 3:05 PM",
-            "chair": "",
+            "chair": "Anh Nguyen, University of Montana",
             "papers": [
                 {
                     "title": "ARIA: Optimizing Vision Foundation Model Inference on Heterogeneous Mobile Processors for Augmented Reality",
@@ -216,7 +216,7 @@
         {
             "title": "Session 6 - Smart Surfaces and FutureG",
             "time": "4:00 PM - 5:30 PM",
-            "chair": "",
+            "chair": "Elahe Soltanaghai, University of Illinois Urbana-Champaign",
             "papers": [
                 {
                     "title": "HELIX: High-speed Real-Time Experimentation Platform for 6G Wireless Networks",
@@ -257,7 +257,7 @@
         {
             "title": "Session 7 - Video and Vision",
             "time": "9:00 AM - 10:30 AM",
-            "chair": "",
+            "chair": "Swarun Kumar, Carnegie Mellon University",
             "papers": [
                 {
                     "title": "DeltaStream: 2D-Inferred Delta Encoding for Live Volumetric Video Streaming",
@@ -296,7 +296,7 @@
         {
             "title": "Session 8 - Robotic and Vehicular Systems",
             "time": "10:40 AM - 12:10 PM",
-            "chair": "",
+            "chair": "Hang Qiu, University of California, Riverside (UCR)",
             "papers": [
                 {
                     "title": "Toward Spoofing-Resilient and Communication-Integrated MmWave Radar Sensing",
@@ -335,7 +335,7 @@
         {
             "title": "Session 9 - Security and Privacy",
             "time": "1:40 PM - 3:10 PM",
-            "chair": "",
+            "chair": "Zephyr Yao, New Jersey Institute of Technology",
             "papers": [
                 {
                     "title": "CAMPrints: Leveraging the \"Fingerprints\" of Digital Cameras to Combat Image Theft",
@@ -374,7 +374,7 @@
         {
             "title": "Session 10 - Edge and Embedded Systems",
             "time": "3:35 PM - 5:05 PM",
-            "chair": "",
+            "chair": "Przemysław Pawełczak, Technische Universiteit Delft (TU Delft)",
             "papers": [
                 {
                     "title": "Agile3D: Adaptive Contention- and Content-Aware 3D Object Detection for Embedded GPUs",
