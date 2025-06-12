@@ -34,47 +34,49 @@
               {{ end }}
             </div>
           </div>
-          <div id="panel-{{ anchorize $session.title }}" class="panel-content" {{ if ne $open "true"
-            }}style="display: none;" {{ end }}>
+          <div id="panel-{{ anchorize $session.title }}" class="panel-content" {{ if ne $open "true" }} style="display: none;" {{ end }}>
             {{ range $index, $paper := $session.papers }}
             <div class="paper">
               <div class="paper-title">
                 {{ if $paper.doi }}
-                <a href="{{ $paper.doi }}">{{ $paper.title }}</a>
+                <a href="https://doi.org/{{ $paper.doi }}" target="_blank">{{ $paper.title }}</a>
                 {{ else }}
                 {{ $paper.title }}
                 {{ end }}
               </div>
               <div class="paper-authors">{{ $paper.authors }}</div>
-              {{ if $paper.teaser}}
-              <div class="paper-links">
-                {{ if $paper.teaser }}
-                <a href="{{ $paper.teaser }}">Teaser</a>
+              <div class="paper-info">
+                {{ if $paper.teaser}}
+                  <div class="paper-teaser">
+                    <i class="bi bi-youtube"></i>
+                    <a href="{{ $paper.teaser }}" target="_blank">Teaser</a>
+                  </div>
                 {{ end }}
-              </div>
-              {{ end }}
-              {{ if or $paper.badge $paper.artifact }}
-              <div class="paper-badges">
                 {{ if $paper.artifact }}
-                <img
-                  src="https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/artifacts_available_dl.jpg"
-                  alt="Available Badge" /> Artifacts Available
+                  <div class="paper-artifact">
+                    <img src="https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/artifacts_available_dl.jpg" alt="Artifacts Available Badge" />
+                    <a href="{{ $paper.artifact }}" target="_blank">Artifacts Available</a>
+                  </div>
                 {{ end }}
-                {{ range $badge := $paper.badge }}
-                {{ if eq $badge "functional" }}
-                <img
-                  src="https://www.acm.org/binaries/content/gallery/acm/publications/large-replication-badges/artifacts_evaluated_functional.jpg"
-                  alt="Functional Badge" /> Artifacts Evaluated – Functional
-                {{ else if eq $badge "reusable" }}
-                <img
-                  src="https://www.acm.org/binaries/content/gallery/acm/publications/large-replication-badges/artifacts_evaluated_reusable.jpg"
-                  alt="Reusable Badge" /> Artifacts Evaluated – Reusable
-                {{ else }}
-                {{/* {{ $badge }} */}}
+                {{ if $paper.artifact_functional}}
+                  <div class="paper-artifact">
+                    <img src="https://www.acm.org/binaries/content/gallery/acm/publications/large-replication-badges/artifacts_evaluated_functional.jpg" alt="Artifacts Evaluated Functional Badge" />
+                    <em>Artifacts Evaluated - Functional</em>
+                  </div>
                 {{ end }}
+                {{ if $paper.artifact_reusable }}
+                  <div class="paper-artifact">
+                    <img src="https://www.acm.org/binaries/content/gallery/acm/publications/large-replication-badges/artifacts_evaluated_reusable.jpg" alt="Artifacts Evaluated Reusable Badge" />
+                    <em>Artifacts Evaluated - Reusable</em>
+                  </div>
+                {{ end }}
+                {{ if $paper.artifact_replicated }}
+                  <div class="paper-artifact">
+                    <img src="https://www.acm.org/binaries/content/gallery/acm/publications/replication-badges/results_replicated_dl.jpg" alt="Results Replicated Badge" />
+                    <em>Artifacts Evaluated - Replicated</em>
+                  </div>
                 {{ end }}
               </div>
-              {{ end }}
             </div>
             {{ if ne $index (sub (len $session.papers) 1) }}
             <hr>

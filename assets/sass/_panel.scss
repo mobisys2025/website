@@ -81,22 +81,37 @@
 }
 
 .panel-content hr {
-  margin: 0.5em 0;
+  margin: 0.7em 0;
   border: none;
   border-top: 1px solid colors.$color-gray-300;
 }
 
-.panel .paper-title {
+.panel .paper-title,
+.panel .paper-title a {
   font-weight: bold;
-  // margin-bottom: 0.5em;
+  margin-bottom: 0.2em;
 }
 
 .panel .paper-authors {
   font-style: italic;
+  margin-bottom: 0.3em;
 }
 
-.panel .paper-badges img {
+.panel .paper-info {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  font-size: 13px;
+  gap: 1em;
+}
+
+.panel .paper-info img,
+.panel .paper-info i {
   width: 20px;
   height: 20px;
-  margin-right: 5px;
+  font-size: 15px;
+}
+
+.panel .paper-artifact em {
+  font-style: normal;
 }

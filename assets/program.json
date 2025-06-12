@@ -11,7 +11,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "PIT: A Novel Toothbrush Providing Real-Time and Robust Plaque Indication During Brushing",
@@ -19,7 +21,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "SigChord: Sniffing Wide Non-sparse Multiband Signals for Terrestrial and Non-terrestrial Networks",
@@ -27,7 +31,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "TerraSLAM: Towards GPS-Denied Localization",
@@ -35,7 +41,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 }
             ]
         },
@@ -50,7 +58,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "Programming Embedded IoT Applications in Natural Language with IoTPilot",
@@ -58,7 +68,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "Satori: In-band Analog Backscatter for Audio Transmission",
@@ -66,7 +78,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "Unraveling the Missing Link in Low-power Communication: An Autodyning Receiver Architecture that Achieves a Long Range",
@@ -74,7 +88,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "Towards Distance-Adaptive Wireless Charging",
@@ -82,7 +98,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 }
             ]
         },
@@ -97,7 +115,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "EdgeLoRA: An Efficient Multi-Tenant LLM Serving System on Edge Devices",
@@ -105,7 +125,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "Never Start from Scratch: Expediting On-Device LLM Personalization via Explainable Model Selection",
@@ -113,7 +135,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "WhisperFlow: speech foundation models in real time",
@@ -121,7 +145,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 }
             ]
         }
@@ -138,7 +164,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "DAF: An Efficient End-to-End Dynamic Activation Framework for on-Device DNN Training",
@@ -146,7 +174,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "Data Can Speak for Itself: Quality-guided Utilization of Wireless Synthetic Data",
@@ -154,7 +184,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "Improving On-device GUI Agents with Document-guided Program Generation",
@@ -162,7 +194,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "Shepherd Nova: A Public Testbed for Rigorous Experiments Under Repeatable Energy-Harvesting Conditions",
@@ -170,7 +204,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 }
             ]
         },
@@ -185,7 +221,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "EffVR: Enhancing Energy and Computation Efficiency of Mobile Virtual Reality",
@@ -193,7 +231,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "PointPresence: An Online Habitat for Multi-User Mixed Reality Telepresence",
@@ -201,7 +241,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "Tracking Blink Dynamics and Mental States on Glasses",
@@ -209,7 +251,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 }
             ]
         },
@@ -224,7 +268,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "High-resolution mmWave Imaging using Metasurface and Diffusion",
@@ -232,7 +278,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "MetaGen: LLM-Driven Generative Framework for Intelligent Metasurface Element",
@@ -240,7 +288,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "RISENSE: Long-Range In-Band Wireless Control of Passive Reconfigurable Intelligent Surfaces",
@@ -248,7 +298,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 }
             ]
         }
@@ -265,7 +317,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "Empilo: Realizing Immersive Mobile 3D Video Conferencing through Parameterized Communication",
@@ -273,7 +327,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "NeRFlow: Towards Adaptive Streaming for NeRF Videos",
@@ -281,7 +337,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "Towards End-to-End Latency Guarantee in MEC Live Video Analytics with App-RAN Mutual Awareness",
@@ -289,7 +347,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 }
             ]
         },
@@ -304,7 +364,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "Dynamic Defense for Car-Borne LiDAR Vehicle Detection",
@@ -312,7 +374,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "Non-Line-of-Sight 3D Object Reconstruction via mmWave Surface Normal Estimation",
@@ -320,7 +384,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "UniSense: Spatial-Uncertainty-Aware Collaborative Sensing for Autonomous Driving",
@@ -328,7 +394,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 }
             ]
         },
@@ -343,7 +411,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "Chameleon: Towards Building Least-privileged TEE via Functionality-based Resource Re-grouping",
@@ -351,7 +421,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "Detection and Tracking of Drone Swarms using LiDAR",
@@ -359,7 +431,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "SecHeadset: A Practical Privacy Protection System for Real-time Voice Communication",
@@ -367,7 +441,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 }
             ]
         },
@@ -382,7 +458,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "EAR-Mapping: Edge-Assisted Real-Time Dense Mapping with Low Bandwidth Requirements",
@@ -390,7 +468,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "Hopter: a Safe, Robust, and Responsive Embedded Operating System",
@@ -398,7 +478,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 },
                 {
                     "title": "LEGO+: Redefining the Redundancy Removal for IoT Sensing Edge-End Systems",
@@ -406,7 +488,9 @@
                     "doi": "",
                     "teaser": "",
                     "artifact": "",
-                    "badge": []
+                    "artifact_functional": false,
+                    "artifact_reusable": false,
+                    "artifact_replicated": false
                 }
             ]
         }
