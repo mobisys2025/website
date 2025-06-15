@@ -36,8 +36,9 @@ The 23rd ACM International Conference on Mobile Systems, Applications, and Servi
 <div class="no-indent">
 {{< /rawhtml >}}
 
-- June 10th, 2025 - {{<rawhtml>}}<a href="./n2women_program/">N<sup>2</sup>Women Program</a>{{</rawhtml>}} **is available** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
-- June 10th, 2025 - **Hotel Room Conference Rate Deadline is extended** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
+- June 15th, 2025 - **[Rising Stars Forum Program](./rising_stars_program/) is available** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
+- June 10th, 2025 - {{<rawhtml>}}<a href="./n2women_program/">N<sup>2</sup>Women Program</a>{{</rawhtml>}} **is available**
+- June 10th, 2025 - **Hotel Room Conference Rate Deadline is extended**
 - May 29th, 2025 - **[Accepted Demos](./accepted_demos/) are available**
 - May 26th, 2025 - **[Transportation](./transportation/) information is available**
 - May 26th, 2025 - **[Sightseeing](./sightseeing/) information is available**

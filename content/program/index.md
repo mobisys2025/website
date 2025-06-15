@@ -9,7 +9,7 @@ title: "Program"
 
 ## Monday, June 23
 
-Please visit the respective program of [IoT Day](../iot_day_program/), [{{<rawhtml>}}N<sup>2</sup>Women{{</rawhtml>}}](../n2women_program/) and Rising Stars for their detailed schedule.
+Please visit the respective program of [IoT Day](../iot_day_program/), [{{<rawhtml>}}N<sup>2</sup>Women{{</rawhtml>}}](../n2women_program/) and [Rising Stars](../rising_stars_program/) for their detailed schedule.
 
 {{< panel data="program.json" open="true" />}}
 
