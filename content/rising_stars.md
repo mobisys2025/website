@@ -27,3 +27,43 @@ The forum will also include a panel. The panelists will also offer their experie
 - Submission template format should follow ACM Master Article Template: https://www.acm.org/publications/proceedings-template (with sigconf setting).
 - Submissions do not need to be anonymous and should have the PhD student or postdoc as the sole author.
 - Submission Site: https://mobisys25risingstar.hotcrp.com/
+
+## Forum Co-chairs
+
+- [Nirupam Roy](https://www.cs.umd.edu/~nirupam/), University of Maryland, College Park
+- [Shijia Pan](https://www.panslab.com), University of California, Merced
+
+## Student Organizers
+
+- [Yang Bai](https://www.cs.umd.edu/~yangbai8/), University of Maryland, College Park
+- [Nakul Garg](https://www.cs.umd.edu/~nakul/), University of Maryland, College Park
+
+## Expert Reviewers
+
+- [Akshay Gadre](https://www.akshaygadre.com), University of Washington
+- [Alex Mariakakis](https://mariakakis.github.io), University of Toronto
+- [Ambuj Varshney](https://ambuj.se), National University of Singapore
+- [Amod Agrawal](https://www.linkedin.com/in/agrawalamod/), Amazon Lab126
+- [Ashutosh Dhekne](https://faculty.cc.gatech.edu/~dhekne/), Georgia Institute of Technology
+- [Bo Han](https://cs.gmu.edu/~bohan/), George Mason University
+- [Dheryta Jaisinghani](https://dheryta.info), University of Northern Iowa
+- [Dimitrios Koutsonikolas](https://ece.northeastern.edu/fac-ece/dkoutsonikolas/), Northeastern University
+- [Dong Li](https://leetton.github.io/), University of Maryland Baltimore County
+- [Dong Ma](https://www.dongma.info/), Singapore Management University
+- [Elahe Soltanaghai](https://elahe.web.illinois.edu/), University of Illinois Urbana‑Champaign
+- [Ish Jain](https://ishjain.github.io), Rensselaer Polytechnic Institute
+- [Jun Han](https://www.junhan.org), KAIST
+- [Justin Chan](https://www.cs.cmu.edu/~justinc3/), Carnegie Mellon University
+- [Longfei Shangguan](https://shanggdlk.github.io), University of Pittsburgh
+- [Lu Su](https://engineering.purdue.edu/~lusu/), Purdue University
+- [Mi Zhang](https://mi-zhang.github.io), Ohio State University
+- [Omid Abari](https://web.cs.ucla.edu/~omid/), UCLA
+- [Parth Pathak](http://www.phpathak.com), George Mason University
+- [Robert LiKamWa](http://meteor.ame.asu.edu), Arizona State University
+- [Shahriar Nirjon](https://cs.unc.edu/~nirjon/), University of North Carolina at Chapel Hill
+- [Sreenivasan Ramamurthy](https://sreeniramamurthy.github.io), Bowie State University
+- [Steve Ko](https://steveyko.github.io), Simon Fraser University
+- [Suman Banerjee](https://pages.cs.wisc.edu/~suman/), University of Wisconsin–Madison
+- [Swarun Kumar](https://swarunkumar.com), Carnegie Mellon University
+- [Xiaofan "Fred" Jiang](http://fredjiang.com), Columbia University
+- [Zerina Kapetanovic](https://www.zerinakapetanovic.com), Stanford University
