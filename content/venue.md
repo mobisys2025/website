@@ -29,6 +29,7 @@ The Hilton Anaheim, fully-renovated in 2025, is located in the heart of Californ
     icon="buildings-fill"
     text="Hotel Booking"
     subtext="Group Code: ACM"
+    disabled="true"
 >}}
 
 Here is the information for your online reservation link: https://book.passkey.com/go/MobiSys2025

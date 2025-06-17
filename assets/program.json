@@ -3,6 +3,7 @@
         {
             "title": "Session 1 - Sensing",
             "time": "10:30 AM - 12:00 PM",
+            "location": "Pacific Ballroom C",
             "chair": "Sijie Ji, California Institute of Technology",
             "papers": [
                 {
@@ -50,6 +51,7 @@
         {
             "title": "Session 2 - Internet of Things",
             "time": "1:30 PM - 3:25 PM",
+            "location": "Pacific Ballroom C",
             "chair": "Zerina Kapetanovic, Stanford University",
             "papers": [
                 {
@@ -107,6 +109,7 @@
         {
             "title": "Session 3 - LLM",
             "time": "3:50 PM - 5:20 PM",
+            "location": "Pacific Ballroom C",
             "chair": "Akshay Gadre, University of Washington",
             "papers": [
                 {
@@ -156,6 +159,7 @@
         {
             "title": "Session 4 - Tools and Testbeds",
             "time": "10:10 AM - 12:05 PM",
+            "location": "Pacific Ballroom C",
             "chair": "Huangxun Chen, Hong Kong University of Science and Technology (Guangzhou)",
             "papers": [
                 {
@@ -213,6 +217,7 @@
         {
             "title": "Session 5 - AR/VR/XR",
             "time": "1:35 PM - 3:05 PM",
+            "location": "Pacific Ballroom C",
             "chair": "Anh Nguyen, University of Montana",
             "papers": [
                 {
@@ -260,6 +265,7 @@
         {
             "title": "Session 6 - Smart Surfaces and FutureG",
             "time": "4:00 PM - 5:30 PM",
+            "location": "Pacific Ballroom C",
             "chair": "Elahe Soltanaghai, University of Illinois Urbana-Champaign",
             "papers": [
                 {
@@ -309,6 +315,7 @@
         {
             "title": "Session 7 - Video and Vision",
             "time": "9:00 AM - 10:30 AM",
+            "location": "Pacific Ballroom C",
             "chair": "Swarun Kumar, Carnegie Mellon University",
             "papers": [
                 {
@@ -356,6 +363,7 @@
         {
             "title": "Session 8 - Robotic and Vehicular Systems",
             "time": "10:40 AM - 12:10 PM",
+            "location": "Pacific Ballroom C",
             "chair": "Hang Qiu, University of California, Riverside (UCR)",
             "papers": [
                 {
@@ -403,6 +411,7 @@
         {
             "title": "Session 9 - Security and Privacy",
             "time": "1:40 PM - 3:10 PM",
+            "location": "Pacific Ballroom C",
             "chair": "Zephyr Yao, New Jersey Institute of Technology",
             "papers": [
                 {
@@ -450,6 +459,7 @@
         {
             "title": "Session 10 - Edge and Embedded Systems",
             "time": "3:35 PM - 5:05 PM",
+            "location": "Pacific Ballroom C",
             "chair": "Przemysław Pawełczak, Technische Universiteit Delft (TU Delft)",
             "papers": [
                 {

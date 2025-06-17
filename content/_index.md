@@ -19,12 +19,12 @@ The 23rd ACM International Conference on Mobile Systems, Applications, and Servi
     text="Registration Now!"
 >}}
 
-{{< button
+<!-- {{< button
     link="https://book.passkey.com/go/MobiSys2025" 
     icon="buildings-fill"
     text="Hotel Booking"
     subtext="Group Code: ACM"
->}}
+>}} -->
 
 ## Important Dates
 
@@ -36,7 +36,8 @@ The 23rd ACM International Conference on Mobile Systems, Applications, and Servi
 <div class="no-indent">
 {{< /rawhtml >}}
 
-- June 15th, 2025 - **[Rising Stars Forum Program](./rising_stars_program/) is available** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
+- June 17th, 2025 - **[IoT Day Program](./iot_day_program/) is available** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
+- June 15th, 2025 - **[Rising Stars Forum Program](./rising_stars_program/) is available**
 - June 10th, 2025 - {{<rawhtml>}}<a href="./n2women_program/">N<sup>2</sup>Women Program</a>{{</rawhtml>}} **is available**
 - June 10th, 2025 - **Hotel Room Conference Rate Deadline is extended**
 - May 29th, 2025 - **[Accepted Demos](./accepted_demos/) are available**
@@ -46,7 +47,6 @@ The 23rd ACM International Conference on Mobile Systems, Applications, and Servi
 - May 16th, 2025 - **[Full Program](./program/) is available**
 - May 16th, 2025 - **[Keynotes](./keynotes/) are available**
 - May 9th, 2025 - **[Visa Information](./visa/) is available**
-- May 9th, 2025 - **[IoT Day Program](./iot_day_program/) (Tentative) is available**
 - May 5th, 2025 - **[Accepted Papers](./accepted_papers/) are available**
 - May 1st, 2025 - **[Registration](./registration/) is open**
 - Apr 28th, 2025 - **[Hotel Booking](./venue/#accommodation) is open**

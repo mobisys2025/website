@@ -19,7 +19,7 @@
 
 .timeline-item {
   position: relative;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.5em;
 }
 
 // .timeline-item::before {
@@ -36,10 +36,23 @@
 // }
 
 .timeline-item-time {
-  color: #666;
-  font-size: 15px;
-  font-weight: 600;
-  margin-bottom: 0.5rem;
+  color: colors.$color-gray-600;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.timeline-item-location {
+  color: colors.$color-green-800;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.timeline-item-time + .timeline-item-location {
+  margin-top: 0.25em;
+}
+
+.timeline-item-content {
+  margin-top: 0.5em;
 }
 
 .timeline-item-title {

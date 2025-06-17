@@ -7,13 +7,20 @@ function modifyInnerHTML() {
       timeElement.innerHTML = "8:00am - 9:00am";
     }
   });
-  // const hidden_elements = document.querySelectorAll(".fc-event-time-hidden");
-  // hidden_elements.forEach(function (element) {
-  //   const timeElement = element.querySelector(".fc-list-event-time");
-  //   if (timeElement) {
-  //     timeElement.innerHTML = "";
-  //   }
-  // });
+  const halfday_elements = document.querySelectorAll(".fc-event-time-halfday");
+  halfday_elements.forEach(function (element) {
+    const timeElement = element.querySelector(".fc-list-event-time");
+    if (timeElement) {
+      timeElement.innerHTML = "Half-day (morning)";
+    }
+  });
+  const fullday_elements = document.querySelectorAll(".fc-event-time-fullday");
+  fullday_elements.forEach(function (element) {
+    const timeElement = element.querySelector(".fc-list-event-time");
+    if (timeElement) {
+      timeElement.innerHTML = "Full-day";
+    }
+  });
 }
 
 document.addEventListener("DOMContentLoaded", function () {
@@ -109,6 +116,22 @@ document.addEventListener("DOMContentLoaded", function () {
         if (arg.view.type === "calendar") {
           return {
             html: `<div class="fc-event-main-frame"><div class="fc-event-time">8:00 - 9:00</div><div class="fc-event-title-container"><div class="fc-event-title fc-sticky">${arg.event.title}</div></div></div>`,
+          };
+        } else if (arg.view.type === "list") {
+          modifyInnerHTML();
+        }
+      } else if (arg.event.groupId === "halfday-workshop") {
+        if (arg.view.type === "calendar") {
+          return {
+            html: `<div class="fc-event-main-frame"><div class="fc-event-time">Half-day in the morning</div><div class="fc-event-title-container"><div class="fc-event-title fc-sticky">${arg.event.title}</div></div></div>`,
+          };
+        } else if (arg.view.type === "list") {
+          modifyInnerHTML();
+        }
+      } else if (arg.event.groupId === "fullday-workshop") {
+        if (arg.view.type === "calendar") {
+          return {
+            html: `<div class="fc-event-main-frame"><div class="fc-event-time">Full-day</div><div class="fc-event-title-container"><div class="fc-event-title fc-sticky">${arg.event.title}</div></div></div>`,
           };
         } else if (arg.view.type === "list") {
           modifyInnerHTML();
