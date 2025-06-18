@@ -29,7 +29,7 @@ title: "IoT Day Program"
 {{< /panel >}}
 {{< /timeline >}}
 
-{{< timeline time="12:30 PM - 02:00 PM" title="Lunch" location="Outside Restaurant" >}}
+{{< timeline time="12:00 PM - 02:00 PM" title="Lunch" location="Outside Restaurant" >}}
 {{< /timeline >}}
 
 {{< timeline time="02:00 PM - 03:00 PM" location="Pacific Ballroom C" >}}
