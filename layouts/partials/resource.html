@@ -1,0 +1,34 @@
+{{- $path := . -}}
+
+{{ with resources.Get $path }}
+  {{- $filename := path.BaseName $path -}}
+  {{- $ext := path.Ext $path -}}
+  
+  {{- if or (eq $ext ".scss") (eq $ext ".css") -}}
+    {{ $opts := dict
+      "enableSourceMap" (not hugo.IsProduction)
+      "outputStyle" (cond hugo.IsProduction "compressed" "expanded")
+      "targetPath" (printf "css/%s.css" $filename)
+      "transpiler" "dartsass"
+    }}
+    {{ with . | toCSS $opts }}
+      {{ if hugo.IsProduction }}
+        {{ with . | minify | fingerprint }}
+          <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+        {{ end }}
+      {{ else }}
+        <link rel="stylesheet" href="{{ .RelPermalink }}">
+      {{ end }}
+    {{ end }}
+  {{- else if or (eq $ext ".js") (eq $ext ".ts") -}}
+    {{ with . }}
+      {{ if hugo.IsProduction }}
+        {{ with . | minify | fingerprint }}
+          <script src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous"></script>
+        {{ end }}
+      {{ else }}
+        <script src="{{ .RelPermalink }}"></script>
+      {{ end }}
+    {{ end }}
+  {{- end -}}
+{{ end }}

@@ -11,9 +11,9 @@
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.min.css">
 	<link rel="stylesheet" href='{{ relURL (partial "cache-busting.html" "css/icomoon/style.css") }}' />
-	{{ partialCached "css.html" . }}
+	{{ partial "resource.html" "sass/main.scss" }}
 	{{ if eq .Title "Program" }}
-	<script src='{{ relURL (partial "cache-busting.html" "js/index.global.min.js") }}'></script>
-	<script src='{{ relURL (partial "cache-busting.html" "js/fullcalendar.js") }}'></script>
+	{{ partial "resource.html" "js/index.global.min.js" }}
+	{{ partial "resource.html" "js/fullcalendar.js" }}
 	{{ end }}
 </head>
