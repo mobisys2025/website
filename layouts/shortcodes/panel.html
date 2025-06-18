@@ -114,7 +114,7 @@
         </button>
       </div>
       {{ if $subheader }}
-      <div class="panel-subheader">{{ $subheader }}</div>
+      <div class="panel-subheader">{{ $subheader | safeHTML }}</div>
       {{ end }}
     </div>
   </div>

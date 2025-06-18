@@ -6,13 +6,13 @@ title: "IoT Day Program"
 {{< /timeline >}}
 
 {{< timeline time="08:30 AM - 09:30 AM" location="Pacific Ballroom C" >}}
-{{< panel header="Keynote 1" subheader="Speaker: Kamin Whitehouse, Amazon" >}}
+{{< panel header="Keynote 1" subheader="<b>Speaker:</b> Kamin Whitehouse, Amazon<br><b>Moderator:</b> Tianxing Li, Assistant Professor, Michigan State University" >}}
 {{< profile_pic src="../images/iot_day/kamin_whitehouse.jpeg" >}}
 {{< /panel >}}
 {{< /timeline >}}
 
 {{< timeline time="09:45 AM - 10:45 AM" location="Pacific Ballroom C" >}}
-{{< panel header="Keynote 2" subheader="Speaker: Ashutosh Sabharwal, Ernest D. Butcher Professor of Engineering, Rice University" >}}
+{{< panel header="Keynote 2" subheader="<b>Speaker:</b> Ashutosh Sabharwal, Ernest D. Butcher Professor of Engineering, Rice University<br><b>Moderator:</b> VP Nguyen, Assistant Professor, University of Massachusetts Amherst" >}}
     {{< profile_pic src="../images/iot_day/ashutosh_subrarwal.jpg" >}}
     <h3>From Sensors to Deployed Health Programs</h3>
     <p><strong>Abstract:</strong> We share our ongoing journey from innovation to adoption in deployed clinical workflows. We present case studies in pulmonology, diabetes care, and mental health. We highlight how different methodologies - reductive thinking, systems thinking, and partnerships - play a role in different stages of the project.</p>
@@ -21,7 +21,7 @@ title: "IoT Day Program"
 {{< /timeline >}}
 
 {{< timeline time="11:00 AM - 12:00 PM" location="Pacific Ballroom C" >}}
-{{< panel header="Keynote 3" subheader="Speaker: Hanchuan Li, Research Scientist, Meta Reality Labs Research" >}}
+{{< panel header="Keynote 3" subheader="<b>Speaker:</b> Hanchuan Li, Research Scientist, Meta Reality Labs Research<br><b>Moderator:</b> Wei Gao, Associate Professor, University of Pittsburgh" >}}
     {{< profile_pic src="../images/iot_day/hanchuan_li.jpeg" >}}
     <h3>Building Human-Centered Interfaces for Wearable AI</h3>
     <p><strong>Abstract:</strong> The convergence of Artificial Intelligence and all-day wearables is set to unlock the next era of personal computing: a persistent, context-aware assistant that enhances our daily activities. Realizing this vision with all-day wearables demands breakthroughs across a spectrum of technologies. One of the most pivotal challenges lies in defining human interactions with this ever-present technology. To create an experience that is truly seamless, we need to develop rich, intuitive modes of interactions. This talk will highlight the cutting-edge research from Meta Reality Labs Research aimed at solving this problem. We will delve into our work on novel sensing and interaction techniques and discuss how these innovations, leveraged by sophisticated contextual AI, are forging truly frictionless and expressive human-centered interfaces.</p>
@@ -33,7 +33,7 @@ title: "IoT Day Program"
 {{< /timeline >}}
 
 {{< timeline time="02:00 PM - 03:00 PM" location="Pacific Ballroom C" >}}
-{{< panel header="Keynote 4" subheader="Speaker: Lin Zhong, Joseph C. Tsai Professor, Yale University" >}}
+{{< panel header="Keynote 4" subheader="<b>Speaker:</b> Lin Zhong, Joseph C. Tsai Professor, Yale University<br><b>Moderator:</b> Jeremy Gummeson, Assistant Professor, University of Massachusetts Amherst" >}}
     {{< profile_pic src="../images/iot_day/lin_zhong.jpg" >}}
     <h3>Time-Sensitive LLM Serving for Robotic Systems</h3>
     <p><strong>Abstract:</strong> Large language models (LLMs) have shown remarkable capabilities in reasoning and world knowledge, making them promising components for intelligent robotic systems. However, current LLM serving architectures are poorly suited for time-sensitive tasks such as real-time control and decision-making in robotics. Inference is often slow—partly because LLMs are trained to reason with human language and operate within a rigid autoregressive decoding loop. More critically, existing systems lack temporal awareness, processing prompts in a first-come, first-served fashion without regard to deadlines or task priority. This talk presents our recent work on rethinking LLM serving to meet the stringent latency and responsiveness demands of robotic applications. It will highlight key design principles and outline a multidisciplinary research agenda.</p>
@@ -42,7 +42,7 @@ title: "IoT Day Program"
 {{< /timeline >}}
 
 {{< timeline time="03:15 PM - 04:15 PM" location="Pacific Ballroom C" >}}
-{{< panel header="Keynote 5" subheader="Speaker: Landon Cox, Senior Principal Researcher, Microsoft Research" >}}
+{{< panel header="Keynote 5" subheader="<b>Speaker:</b> Landon Cox, Senior Principal Researcher, Microsoft Research<br><b>Moderator:</b> Akshay Gadre, Assistant Professor, University of Washington" >}}
     {{< profile_pic src="../images/iot_day/landon_cox.jpg" >}}
     <h3>Living with C-3PO and R2-D2: Understanding Privacy for Physical AI</h3>
     <p><strong>Abstract:</strong> Artificial intelligence (AI) advancements that interact with the physical world through robots, wearables, and cameras are coming. Consider a domestic service where a team of simple robots helps tidy up. An individual robot may be capable of simple tasks on its own, like picking up trash; other tasks, such as unpacking and putting away groceries, may require multiple robots to coordinate. These robots will require physical AI to translate visual and audio observations into semantics and capture the location and motion of objects. The robots will process data from microphones, LIDAR, and cameras to safely navigate and manipulate objects. The robots may also use information from cameras and microphones in the home. This talk will consider how these systems might influence our sense of privacy (and vice versa), and what regulatory and technical guardrails (if any) might emerge as sensing and AI become seamlessly integrated with our physical environments.</p>
