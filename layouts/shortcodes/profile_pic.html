@@ -1,13 +1,20 @@
-<!-- Profile Picture Shortcode for Square Images -->
-{{ $size := default "200px" (.Get "size") }}
+{{ $size := default "180px" (.Get "size") }}
 {{ $border := default "2px solid #fff" (.Get "border") }}
 {{ $rounded := default "4px" (.Get "rounded") }}
 {{ $alt := default "Profile Picture" (.Get "alt") }}
 {{ $src := .Get "src" }}
+{{ $title := .Get "title" | default "" }}
 {{ if not $src }}
   {{ warnf "No image source provided for profile picture." }}
 {{ end }}
 
 <div style="margin: 0 1rem 0 0; float: left;">
-    <img src="{{ $src }}" alt="{{ $alt }}" style="width: {{ $size }}; height: {{ $size }}; object-fit: cover; border-radius: {{ $rounded }}; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); border: {{ $border }};" />
+  <img src="{{ $src }}" alt="{{ $alt }}" style="display: block; width: {{ $size }}; height: {{ $size }}; object-fit: cover; border-radius: {{ $rounded }}; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); border: {{ $border }};" />
+  {{ if $title }}
+  <div class="image-info">
+    <div class="image-ref">
+      {{ $title }}
+    </div>
+  </div>
+  {{ end }}
 </div>

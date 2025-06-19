@@ -1,6 +1,6 @@
-{{ $id := .Get "id" | default (printf "panel-%s" (anchorize .Inner)) }}
 {{ $header := .Get "header" | default "Title: To Be Determined" }}
 {{ $subheader := .Get "subheader" | default "" }}
+{{ $id := .Get "id" | default $header }}
 {{ $open := .Get "open" | default "true" }}
 {{ $data := .Get "data" | default "" }}
 
@@ -101,7 +101,7 @@
 {{ end }}
 {{ end }}
 {{ else }}
-<div class="panel" id="{{ anchorize $header }}">
+<div class="panel" id="{{ anchorize $id }}">
   <div class="panel-header">
     <div class="panel-title-container">
       <div class="panel-title-row">
