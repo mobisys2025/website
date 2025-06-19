@@ -9,7 +9,9 @@
 {{ $jsonData := $resource | transform.Unmarshal }}
 
 {{ range $day, $sessions := $jsonData }}
+{{ if $day }}
 <h2>{{ $day }}</h2>
+{{ end }}
 {{ range $session := $sessions }}
 <div class="timeline-wrapper">
   <div class="timeline-item">

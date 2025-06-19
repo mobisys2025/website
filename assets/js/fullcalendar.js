@@ -7,13 +7,6 @@ function modifyInnerHTML() {
       timeElement.innerHTML = "8:00am - 9:00am";
     }
   });
-  const n2women_elements = document.querySelectorAll(".fc-n2women-time-manual");
-  n2women_elements.forEach(function (element) {
-    const listElement = element.querySelector(".fc-list-event-time");
-    if (listElement) {
-      listElement.innerHTML = "10:00am - 12:30pm";
-    }
-  });
   const rising_stars_elements = document.querySelectorAll(".fc-rising-stars-time-manual");
   rising_stars_elements.forEach(function (element) {
     const listElement = element.querySelector(".fc-list-event-time");
@@ -125,14 +118,6 @@ document.addEventListener("DOMContentLoaded", function () {
         if (arg.view.type === "calendar") {
           return {
             html: `<div class="fc-event-main-frame"><div class="fc-event-time">8:00 - 9:00</div><div class="fc-event-title-container"><div class="fc-event-title fc-sticky">${arg.event.title}</div></div></div>`,
-          };
-        } else if (arg.view.type === "list") {
-          modifyInnerHTML();
-        }
-      } else if (arg.event.id === "n2women_poster_session") {
-        if (arg.view.type === "calendar") {
-          return {
-            html: `<div class="fc-event-main-frame"><div class="fc-event-time">10:00 - 12:30</div><div class="fc-event-title-container"><div class="fc-event-title fc-sticky">${arg.event.title}</div></div></div>`,
           };
         } else if (arg.view.type === "list") {
           modifyInnerHTML();

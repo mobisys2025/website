@@ -123,6 +123,7 @@
         "title": "N2Women Poster Session [Huntington]",
         "start": "2025-06-23T10:00:00",
         "end": "2025-06-23T12:00:00",
+        "url": "/mobisys/2025/n2women_program/#poster-session",
         "backgroundColor": "#412C50",
         "groupId": "n2women",
         "id": "n2women_poster_session",
@@ -134,6 +135,7 @@
         "title": "N2Women Panel [Huntington]",
         "start": "2025-06-23T14:00:00",
         "end": "2025-06-23T15:00:00",
+        "url": "/mobisys/2025/n2women_program/#panel-session",
         "backgroundColor": "#412C50",
         "groupId": "n2women"
     },

@@ -1,0 +1,61 @@
+{
+    "": [
+        {
+            "title": "Poster Session",
+            "time": "10:00 AM - 12:00 PM",
+            "location": "Huntington",
+            "chair": "",
+            "papers": [
+                {
+                    "title": "CellWatch: The First Third-Party App for the FCC Mobile Challenge Process",
+                    "authors": "Jiayi Liu (University of California, Santa Barbara), Elizabeth Belding (University of California, Santa Barbara)"
+                },
+                {
+                    "title": "Advancing Sensing Capabilities by Repurposing Existing RF Infrastructure",
+                    "authors": "Fateme Nikseresht (University of Virginia), Brad Campbell (University of Virginia)"
+                },
+                {
+                    "title": "Data Can Speak for Itself: Quality-guided Utilization of Wireless Synthetic Data",
+                    "authors": "Chen Gong (Peking University), Bo Liang (Peking University), Wei Gao (University of Pittsburgh), Chenren Xu (Peking University)"
+                },
+                {
+                    "title": "Locating UNauthroized Space Communications",
+                    "authors": "Ishani Janveja (University of Illinois Urbana-Champaign), Jida Zhang (Stanford University), Emerson Sie (University of Illinois at Urbana-Champaign), Deepak Vasisht (University of Illinois Urbana-Champaign)"
+                },
+                {
+                    "title": "𝛿-ATP: Towards Fast and Reliable Aerial Traffic Patrol",
+                    "authors": "Jiaxin Du (Purdue University), Chunyi Peng (Purdue University)"
+                },
+                {
+                    "title": "Clustering-Enhanced Domain Adaptation for Anomaly Detection in Internet of Things Systems",
+                    "authors": "Julia Boone (Clemson University)"
+                },
+                {
+                    "title": "Wireless Johnson Noise Thermometry for Passive Temperature Sensing",
+                    "authors": "Jasmin Falconer (Stanford University), Geneva Ecola (Stanford University), Zerina Kapetanovic (Stanford University)"
+                },
+                {
+                    "title": "Low-Cost Soil Sensing with Wi-Fi and Machine Learning",
+                    "authors": "Jian Ding (Yale University)"
+                },
+                {
+                    "title": "Watching the Watchmen: Generative AI enhanced Continual Learning for Robust Network Intrusion Detection",
+                    "authors": "Ragini Gupta (University of Illinois at Urbana-Champaign), Klara Nahrstedt (University of Illinois at Urbana-Champaign)"
+                },
+                {
+                    "title": "SARLink: Satellite Backscatter Connectivity using Synthetic Aperture Radar",
+                    "authors": "Geneva Ecola (Stanford University), Bill Yen (Stanford University), Ana Banzer Morgado (Stanford University), Ranveer Chandra (Microsoft), Bodhi Priyantha (Microsoft Research), Zerina Kapetanovic (Stanford University)"
+                },
+                {
+                    "title": "No Wires, Just Wear: Monitoring Breathing With Smart Fabrics",
+                    "authors": "Hajara-Yasmin Isa (University of Illinois at Urbana-Champaign), Robin Kravets (University of Illinois Urbana Champaign)"
+                },
+                {
+                    "title": "SiHear (Sign-to-Hear): Empowering Seamless Sign-Speech Interactions over Smart Glasses",
+                    "authors": "Chen Peng (Purdue University), Jiaxin Du (Purdue University), Chunyi Peng (Purdue University)"
+                }
+
+            ]
+        }
+    ]
+}
