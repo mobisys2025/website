@@ -4,7 +4,7 @@ function modifyInnerHTML() {
   manual_elements.forEach(function (element) {
     const timeElement = element.querySelector(".fc-list-event-time");
     if (timeElement) {
-      timeElement.innerHTML = "8:00am - 9:00am";
+      timeElement.innerHTML = "7:45am - 9:00am";
     }
   });
   const halfday_elements = document.querySelectorAll(".fc-event-time-halfday");
@@ -67,6 +67,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     footerToolbar: false,
     navLinks: true,
+    nowIndicator: true,
     editable: false,
     selectable: true,
     dayMaxEvents: false,
@@ -82,8 +83,6 @@ document.addEventListener("DOMContentLoaded", function () {
     navLinks: false,
     dragScroll: false,
     allDaySlot: true,
-    slotDuration: "01:00:00",
-    snapDuration: "01:00:00",
     eventOrder: function (a, b) {
       const currentView = calendar.view.type;
       const groups = ["iot-day", "n2women", "rising_stars"];
@@ -110,7 +109,7 @@ document.addEventListener("DOMContentLoaded", function () {
       if (arg.event.id === "registration_23" || arg.event.id === "breakfast_23") {
         if (arg.view.type === "calendar") {
           return {
-            html: `<div class="fc-event-main-frame"><div class="fc-event-time">8:00 - 9:00</div><div class="fc-event-title-container"><div class="fc-event-title fc-sticky">${arg.event.title}</div></div></div>`,
+            html: `<div class="fc-event-main-frame"><div class="fc-event-time">7:45 - 9:00</div><div class="fc-event-title-container"><div class="fc-event-title fc-sticky">${arg.event.title}</div></div></div>`,
           };
         } else if (arg.view.type === "list") {
           modifyInnerHTML();
@@ -138,8 +137,17 @@ document.addEventListener("DOMContentLoaded", function () {
       start: "2025-06-23",
       end: "2025-06-28",
     },
-    slotMinTime: "08:00:00",
-    slotMaxTime: "21:00:00",
+    slotMinTime: "07:30:00",
+    slotMaxTime: "20:30:00",
+    slotDuration: "00:30:00",
+    snapDuration: "00:30:00",
+    slotLabelInterval: "00:30:00",
+    slotLabelFormat: {
+      hour: 'numeric',
+      minute: '2-digit',
+      omitZeroMinute: true,
+      meridiem: 'short'
+    },
     events: {
       url: "full_program.json",
       extraParams: function () {

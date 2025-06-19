@@ -11,7 +11,7 @@
 }
 
 .fc-timegrid-slot {
-  height: 120px !important;
+  height: 60px !important;
 }
 
 .fc-v-event {
@@ -95,4 +95,12 @@
 
 .fc-event-border-hidden {
   box-shadow: none !important;
+}
+
+.fc-timegrid-slot-label-frame, .fc-scrollgrid-shrink-frame {
+  font-size: 13px;
+}
+
+.fc .fc-timegrid-slot-label {
+  vertical-align: top;
 }

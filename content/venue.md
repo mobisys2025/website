@@ -29,12 +29,12 @@ The Hilton Anaheim, fully-renovated in 2025, is located in the heart of Californ
     icon="buildings-fill"
     text="Hotel Booking"
     subtext="Group Code: ACM"
-    disabled="true"
+    disabled=false
 >}}
 
 Here is the information for your online reservation link: https://book.passkey.com/go/MobiSys2025
 
-Cut-off date for conference rate reservation is **June 16th, 2025**.
+Cut-off date for conference rate reservation is **June 23rd, 2025**.
 
 If you have questions or need help with the link, please do not hesitate to ask. We appreciate your business and look forward to a successful event.
 
