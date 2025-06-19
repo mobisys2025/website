@@ -7,13 +7,6 @@ function modifyInnerHTML() {
       timeElement.innerHTML = "8:00am - 9:00am";
     }
   });
-  const rising_stars_elements = document.querySelectorAll(".fc-rising-stars-time-manual");
-  rising_stars_elements.forEach(function (element) {
-    const listElement = element.querySelector(".fc-list-event-time");
-    if (listElement) {
-      listElement.innerHTML = "11:10am - 12:10pm";
-    }
-  });
   const halfday_elements = document.querySelectorAll(".fc-event-time-halfday");
   halfday_elements.forEach(function (element) {
     const timeElement = element.querySelector(".fc-list-event-time");
@@ -122,17 +115,7 @@ document.addEventListener("DOMContentLoaded", function () {
         } else if (arg.view.type === "list") {
           modifyInnerHTML();
         }
-      } else if (arg.event.id === "rising_stars_session_2") {
-        if (arg.view.type === "calendar") {
-          return {
-            html: `<div class="fc-event-main-frame"><div class="fc-event-time">11:10 - 12:10</div><div class="fc-event-title-container"><div class="fc-event-title fc-sticky">${arg.event.title}</div></div></div>`,
-          };
-        } else if (arg.view.type === "list") {
-          modifyInnerHTML();
-        }
-      }
-      
-      if (arg.event.groupId === "halfday-workshop") {
+      } else if (arg.event.groupId === "halfday-workshop") {
         if (arg.view.type === "calendar") {
           return {
             html: `<div class="fc-event-main-frame"><div class="fc-event-time">Half-day in the morning</div><div class="fc-event-title-container"><div class="fc-event-title fc-sticky">${arg.event.title}</div></div></div>`,

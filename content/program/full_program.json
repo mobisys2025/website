@@ -157,43 +157,39 @@
     {
         "title": "Rising Stars Session 1 [Laguna]",
         "start": "2025-06-23T10:00:00",
-        "end": "2025-06-23T11:05:00",
+        "end": "2025-06-23T10:55:00",
         "url": "/mobisys/2025/rising_stars_program/#session-1---post-doctoral-category",
         "backgroundColor": "#2B6078",
         "groupId": "rising_stars"
     },
     {
         "title": "Rising Stars Session 2 [Laguna]",
-        "start": "2025-06-23T11:10:00",
-        "end": "2025-06-23T12:00:00",
+        "start": "2025-06-23T11:00:00",
+        "end": "2025-06-23T11:50:00",
         "url": "/mobisys/2025/rising_stars_program/#session-2---doctoral-category",
         "backgroundColor": "#2B6078",
-        "id": "rising_stars_session_2",
-        "groupId": "rising_stars",
-        "classNames": [
-            "fc-rising-stars-time-manual"
-        ]
+        "groupId": "rising_stars"
     },
     {
         "title": "Rising Stars Session 3 [Laguna]",
         "start": "2025-06-23T14:00:00",
-        "end": "2025-06-23T15:00:00",
-        "url": "/mobisys/2025/rising_stars_program/#session-3---post-doctoral-category",
+        "end": "2025-06-23T14:50:00",
+        "url": "/mobisys/2025/rising_stars_program/#session-3---doctoral-category",
         "backgroundColor": "#2B6078",
         "groupId": "rising_stars"
     },
     {
         "title": "Rising Stars Session 4 [Laguna]",
         "start": "2025-06-23T15:30:00",
-        "end": "2025-06-23T16:20:00",
-        "url": "/mobisys/2025/rising_stars_program/#session-4---doctoral-category",
+        "end": "2025-06-23T16:35:00",
+        "url": "/mobisys/2025/rising_stars_program/#session-4---post-doctoral-category",
         "backgroundColor": "#2B6078",
         "groupId": "rising_stars"
     },
     {
         "title": "Rising Stars Session 5 [Laguna]",
-        "start": "2025-06-23T16:25:00",
-        "end": "2025-06-23T17:05:00",
+        "start": "2025-06-23T16:40:00",
+        "end": "2025-06-23T17:30:00",
         "url": "/mobisys/2025/rising_stars_program/#session-5---doctoral-category",
         "backgroundColor": "#2B6078",
         "groupId": "rising_stars"
