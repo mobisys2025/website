@@ -6,9 +6,12 @@ title: "IoT Day Program"
 {{< /timeline >}}
 
 {{< timeline time="08:30 AM - 09:30 AM" location="Pacific Ballroom C" >}}
-{{< panel header="Keynote 1" subheader="<b>Speaker:</b> Kamin Whitehouse, Amazon<br><b>Moderator:</b> Tianxing Li, Assistant Professor, Michigan State University" id="keynote-1" >}}
-    {{< profile_pic src="../images/iot_day/kamin_whitehouse.jpeg" title="Kamin Whitehouse" >}}
+{{< panel header="Keynote 1 - How IoT Systems Are Improving Healthcare Delivery in Low-Income Countries" subheader="<b>Speaker:</b> Martin Lukac, Co-Founder and CTO of Nexleaf Analytics<br><b>Moderator:</b> Tianxing Li, Assistant Professor, Michigan State University" id="keynote-1" >}}
+    {{< profile_pic src="../images/iot_day/martin_lukac.jpg" title="Martin Lukac" >}}
     {{< profile_pic src="../images/profiles/tianxin_li.png" title="Tianxing Li" >}}
+    <strong>Abstract:</strong> This presentation explores the journey from academic sensor network research to real-world IoT applications in Low and Middle-Income Countries (LMICs). It emphasizes the importance of understanding local context and user needs, showcasing how data-driven approaches can solve critical challenges in health, infrastructure, and beyond. We'll discuss key lessons learned, including the realization that technology alone is not the solution and the essential role of user-centered design and adaptation.
+    <p><strong>Bio:</strong> Dr. Martin L. Lukac, Ph.D. is Co-Founder and CTO of Nexleaf Analytics. Nexleaf is a social impact technology company with the mission to partner with countries to ensure they have the data they need to build lasting solutions that improve the health of people. In his role as CTO, Martin oversees the innovation pipeline and the continuous improvement of technologies saving lives in low- and middle-income countries (LMICs) at scale. Nexleaf technology moves data from more than 28,000 health facilities around the world and has been deployed in over 30 countries.</p>
+    <p>Martin received his Ph.D. and M.S. from UCLA in Computer Science and his B.S. in Mathematics and Computer Science from Haverford College. Martin and Nithya Ramanathan started Nexleaf in 2009 in Nithya’s garage. Nexleaf’s co-founders saw the potential for wireless sensor data to address big global challenges. As the smartphone revolution changed the landscape for connectivity, Martin prototyped hardware that provided a crucial link to lifesaving equipment deployed in off-grid parts of the world. Nexleaf’s small team pioneered usage-based financing for clean cookstoves and innovated wireless monitoring for vaccine fridges in remote health clinics. Nexleaf has been honored as a Fast Forward Growth Accelerator company, a Gavi INFUSE Pacesetter, and a Tech Award laureate.</p>
 {{< /panel >}}
 {{< /timeline >}}
 
