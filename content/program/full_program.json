@@ -17,17 +17,19 @@
         "start": "2025-06-23T08:00:00",
         "end": "2025-06-23T08:20:00",
         "backgroundColor": "#3A3A3A",
+        "id": "registration_23",
         "classNames": [
-            "fc-list-event-time-manual"
+            "fc-reg-breakfast-time-manual"
         ]
     },
     {
-        "title": "Breakfast",
+        "title": "Breakfast [Pacific Ballroom D]",
         "start": "2025-06-23T08:00:00",
-        "end": "2025-06-23T08:20:00",
+        "end": "2025-06-23T08:40:00",
         "backgroundColor": "#B55E3C",
+        "id": "breakfast_23",
         "classNames": [
-            "fc-list-event-time-manual"
+            "fc-reg-breakfast-time-manual"
         ]
     },
     {
@@ -76,7 +78,7 @@
     },
     {
         "title": "Lunch [Outside Restaurant]",
-        "start": "2025-06-23T12:30:00",
+        "start": "2025-06-23T12:00:00",
         "end": "2025-06-23T14:00:00",
         "backgroundColor": "#B55E3C"
     },
@@ -120,9 +122,13 @@
     {
         "title": "N2Women Poster Session [Huntington]",
         "start": "2025-06-23T10:00:00",
-        "end": "2025-06-23T12:30:00",
+        "end": "2025-06-23T12:00:00",
         "backgroundColor": "#412C50",
-        "groupId": "n2women"
+        "groupId": "n2women",
+        "id": "n2women_poster_session",
+        "classNames": [
+            "fc-n2women-time-manual"
+        ]
     },
     {
         "title": "N2Women Panel [Huntington]",
@@ -157,10 +163,14 @@
     {
         "title": "Rising Stars Session 2 [Laguna]",
         "start": "2025-06-23T11:10:00",
-        "end": "2025-06-23T12:10:00",
+        "end": "2025-06-23T12:00:00",
         "url": "/mobisys/2025/rising_stars_program/#session-2-doctoral-category",
         "backgroundColor": "#2B6078",
-        "groupId": "rising_stars"
+        "id": "rising_stars_session_2",
+        "groupId": "rising_stars",
+        "classNames": [
+            "fc-rising-stars-time-manual"
+        ]
     },
     {
         "title": "Rising Stars Session 3 [Laguna]",
@@ -193,7 +203,7 @@
         "backgroundColor": "#3A3A3A"
     },
     {
-        "title": "Breakfast",
+        "title": "Breakfast [Pacific Ballroom D]",
         "start": "2025-06-24T08:00:00",
         "end": "2025-06-24T09:00:00",
         "backgroundColor": "#B55E3C"
@@ -266,7 +276,7 @@
         "backgroundColor": "#3A3A3A"
     },
     {
-        "title": "Breakfast",
+        "title": "Breakfast [Pacific Ballroom D]",
         "start": "2025-06-25T08:00:00",
         "end": "2025-06-25T09:00:00",
         "backgroundColor": "#B55E3C"
@@ -330,7 +340,7 @@
         "backgroundColor": "#3A3A3A"
     },
     {
-        "title": "Breakfast",
+        "title": "Breakfast [Pacific Ballroom D]",
         "start": "2025-06-26T08:00:00",
         "end": "2025-06-26T09:00:00",
         "backgroundColor": "#B55E3C"
@@ -388,7 +398,7 @@
         "backgroundColor": "#3A3A3A"
     },
     {
-        "title": "Breakfast",
+        "title": "Breakfast [Pacific Ballroom D]",
         "start": "2025-06-27T08:00:00",
         "end": "2025-06-27T09:00:00",
         "backgroundColor": "#B55E3C"

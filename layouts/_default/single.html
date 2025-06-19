@@ -1,9 +1,6 @@
 {{ define "main" }}
 <div class="container">
-  {{ if eq .Title "Program" }}
-  {{ else }}
   <h1>{{ .Title | safeHTML }}</h1>
-  {{ end}}
   {{ .Content }}
 </div>
 {{ end }}

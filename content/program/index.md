@@ -2,7 +2,6 @@
 title: "Program"
 ---
 
-<!-- TODO: Add ics download to footer -->
 {{< rawhtml >}}
 <div id='calendar'></div>
 {{< /rawhtml >}}

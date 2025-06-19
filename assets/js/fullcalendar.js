@@ -1,10 +1,24 @@
 // Add a function to modify the inner HTML of the class
 function modifyInnerHTML() {
-  const manula_elements = document.querySelectorAll(".fc-list-event-time-manual");
-  manula_elements.forEach(function (element) {
+  const manual_elements = document.querySelectorAll(".fc-reg-breakfast-time-manual");
+  manual_elements.forEach(function (element) {
     const timeElement = element.querySelector(".fc-list-event-time");
     if (timeElement) {
       timeElement.innerHTML = "8:00am - 9:00am";
+    }
+  });
+  const n2women_elements = document.querySelectorAll(".fc-n2women-time-manual");
+  n2women_elements.forEach(function (element) {
+    const listElement = element.querySelector(".fc-list-event-time");
+    if (listElement) {
+      listElement.innerHTML = "10:00am - 12:30pm";
+    }
+  });
+  const rising_stars_elements = document.querySelectorAll(".fc-rising-stars-time-manual");
+  rising_stars_elements.forEach(function (element) {
+    const listElement = element.querySelector(".fc-list-event-time");
+    if (listElement) {
+      listElement.innerHTML = "11:10am - 12:10pm";
     }
   });
   const halfday_elements = document.querySelectorAll(".fc-event-time-halfday");
@@ -47,24 +61,24 @@ document.addEventListener("DOMContentLoaded", function () {
       start: "2025-06-23",
       end: "2025-06-27",
     },
-    // customButtons: {
-    //   icsButton: {
-    //     text: '.ics',
-    //     click: function() {
-    //       alert('clicked the custom button!');
-    //     }
-    //   }
-    // },
-    headerToolbar: {
-      left: "title",
-      center: "",
-      right: "calendar,list",
+    customButtons: {
+      icsButton: {
+        text: 'iCalendar',
+        click: function() {
+          const link = document.createElement('a');
+          link.href = 'mobisys25_program.ics';
+          link.download = 'mobisys25_program.ics';
+          document.body.appendChild(link);
+          link.click();
+          document.body.removeChild(link);
+        }
+      }
     },
-    // footerToolbar: {
-    //   left: "",
-    //   center: "",
-    //   right: "icsButton",
-    // },
+    headerToolbar: {
+      left: "calendar,list",
+      center: "",
+      right: "icsButton",
+    },
     footerToolbar: false,
     navLinks: true,
     editable: false,
@@ -107,12 +121,7 @@ document.addEventListener("DOMContentLoaded", function () {
       return 0;
     },
     eventContent: function (arg) {
-      if (
-        (arg.event.title === "Registration" ||
-          arg.event.title === "Breakfast") &&
-        arg.event.start &&
-        arg.event.end.getMinutes() != 0
-      ) {
+      if (arg.event.id === "registration_23" || arg.event.id === "breakfast_23") {
         if (arg.view.type === "calendar") {
           return {
             html: `<div class="fc-event-main-frame"><div class="fc-event-time">8:00 - 9:00</div><div class="fc-event-title-container"><div class="fc-event-title fc-sticky">${arg.event.title}</div></div></div>`,
@@ -120,7 +129,25 @@ document.addEventListener("DOMContentLoaded", function () {
         } else if (arg.view.type === "list") {
           modifyInnerHTML();
         }
-      } else if (arg.event.groupId === "halfday-workshop") {
+      } else if (arg.event.id === "n2women_poster_session") {
+        if (arg.view.type === "calendar") {
+          return {
+            html: `<div class="fc-event-main-frame"><div class="fc-event-time">10:00 - 12:30</div><div class="fc-event-title-container"><div class="fc-event-title fc-sticky">${arg.event.title}</div></div></div>`,
+          };
+        } else if (arg.view.type === "list") {
+          modifyInnerHTML();
+        }
+      } else if (arg.event.id === "rising_stars_session_2") {
+        if (arg.view.type === "calendar") {
+          return {
+            html: `<div class="fc-event-main-frame"><div class="fc-event-time">11:10 - 12:10</div><div class="fc-event-title-container"><div class="fc-event-title fc-sticky">${arg.event.title}</div></div></div>`,
+          };
+        } else if (arg.view.type === "list") {
+          modifyInnerHTML();
+        }
+      }
+      
+      if (arg.event.groupId === "halfday-workshop") {
         if (arg.view.type === "calendar") {
           return {
             html: `<div class="fc-event-main-frame"><div class="fc-event-time">Half-day in the morning</div><div class="fc-event-title-container"><div class="fc-event-title fc-sticky">${arg.event.title}</div></div></div>`,

@@ -79,3 +79,20 @@
 .fc-event-time-hidden .fc-event-time {
   display: none;
 }
+
+.fc-hidden .fc-event-time,
+.fc-hidden .fc-event-title-container {
+  display: none !important;
+}
+
+.fc-icsButton-button {
+  text-transform: none !important;
+}
+
+.fc-timegrid-event, .fc-timegrid-more-link {
+  border-radius: 0 !important;
+}
+
+.fc-event-border-hidden {
+  box-shadow: none !important;
+}
