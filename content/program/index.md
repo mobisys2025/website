@@ -14,6 +14,6 @@ Please visit the respective program of [IoT Day](../iot_day_program/), [{{<rawht
 
 ## Friday, June 27
 
-Please visit the respective program of Workshops for its detailed schedule.
+Please visit the respective program of [Workshops](../accepted_workshops/) for its detailed schedule.
 
 {{< back-to-top >}}
