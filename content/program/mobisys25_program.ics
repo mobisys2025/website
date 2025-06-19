@@ -113,7 +113,7 @@ UID:cb1c61f5-8eae-4237-b9ae-25f7bad0150a
 DTSTART;TZID=America/Los_Angeles:20250623T111000
 DTEND;TZID=America/Los_Angeles:20250623T121000
 SUMMARY:Rising Stars Session 2
-URL:https://mobisys.org/mobisys/2025/rising_stars_program/#session-2-doctoral-category
+URL:https://mobisys.org/mobisys/2025/rising_stars_program/#session-2---doctoral-category
 LOCATION:Laguna
 CLASS:PUBLIC
 END:VEVENT
@@ -207,7 +207,7 @@ UID:0f8d6160-e41d-4536-a3b2-68c6ca2f3122
 DTSTART;TZID=America/Los_Angeles:20250623T100000
 DTEND;TZID=America/Los_Angeles:20250623T110500
 SUMMARY:Rising Stars Session 1
-URL:https://mobisys.org/mobisys/2025/rising_stars_program/#session-1-post-doctoral-category
+URL:https://mobisys.org/mobisys/2025/rising_stars_program/#session-1---post-doctoral-category
 LOCATION:Laguna
 CLASS:PUBLIC
 END:VEVENT
@@ -217,7 +217,7 @@ UID:c9d339bc-31a9-4988-88ef-69e49e729870
 DTSTART;TZID=America/Los_Angeles:20250623T140000
 DTEND;TZID=America/Los_Angeles:20250623T150000
 SUMMARY:Rising Stars Session 3
-URL:https://mobisys.org/mobisys/2025/rising_stars_program/#session-3-post-doctoral-category
+URL:https://mobisys.org/mobisys/2025/rising_stars_program/#session-3---post-doctoral-category
 LOCATION:Laguna
 CLASS:PUBLIC
 END:VEVENT
@@ -227,7 +227,7 @@ UID:00276536-37a2-4658-a964-8d62270b98d8
 DTSTART;TZID=America/Los_Angeles:20250623T153000
 DTEND;TZID=America/Los_Angeles:20250623T162000
 SUMMARY:Rising Stars Session 4
-URL:https://mobisys.org/mobisys/2025/rising_stars_program/#session-4-doctoral-category
+URL:https://mobisys.org/mobisys/2025/rising_stars_program/#session-4---doctoral-category
 LOCATION:Laguna
 CLASS:PUBLIC
 END:VEVENT
@@ -237,7 +237,7 @@ UID:8b51a801-efa3-4c24-b06e-7cd3a1e8cd77
 DTSTART;TZID=America/Los_Angeles:20250623T162500
 DTEND;TZID=America/Los_Angeles:20250623T170500
 SUMMARY:Rising Stars Session 5
-URL:https://mobisys.org/mobisys/2025/rising_stars_program/#session-5-doctoral-category
+URL:https://mobisys.org/mobisys/2025/rising_stars_program/#session-5---doctoral-category
 LOCATION:Laguna
 CLASS:PUBLIC
 END:VEVENT
