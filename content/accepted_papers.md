@@ -82,7 +82,7 @@ title: "Accepted Papers"
 
   Authors: Zhiyao Ma, Guojun Chen, Zhuo Chen, Lin Zhong (Yale University)
 
-- **Improving On-device GUI Agents with Document-guided Program Generation**
+- **AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation**
 
   Authors: Hao Wen, Shizuo Tian, Borislav Pavlov, Wenjie Du, Yixuan Li, Ge Chang, Shanhui Zhao, Jiacheng Liu, Yunxin Liu, Ya-Qin Zhang, Yuanchun Li (Institute for AI Industry Research (AIR), Tsinghua University)
 
