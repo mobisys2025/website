@@ -22,6 +22,10 @@ title: "Accepted Papers"
 
   Authors: James Yen, Jiarui Wang, Zhibai Huang, Zhixiang Wei, Ziyang Zhang, Chen Chen, Senhao Yu, Yun Wang (Shanghai Jiao Tong University); Hao Wang (Stevens Institue of Technology); Zhengwei Qi (Shanghai Jiao Tong University)
 
+- **AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation**
+
+  Authors: Hao Wen, Shizuo Tian, Borislav Pavlov, Wenjie Du, Yixuan Li, Ge Chang, Shanhui Zhao, Jiacheng Liu, Yunxin Liu, Ya-Qin Zhang, Yuanchun Li (Institute for AI Industry Research (AIR), Tsinghua University)
+
 - **CAMPrints: Leveraging the "Fingerprints" of Digital Cameras to Combat Image Theft**
 
   Authors: Bangjie Sun, Mun Choon Chan (National University of Singapore); Jun Han (KAIST)
@@ -81,10 +85,6 @@ title: "Accepted Papers"
 - **Hopter: a Safe, Robust, and Responsive Embedded Operating System**
 
   Authors: Zhiyao Ma, Guojun Chen, Zhuo Chen, Lin Zhong (Yale University)
-
-- **AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation**
-
-  Authors: Hao Wen, Shizuo Tian, Borislav Pavlov, Wenjie Du, Yixuan Li, Ge Chang, Shanhui Zhao, Jiacheng Liu, Yunxin Liu, Ya-Qin Zhang, Yuanchun Li (Institute for AI Industry Research (AIR), Tsinghua University)
 
 - **LEGO+: Redefining the Redundancy Removal for IoT Sensing Edge-End Systems**
 
