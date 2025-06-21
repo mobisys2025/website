@@ -162,12 +162,12 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   // Add window resize event listener to handle responsive view changes
-  window.addEventListener("resize", function () {
-    const newView = window.innerWidth < 768 ? "list" : "calendar";
-    if (newView !== calendar.view.type) {
-      calendar.changeView(newView);
-    }
-  });
+  // window.addEventListener("resize", function () {
+  //   const newView = window.innerWidth < 768 ? "list" : "calendar";
+  //   if (newView !== calendar.view.type) {
+  //     calendar.changeView(newView);
+  //   }
+  // });
 
   calendar.render();
 });
