@@ -15,7 +15,7 @@ title: "N<sup>2</sup>Women Program"
 
 {{< panel data="n2women_poster.json" open="true" />}}
 
-{{< timeline time="12:30 PM - 02:00 PM" title="Lunch" location="Outside Restaurant" >}}
+{{< timeline time="12:30 PM - 02:00 PM" title="Lunch" location="FiRE+iCE Interactive Grill & Bar" >}}
 {{< /timeline >}}
 
 {{< timeline time="02:00 PM - 03:00 PM" location="Huntington" >}}

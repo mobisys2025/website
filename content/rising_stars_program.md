@@ -32,7 +32,7 @@ Federated LLM Pre-Training on Mobile Phones
 {{< /panel >}}
 {{< /timeline >}}
 
-{{< timeline time="12:00 PM - 02:00 PM" title="Lunch" location="Outside Restaurant" >}}
+{{< timeline time="12:00 PM - 02:00 PM" title="Lunch" location="FiRE+iCE Interactive Grill & Bar" >}}
 {{< /timeline >}}
 
 {{< timeline time="02:00 PM - 02:50 PM" location="Palos Verdes" >}}
