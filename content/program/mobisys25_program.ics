@@ -75,7 +75,7 @@ UID:1750290406012-48460@ical.marudot.com
 DTSTART;TZID=America/Los_Angeles:20250623T084500
 DTEND;TZID=America/Los_Angeles:20250623T090000
 SUMMARY:Rising Stars Forum Opening Remarks
-LOCATION:Laguna
+LOCATION:Palos Verdes
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
@@ -105,7 +105,7 @@ DTSTART;TZID=America/Los_Angeles:20250623T100000
 DTEND;TZID=America/Los_Angeles:20250623T105500
 SUMMARY:Rising Stars Session 1
 URL:https://sigmobile.org/mobisys/2025/rising_stars_program/#session-1---post-doctoral-category
-LOCATION:Laguna
+LOCATION:Palos Verdes
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
@@ -125,7 +125,7 @@ DTSTART;TZID=America/Los_Angeles:20250623T110000
 DTEND;TZID=America/Los_Angeles:20250623T115000
 SUMMARY:Rising Stars Session 2
 URL:https://sigmobile.org/mobisys/2025/rising_stars_program/#session-2---doctoral-category
-LOCATION:Laguna
+LOCATION:Palos Verdes
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
@@ -164,7 +164,7 @@ DTSTART;TZID=America/Los_Angeles:20250623T140000
 DTEND;TZID=America/Los_Angeles:20250623T145000
 SUMMARY:Rising Stars Session 3
 URL:https://sigmobile.org/mobisys/2025/rising_stars_program/#session-3---doctoral-category
-LOCATION:Laguna
+LOCATION:Palos Verdes
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
@@ -192,7 +192,7 @@ DTSTART;TZID=America/Los_Angeles:20250623T153000
 DTEND;TZID=America/Los_Angeles:20250623T163500
 SUMMARY:Rising Stars Session 4
 URL:https://sigmobile.org/mobisys/2025/rising_stars_program/#session-4---post-doctoral-category
-LOCATION:Laguna
+LOCATION:Palos Verdes
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
@@ -230,7 +230,7 @@ DTSTART;TZID=America/Los_Angeles:20250623T090000
 DTEND;TZID=America/Los_Angeles:20250623T100000
 SUMMARY:Rising Stars Keynote
 URL:https://sigmobile.org/mobisys/2025/rising_stars_program/#keynote
-LOCATION:Laguna
+LOCATION:Palos Verdes
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT
@@ -240,7 +240,7 @@ DTSTART;TZID=America/Los_Angeles:20250623T164000
 DTEND;TZID=America/Los_Angeles:20250623T173000
 SUMMARY:Rising Stars Session 5
 URL:https://sigmobile.org/mobisys/2025/rising_stars_program/#session-5---doctoral-category
-LOCATION:Laguna
+LOCATION:Palos Verdes
 CLASS:PUBLIC
 END:VEVENT
 BEGIN:VEVENT

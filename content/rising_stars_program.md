@@ -2,10 +2,10 @@
 title: "Rising Stars Forum Program"
 ---
 
-{{< timeline time="08:45 AM - 09:00 AM" title="Opening Remarks" location="Laguna" >}}
+{{< timeline time="08:45 AM - 09:00 AM" title="Opening Remarks" location="Palos Verdes" >}}
 {{< /timeline >}}
 
-{{< timeline time="09:00 AM - 10:00 AM" location="Laguna" >}}
+{{< timeline time="09:00 AM - 10:00 AM" location="Palos Verdes" >}}
 {{< panel header="Keynote - Academic Social: A Retrospective Reflection on Unintentional Networking" subheader="<b>Speaker:</b> Chenren Xu, Peking University" id="keynote">}}
     {{< profile_pic src="../images/profiles/chenren_xu.jpg" size="200px" >}}
     <strong>Abstract:</strong> In academia, it is a common practice to work with what you have in a best effort manner. However, it will also potentially narrow down your vision that prevents you from exploring out-of-band opportunities. In this talk, I will share my research journey from my first Ph.D. project, and highlight several key moments that made retrospectively “superlinear” impacts in my career from the unintentional academic social perspective.
@@ -13,7 +13,7 @@ title: "Rising Stars Forum Program"
 {{< /panel >}}
 {{< /timeline >}}
 
-{{< timeline time="10:00 AM - 10:55 AM" location="Laguna" >}}
+{{< timeline time="10:00 AM - 10:55 AM" location="Palos Verdes" >}}
 {{< panel header="Session 1 - Post-doctoral category" >}}
 Hardware-Software Co-Design for Programmable Smart Radio Environments<hr>
 Physics-Informed AI for Wireless Communication and Sensing<hr>
@@ -22,7 +22,7 @@ Multi-user Intelligent Personalized Acoustic Field Manipulation
 {{< /panel >}}
 {{< /timeline >}}
 
-{{< timeline time="11:00 AM - 11:50 PM" location="Laguna" >}}
+{{< timeline time="11:00 AM - 11:50 PM" location="Palos Verdes" >}}
 {{< panel header="Session 2 - Doctoral category" >}}
 Exploiting and Securing WiFi for Pervasive Human Sensing<hr>
 mmWave Communications, Sensing, and Interference Mitigation<hr>
@@ -35,7 +35,7 @@ Federated LLM Pre-Training on Mobile Phones
 {{< timeline time="12:00 PM - 02:00 PM" title="Lunch" location="Outside Restaurant" >}}
 {{< /timeline >}}
 
-{{< timeline time="02:00 PM - 02:50 PM" location="Laguna" >}}
+{{< timeline time="02:00 PM - 02:50 PM" location="Palos Verdes" >}}
 {{< panel header="Session 3 - Doctoral category" >}}
 Redesigning Mobile Systems for Foundation Models with model- and system-level orchestration<hr>
 Dissecting 5G in the Wild: Performance, Coverage, and Support for Next-Gen Applications<hr>
@@ -48,7 +48,7 @@ Beyond Backscatter: Rethinking Low-Power Wireless Communication to Tackle the En
 {{< timeline time="03:00 PM - 03:30 PM" title="Coffee Break" >}}
 {{< /timeline >}}
 
-{{< timeline time="03:30 PM - 04:35 PM" location="Laguna" >}}
+{{< timeline time="03:30 PM - 04:35 PM" location="Palos Verdes" >}}
 {{< panel header="Session 4 - Post-doctoral category" >}}
 Scalable and Adaptive RF Signal Propagation Modeling for Next-Generation Wireless Systems<hr>
 Intelligent Network Infrastructure for Extended Reality<hr>
@@ -58,7 +58,7 @@ Building Generalizable Deep Learning Solutions for AIoT Applications
 {{< /panel >}}
 {{< /timeline >}}
 
-{{< timeline time="04:40 PM - 05:30 PM" location="Laguna" >}}
+{{< timeline time="04:40 PM - 05:30 PM" location="Palos Verdes" >}}
 {{< panel header="Session 5 - Doctoral category" >}}
 Towards Accurate, Adaptive, and Real-time Machine Perception on Resource-constrained Platforms<hr>
 Ultra-Lightweight Edge Intelligence Using Vector Symbolic Architecture<hr>
