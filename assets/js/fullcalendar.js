@@ -25,7 +25,7 @@ function modifyInnerHTML() {
 
 document.addEventListener("DOMContentLoaded", function () {
   function getInitialView() {
-    return window.innerWidth < 768 ? "list" : "calendar";
+    return window.innerWidth < 768 ? "day" : "calendar";
   }
 
   var calendarEl = document.getElementById("calendar");
@@ -42,6 +42,9 @@ document.addEventListener("DOMContentLoaded", function () {
         type: "listWeek",
         duration: { days: 5 },
       },
+      day: {
+        type: "timeGridDay"
+      }
     },
     visibleRange: {
       start: "2025-06-23",
@@ -61,7 +64,7 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     },
     headerToolbar: {
-      left: "calendar,list",
+      left: "calendar,list,day",
       center: "",
       right: "icsButton",
     },
@@ -74,8 +77,8 @@ document.addEventListener("DOMContentLoaded", function () {
     height: "auto",
     contentHeight: "auto",
     slotEventOverlap: false,
-    fixedWeekCount: false,
-    showNonCurrentDates: false,
+    fixedWeekCount: true,
+    showNonCurrentDates: true,
     nextDayThreshold: "00:00:00",
     dateClick: function (info) {
       return false;
