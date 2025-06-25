@@ -36,7 +36,6 @@ document.addEventListener("DOMContentLoaded", function () {
     views: {
       calendar: {
         type: "timeGrid",
-        duration: { days: 5 },
       },
       list: {
         type: "listWeek",
@@ -48,7 +47,7 @@ document.addEventListener("DOMContentLoaded", function () {
     },
     visibleRange: {
       start: "2025-06-23",
-      end: "2025-06-27",
+      end: "2025-06-28",
     },
     customButtons: {
       icsButton: {
