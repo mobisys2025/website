@@ -406,6 +406,7 @@
         "title": "DroNet [Palos Verdes]",
         "start": "2025-06-27T09:00:00",
         "end": "2025-06-27T09:45:00",
+        "url": "https://sites.google.com/view/dronet2025/",
         "backgroundColor": "#2F4F4F",
         "groupId": "halfday-workshop",
         "classNames": [
@@ -416,6 +417,7 @@
         "title": "NetAISys+EnvSys [Huntington]",
         "start": "2025-06-27T09:45:00",
         "end": "2025-06-27T10:30:00",
+        "url": "https://netaisys.github.io/",
         "backgroundColor": "#2F4F4F",
         "groupId": "fullday-workshop",
         "classNames": [
@@ -426,6 +428,7 @@
         "title": "QSys [Laguna]",
         "start": "2025-06-27T10:30:00",
         "end": "2025-06-27T11:15:00",
+        "url": "http://wsslab.org/workshops/qsys25/",
         "backgroundColor": "#2F4F4F",
         "groupId": "fullday-workshop",
         "classNames": [
@@ -436,6 +439,7 @@
         "title": "TockOS [Capistrano]",
         "start": "2025-06-27T11:15:00",
         "end": "2025-06-27T12:00:00",
+        "url": "https://tockos.org/events/mobisys25",
         "backgroundColor": "#2F4F4F",
         "groupId": "fullday-workshop",
         "classNames": [

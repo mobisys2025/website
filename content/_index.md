@@ -13,11 +13,11 @@ The 23rd ACM International Conference on Mobile Systems, Applications, and Servi
     text="Program Overview"
 >}}
 
-{{< button
+<!-- {{< button
     link="https://web.cvent.com/event/3d8f4bde-961f-43f2-a2c9-3d1dd12f53b7/summary" 
     icon="cash-coin"
     text="Registration Now!"
->}}
+>}} -->
 
 <!-- {{< button
     link="https://book.passkey.com/go/MobiSys2025" 
