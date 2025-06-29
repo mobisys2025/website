@@ -51,7 +51,12 @@ Beyond Backscatter: Rethinking Low-Power Wireless Communication to Tackle the En
 {{< timeline time="03:30 PM - 04:35 PM" location="Palos Verdes" >}}
 {{< panel header="Session 4 - Post-doctoral category" >}}
 Scalable and Adaptive RF Signal Propagation Modeling for Next-Generation Wireless Systems<hr>
-Intelligent Network Infrastructure for Extended Reality<hr>
+<div class="paper-title">
+    Intelligent Network Infrastructure for Extended Reality
+    <span class="paper-badges">Best Presentation Awards</span>
+</div>
+<div class="paper-authors">Bo Chen (University of Illinois at Urbana-Champaign)</div>
+<hr>
 Time-sensitive AI System for Physical Agents<hr>
 Ubiquitous Acoustic Intelligence: Toward Intuitive, Resilient, and Secure Mobile Sensing Systems<hr>
 Building Generalizable Deep Learning Solutions for AIoT Applications
@@ -61,7 +66,12 @@ Building Generalizable Deep Learning Solutions for AIoT Applications
 {{< timeline time="04:40 PM - 05:30 PM" location="Palos Verdes" >}}
 {{< panel header="Session 5 - Doctoral category" >}}
 Towards Accurate, Adaptive, and Real-time Machine Perception on Resource-constrained Platforms<hr>
-Ultra-Lightweight Edge Intelligence Using Vector Symbolic Architecture<hr>
+<div class="paper-title">
+    Ultra-Lightweight Edge Intelligence Using Vector Symbolic Architecture
+    <span class="paper-badges">Best Presentation Awards</span>
+</div>
+<div class="paper-authors">Chae Young Lee (Stanford University)</div>
+<hr>
 Privacy-Aware Ambient Audio Sensing for Healthy Indoor Spaces<hr>
 Toward Reliable and Scalable LoRa Networking for Rural IoT<hr>
 Rethinking Inexpensive Wearables in the Era of AI: From Motion Analytics to Mobile Health

@@ -13,7 +13,7 @@ title: "N<sup>2</sup>Women Program"
 {{< /panel >}}
 {{< /timeline >}}
 
-{{< panel data="n2women_poster.json" open="true" />}}
+{{< panel data="n2women_poster.json" open="true" best_text="Best Poster Award" runnerup_text="Best Poster Award - Runner Up" />}}
 
 {{< timeline time="12:30 PM - 02:00 PM" title="Lunch" location="FiRE+iCE Interactive Grill & Bar" >}}
 {{< /timeline >}}

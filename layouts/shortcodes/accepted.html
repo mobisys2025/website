@@ -23,6 +23,19 @@
                 {{ end }}
             </span>
             {{ end }}
+            {{ if or $paper.is_best_artifact $paper.is_best_artifact_runnerup $paper.is_best_artifact_honorable }}
+            <span class="paper-badges-artifact">
+                {{ if $paper.is_best_artifact }}
+                    Best Artifact Award
+                {{ end }}
+                {{ if $paper.is_best_artifact_runnerup }}
+                    Best Artifact Award - Runner Up
+                {{ end }}
+                {{ if $paper.is_best_artifact_honorable }}
+                    Best Artifact Award - Honorable Mention
+                {{ end }}
+            </span>
+            {{ end }}
         </div>
         <div class="paper-authors">{{ $paper.authors }}</div>
         <div class="paper-info">

@@ -1,0 +1,135 @@
+[
+  {
+    "title": "Demo: Tracking Blink Dynamics and Mental States on Glasses",
+    "authors": "Dongyin Hu (University of Pennsylvania)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Demo: WhisperFlow: speech foundation models in real time",
+    "authors": "Rongxiang Wang, Felix Xiaozhu Lin (University of Virginia)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Demo: CollabTrans: Device-cloud Collaborative Inference Framework for Transformer-based Models",
+    "authors": "Jingcan Chen, Huatao Xu, Mo Li (The Hong Kong University of Science and Technology)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Demo: Cellular-X: An LLM-empowered Cellular Agent for Efficient Base Station Operations",
+    "authors": "Liujianfu Wang, Xinyi Long, Yuyang Du, Xiaoyan Liu, Kexin Chen, Soung Chang Liew (The Chinese University of Hong Kong)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Demo: FlyEnJoy: An Offline-First Mobile System for Trip Planning and In-Flight Social Interaction",
+    "authors": "Tanmoy Sen, Madhusudan Basak, Himel Dev, Michael Linden",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Demo: Toward Spoofing-Resilient and Communication-Integrated MmWave Radar Sensing",
+    "authors": "Kun Qian (University of Virginia); Parth Pathak (George Mason University)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Demo: WiMU: Lightweight Indoor Localization via Wi-Fi/IMU Fusion with Minimal Site Survey",
+    "authors": "Qirui Yang (The Hong Kong University of Science and Technology); Huatao Xu (Hong Kong University of Science and Technology); Mengxuan Song (The Hong Kong University of Science and Technology); Mo Li (HKUST)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Demo: Liquid Identification via Vision-Guided mmWave Imaging and LLM Reasoning",
+    "authors": "Bo Liang (Peking University); JingZhe Peng (Beijing Jiaotong University); Xingyuming Liu (Peking Univerisity); Chen Gong, Chenren Xu (Peking University)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Demo: Low-Power Onboard Computer Vision for IoT Cameras",
+    "authors": "Chae Young Lee, Sara Achour, Zerina Kapetanovic (Stanford University)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Demo: ROARQuad: Robust, Open Academic Research Quadcopter",
+    "authors": "Matthew Hatch, Cody Fellinge, Jonathan Diller, Qi Han (Colorado School of Mines)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Demo: InvisibleFence: Non-Lethal, Edge-Optimized AI for Coexistence and Crop Protection",
+    "authors": "Snehalraj Chugh, Milind Rampure, Elijah Polyakov, Bipendra Basnyat, Nirmalya Roy (University of Maryland Baltimore County)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Demo: Enabling Ubiquitous Connectivity for Embedded Systems through Audio-Broadcasting Low-power Tags",
+    "authors": "Rajashekar Reddy Chinthalapani, Dhairya Shah, Ambuj Varshney (National University of Singapore)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Demo: UI Based Attacks in WebXR",
+    "authors": "Chandrika Mukherjee (Purdue University); Reham Mohamed Aburas (American University of Sharjah); Arjun Arunasalam (Purdue University); Habiba Farrukh (University of California, Irvine); Z. Berkay Celik (Purdue University)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Demo: Balboa Park Alive!: Exploring Biodiversity through Mobile AR",
+    "authors": "Biayna Bogosian (Arizona State University); Ying Choon Wu (UC San Diego); Akshit Nassa (Arizona State University); Daniel Jalali (Florida International University); Jacob Yenney (UC San Diego)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Demo: No Wires, Just Wear: Monitoring Breathing With Smart Fabrics",
+    "authors": "Hajara-Yasmin Isa (University of Illinois at Urbana-Champaign); Robin Kravets (University of Illinois Urbana Champaign)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": true
+  },
+  {
+    "title": "Demo: Unveiling Randomized Device Identity in Dynamic Wi-Fi Networks",
+    "authors": "Federico Cifuentes-Urtubey, Deepak Vasisht, Robin Kravets (University of Illinois Urbana-Champaign)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Demo: Agile3D: Adaptive Contention- and Content-Aware 3D Object Detection for Embedded GPUs",
+    "authors": "Pengcheng Wang (Purdue University); Zhuoming Liu (University of Wisconsin-Madison); Shayok Bagchi (West Lafayette Jr./Sr. High School); Ran Xu (NVIDIA); Saurabh Bagchi (Purdue University); Yin Li (University of Wisconsin-Madison); Somali Chaterji (Purdue University)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Demo: Exploring Dental Health Sensing using a Sonic Toothbrush",
+    "authors": "Kuang Yuan (Carnegie Mellon University); Mohamed Ibrahim (Hewlett Packard Labs); Yiwen Song, Guoxiang Deng (Carnegie Mellon University); Robert A Nerone, Suvendra Vijayan (University of Pittsburgh School of Dental Medicine); Akshay Gadre (University of Washington); Swarun Kumar (Carnegie Mellon University)",
+    "doi": "",
+    "is_best": true,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Demo: HELIX – A High-Speed Real-Time Experimentation Platform for 6G Wireless Networks",
+    "authors": "Rafael Ruiz (IMDEA Networks); Jesus O. Lacruz (IMDEA Networks Institute); Bastian Bloessl, Matthias Hollick (TU Darmstadt, Germany); Joerg Widmer (IMDEA Networks)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  }
+]

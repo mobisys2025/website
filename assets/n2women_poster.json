@@ -48,11 +48,13 @@
                 },
                 {
                     "title": "No Wires, Just Wear: Monitoring Breathing With Smart Fabrics",
-                    "authors": "Hajara-Yasmin Isa (University of Illinois at Urbana-Champaign), Robin Kravets (University of Illinois Urbana Champaign)"
+                    "authors": "Hajara-Yasmin Isa (University of Illinois at Urbana-Champaign), Robin Kravets (University of Illinois Urbana Champaign)",
+                    "is_best_runnerup": true
                 },
                 {
                     "title": "SiHear (Sign-to-Hear): Empowering Seamless Sign-Speech Interactions over Smart Glasses",
-                    "authors": "Chen Peng (Purdue University), Jiaxin Du (Purdue University), Chunyi Peng (Purdue University)"
+                    "authors": "Chen Peng (Purdue University), Jiaxin Du (Purdue University), Chunyi Peng (Purdue University)",
+                    "is_best": true
                 }
 
             ]

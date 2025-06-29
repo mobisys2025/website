@@ -3,12 +3,15 @@
 {{ $data := $resource | transform.Unmarshal }}
 
 <ul>
-  {{ range $data }}
+  {{ range $tpc := $data }}
     <li>
       {{ if index . 2 }}
         <a href="{{ index . 2 }}" target="blank_"><strong>{{ index . 0 }}</strong></a> {{ index . 1 }}
       {{ else }}
         <strong>{{ index . 0 }}</strong> {{ index . 1 }}
+      {{ end }}
+      {{ if eq (index $tpc 0) "Parth Pathak"}}
+      <span class="badge">Best PC Member</span>
       {{ end }}
     </li>
   {{ end }}

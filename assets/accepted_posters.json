@@ -1,0 +1,240 @@
+[
+  {
+    "title": "Poster: Large Language Model-powered Wi-Fi-based Human Activity Recognition",
+    "authors": "Yili Ren (University of South Florida); Haopeng Zhang, Haohan Yuan (University of Hawaii at Manoa); Jingzhe Zhang, Yitong Shen, Yili Ren (University of South Florida)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Poster: GlueRT: Bridging the Gap Between Ray-tracing and Real-World Wireless Channel",
+    "authors": "Bo Gao, Tianyue Zheng (Southern University of Science and Technology)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Poster: HeteroRF: Heterogeneity-Aware Federated Radio-Frequency Human Activity Recognition",
+    "authors": "Yanru Cui, Tianyue Zheng (Southern University of Science and Technology)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Poster: Mobile Menstrual Health Advising with Multimodal Feature Engineering",
+    "authors": "Xiang Ji, Liekang Zeng, Zhenyu Yan (The Chinese University of Hong Kong); Yunqi Guo (the Chinese University of Hong Kong); Hongkai Chen, Yao Wang, Guoliang Xing, Xiang Ji (The Chinese University of Hong Kong)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Improving Network Attack Classification on Imbalanced Real-world Intrusion Incident Datasets",
+    "authors": "Miru Kim, Mugon Joe, Minhae Kwon (Soongsil University)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Poster: A Diffusion Model for Predicting Spectrum Efficiency in 5G Networks",
+    "authors": "Gyeongjune Hahm, Kyung-yul Cheon, Hyeyeon Kwon, Seungkeun Park (ETRI)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Poster: OCC Is Better Than Terahertz Wave for 6G",
+    "authors": "Lih Wei Chia, Mehul Motani (National University of Singapore)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Poster: Tracking Blink Dynamics and Mental States on Glasses",
+    "authors": "Dongyin Hu, Xin Yang, Ahhyun Yuh, Zihao Wang, Lama A. Al-Aswad, Insup Lee, Mingmin Zhao (University of Pennsylvania)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Non-Line-of-Sight 3D Object Reconstruction via mmWave Surface Normal Estimation",
+    "authors": "Laura Dodds, Tara Boroushaki, Kaichen Zhou (Massachusetts Institute of Technology); Fadel Adib (MIT & Cartesian)",
+    "doi": "",
+    "is_best": true,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Data Can Speak for Itself: Quality-guided Utilization of Wireless Synthetic Data",
+    "authors": "Chen Gong, Bo Liang (Peking University); Wei Gao (University of Pittsburgh); Chenren Xu (Peking University)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "High-resolution mmWave Imaging using Metasurface and Diffusion",
+    "authors": "Yida Wang, Yu Lu (Shanghai Jiao Tong University); Yuxuan ZHOU (The Hong Kong University of Science and Technology); Yifei Shen (Microsoft Research Asia); Lili Qiu (UT Austin, MSR Asia Shanghai); Zeyuan Lai (University of Science and Technology of China); Yi-Chao Chen (Shanghai Jiao Tong University); Hao Pan (Microsoft Research); Juntao Zhou, Dian Ding (Shanghai Jiao Tong University); Mei Wang (UT Austin); Guangtao Xue (Shanghai Jiao Tong University); Qian Zhang (Hong Kong University of Science and Technology, China)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "RISENSE: Long-Range In-Band Wireless Control of Passive Reconfigurable Intelligent Surfaces",
+    "authors": "Sai Pavan Deram (IMDEA Networks Institute and UC3M); Marco Rossanese, Andres Garcia-Saavedra (NEC Laboratories Europe GmbH); Syed Waqas Haider Shah (IMDEA Networks Institute); Vincenzo Sciancalepore (NEC Laboratories Europe); Joerg Widmer (IMDEA Networks); Xavier Costa-Perez (i2CAT, NEC Labs Europe, and ICREA)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Posters: Edge AI-Based Integrated Model Architecture for Optimization of Semiconductor ALD Processes",
+    "authors": "HYUNGKOO KIM, ChulSeoung Chae, ByeolHee Sim, DongSik Yoon, JeongHoon Kang (Intelligence fusion-Software Research Center Korea Electronics Technology Institute Seong-Nam, Korea)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Are LoRa Logical Channels Really Orthogonal? Practically Orthogonalizing Massive Logical Channels",
+    "authors": "Shiming Yu (The Hong Kong Polytechnic University)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "LEGO+: Redefining the Redundancy Removal for IoT Sensing Edge-End Systems",
+    "authors": "Chong Zhang (University of Electronic Science and Technology of China, Chengdu, China; Southwest Petroleum University, Chengdu, China; Sichuan Artifcial Intelligence Research Institute, Yibin, China); Han Wang, Qianhe Meng, Yize Zhao, Yihang Song, kanglin Xu, Jinzhe Li (University of Electronic Science and Technology of China); Li Lu (School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC), P.R. China); Chong Zhang (Southwest Petroleum University)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Toward Spoofing-Resilient and Communication-Integrated MmWave Radar Sensing",
+    "authors": "Kun Qian (University of Virginia); Parth Pathak (George Mason University)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Poster: Towards Federated Embodied AI with FEAI",
+    "authors": "Leming Shen, Yuanqing Zheng (The Hong Kong Polytechnic University)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Hopter: a Safe, Robust, and Responsive Embedded Operating System",
+    "authors": "Zhiyao Ma, Guojun Chen, Zhuo Chen, Lin Zhong (Yale University)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": true
+  },
+  {
+    "title": "Poster: Efficient Passive Tracking using Commodity WiFi with Single-Shot Training",
+    "authors": "Wei-Hsiang Wang, Yuqian Hu, Guozhen Zhu, Beibei Wang, K. J. Ray Liu (Origin Research)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Poster: IoT-Based Indoor Air Quality Monitoring for Health Risk Assessment and Well-Being",
+    "authors": "Naser Hossein Motlagh, Martha Arbayani Zaidan, Pak Lun Fung, Samu Varjonen, Andrew Rebeiro-Hargrave, Petteri Nurmi, Sasu Tarkoma (University of Helsinki)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Poster: MobiChem: A Ubiquitous Smartphone-Based Toolkit for Practical Fruit Monitoring and Analysis",
+    "authors": "Zhiying Li (Michigan State University); Abdul Aziz, Patrick Phuoc Do, Phuc Nguyen (University of Massachusetts Amherst); Tianxing Li (Michigan State University)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Poster: Joint RF-Gas Sensing for Victim Localization using UAV Networks",
+    "authors": "Guillermo Benito-Calvino, Ahmed Boubrima (INRIA); Herve Rivano (INSA Lyon); Alessandro Renzaglia (INRIA); Zhambyl Shaikhanov (University of Maryland)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Poster: PeekXR: Understanding Privacy Leakages from Eye Gaze in Extended Reality",
+    "authors": "Chuyang Peng, Mutahar Ali, Habiba Farrukh (University of California, Irvine)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": true
+  },
+  {
+    "title": "Poster: SiHear (Sign-to-Hear): Empowering Seemless Sign-Speech Interactions over Smart Glasses",
+    "authors": "Chen Peng, Jiaxin Du, Chunyi Peng (Purdue University)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Poster: DNN Models for Underground Root Tuber Image Reconstruction using WiFi CSI",
+    "authors": "Said Elhadi, Yang Zhao (Harbin Institute of Technology (Shenzhen))",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Unraveling the Missing Link in Low-power Communication: An Autodyning Receiver Architecture that Achieves a Long Range",
+    "authors": "Sooriya Patabandige Pramuka Medaranga, Rajashekar Reddy Chinthalapani (National University of Singapore); Wenqing Yan (Uppsala University); Prabal Dutta (UC Berkeley); Ambuj Varshney (National University of Singapore)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Poster: InstaPose: Dynamic Photography Feedback via Adaptive Pose Recommendation System",
+    "authors": "Yu Ji, I-Han Hsiao (Department of Computer Science and Engineering, Santa Clara University)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "SecHeadset: A Practical Privacy Protection System for Real-time Voice Communication",
+    "authors": "Peng Huang, Kun Pan, Qinglong Wang, Peng Cheng, Li Lu, Zhongjie Ba, Kui Ren (Zhejiang University)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Poster: Mixture of Class-aware Experts for Efficient AIoT Inference",
+    "authors": "Hyemin Jeong, Jeho Lee, Seunghyeok Jeon, Hojung Cha (Yonsei University)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "PIT: A Novel Toothbrush Providing Real-Time and Robust Plaque Indication During Brushing",
+    "authors": "Kaixin Chen (Shenzhen University, and The Hong Kong University of Science and Technology (Guangzhou)); Yaqiong Luo (The Hong Kong University of Science and Technology (Guangzhou)); Junfan Xiang, Wanying Tan, Keyu Chen, Chang Ma (Shenzhen University); Kaishun Wu (Hong Kong University of Science and Technology(GZ)); Lu Wang (Shenzhen University)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Detection and Tracking of Drone Swarms using LiDAR",
+    "authors": "Tasnim Azad Abir (The University of Texas at Arlington, University of Massachusetts Amherst, Airspace Forensics); Vu Le (University of Massachusetts Amherst); Endrowednes Kuantama, Pranjol Gupta (Macquarie University, Airspace Forensics); Austin Copley (University of Massachusetts Amherst, Airspace Forensics); Judith Dawes (Macquarie University); Mohammad Islam (University of Texas at Arlington); Richard Han (Macquarie University, Airspace Forensics); VP Nguyen (University of Massachusetts Amherst, Airspace Forensics)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Agile3D: Adaptive Contention- and Content-Aware 3D Object Detection for Embedded GPUs",
+    "authors": "Pengcheng Wang (Purdue University); Zhuoming Liu (University of Wisconsin-Madison); Shayok Bagchi (West Lafayette Jr./Sr. High School); Ran Xu (NVIDIA); Saurabh Bagchi (Purdue University); Yin Li (University of Wisconsin-Madison); Somali Chaterji (Purdue University)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "CAMPrints: Leveraging the \"Fingerprints\" of Digital Cameras to Combat Image Theft",
+    "authors": "Bangjie Sun, Mun Choon Chan (National University of Singapore); Jun Han (KAIST)",
+    "doi": "",
+    "is_best": true,
+    "is_best_runnerup": false
+  },
+  {
+    "title": "Poster: Real-time Keyboard Segmentation and Finger-Press Detection for Keystroke Tracking in Virtual Keyboards",
+    "authors": "Lawrence Amadi (Futurewei Technologies, Inc.); Andrew Lu (University of Texas); Chih-Hsien Chou, Ning Lu (Futurewei Technologies, Inc.)",
+    "doi": "",
+    "is_best": false,
+    "is_best_runnerup": false
+  }
+]

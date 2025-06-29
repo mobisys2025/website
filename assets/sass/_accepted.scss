@@ -15,7 +15,17 @@
   border-radius: 10px;
   background-color: colors.$color-green-900;
   color: colors.$light-text-color;
+  margin: 0;
   font-size: 13px;
+}
+
+.accepted .paper-badges-artifact {
+  padding: 0px 6px;
+  border-radius: 10px;
+  background-color: colors.$color-blue-900;
+  color: colors.$light-text-color;
+  font-size: 13px;
+  margin: 0;
 }
 
 .accepted .paper-authors {
