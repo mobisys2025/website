@@ -97,21 +97,10 @@
   margin-bottom: 0.2em;
 }
 
-.panel .paper-info {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
+.panel .paper-badges {
+  padding: 0px 6px;
+  border-radius: 10px;
+  background-color: colors.$color-green-900;
+  color: colors.$light-text-color;
   font-size: 13px;
-  gap: 1em;
-}
-
-.panel .paper-info img,
-.panel .paper-info i {
-  width: 20px;
-  height: 20px;
-  font-size: 15px;
-}
-
-.panel .paper-artifact em {
-  font-style: normal;
 }

@@ -1,0 +1,66 @@
+{{ $data := .Get "data" }}
+{{ $best_text := .Get "best_text" | default "Best Paper" }}
+{{ $runnerup_text := .Get "runnerup_text" | default "Best Paper Nominee" }}
+
+{{ $resource := resources.Get $data }}
+{{ $jsonData := $resource | transform.Unmarshal }}
+<div class="accepted">
+    {{ range $paper := $jsonData }}
+    <div class="paper">
+        <div class="paper-title">
+            {{ if $paper.doi }}
+            <a href="https://doi.org/{{ $paper.doi }}" target="_blank">{{ $paper.title }}</a>
+            {{ else }}
+            {{ $paper.title }}
+            {{ end }}
+            {{ if or $paper.is_best $paper.is_best_runnerup }}
+            <span class="paper-badges">
+                {{ if $paper.is_best }}
+                    {{ $best_text }}
+                {{ end }}
+                {{ if $paper.is_best_runnerup }}
+                    {{ $runnerup_text }}
+                {{ end }}
+            </span>
+            {{ end }}
+        </div>
+        <div class="paper-authors">{{ $paper.authors }}</div>
+        <div class="paper-info">
+            {{ if $paper.teaser}}
+            <div class="paper-teaser">
+                <i class="bi bi-youtube"></i>
+                <a href="{{ $paper.teaser }}" target="_blank">Teaser</a>
+            </div>
+            {{ end }}
+            {{ if $paper.artifact }}
+            <div class="paper-artifact">
+                <img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_available_v1_1.png"
+                    alt="Artifacts Available Badge" />
+                <a href="{{ $paper.artifact }}" target="_blank">Artifacts Available</a>
+            </div>
+            {{ end }}
+            {{ if $paper.artifact_functional}}
+            <div class="paper-artifact">
+                <img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_evaluated_functional_v1_1.png"
+                    alt="Artifacts Evaluated Functional Badge" />
+                <em>Artifacts Evaluated - Functional</em>
+            </div>
+            {{ end }}
+            {{ if $paper.artifact_reusable }}
+            <div class="paper-artifact">
+                <img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_evaluated_reusable_v1_1.png"
+                    alt="Artifacts Evaluated Reusable Badge" />
+                <em>Artifacts Evaluated - Reusable</em>
+            </div>
+            {{ end }}
+            {{ if $paper.artifact_replicated }}
+            <div class="paper-artifact">
+                <img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/results_replicated_v1_1.png"
+                    alt="Results Replicated Badge" />
+                <em>Artifacts Evaluated - Replicated</em>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+    {{ end }}
+</div>

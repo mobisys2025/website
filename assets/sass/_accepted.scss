@@ -1,0 +1,42 @@
+@use "colors";
+
+.accepted .paper {
+    margin-bottom: 1.5em;
+}
+
+.accepted .paper-title,
+.accepted .paper-title a {
+  font-weight: bold;
+  margin-bottom: 0.2em;
+}
+
+.accepted .paper-badges {
+  padding: 0px 6px;
+  border-radius: 10px;
+  background-color: colors.$color-green-900;
+  color: colors.$light-text-color;
+  font-size: 13px;
+}
+
+.accepted .paper-authors {
+  font-style: italic;
+  margin-bottom: 0.2em;
+}
+
+.accepted .paper-info {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 1em;
+}
+
+.accepted .paper-info img,
+.accepted .paper-info i {
+  width: 20px;
+  height: 20px;
+  font-size: 15px;
+}
+
+.accepted .paper-artifact em {
+  font-style: normal;
+}
