@@ -1,0 +1,5546 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on ACM MobiSys 2025</title><link>https://www.sigmobile.org/mobisys/2025/</link><description>Recent content in Home on ACM MobiSys 2025</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://www.sigmobile.org/mobisys/2025/index.xml" rel="self" type="application/rss+xml"/><item><title>Accepted Demos</title><link>https://www.sigmobile.org/mobisys/2025/accepted_demos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/accepted_demos/</guid><description>&lt;div class="accepted">
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Demo: Tracking Blink Dynamics and Mental States on Glasses
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Dongyin Hu (University of Pennsylvania)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Demo: WhisperFlow: speech foundation models in real time
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Rongxiang Wang, Felix Xiaozhu Lin (University of Virginia)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Demo: CollabTrans: Device-cloud Collaborative Inference Framework for Transformer-based Models
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Jingcan Chen, Huatao Xu, Mo Li (The Hong Kong University of Science and Technology)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Demo: Cellular-X: An LLM-empowered Cellular Agent for Efficient Base Station Operations
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Liujianfu Wang, Xinyi Long, Yuyang Du, Xiaoyan Liu, Kexin Chen, Soung Chang Liew (The Chinese University of Hong Kong)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Demo: FlyEnJoy: An Offline-First Mobile System for Trip Planning and In-Flight Social Interaction
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Tanmoy Sen, Madhusudan Basak, Himel Dev, Michael Linden&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Demo: Toward Spoofing-Resilient and Communication-Integrated MmWave Radar Sensing
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Kun Qian (University of Virginia); Parth Pathak (George Mason University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Demo: WiMU: Lightweight Indoor Localization via Wi-Fi/IMU Fusion with Minimal Site Survey
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Qirui Yang (The Hong Kong University of Science and Technology); Huatao Xu (Hong Kong University of Science and Technology); Mengxuan Song (The Hong Kong University of Science and Technology); Mo Li (HKUST)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Demo: Liquid Identification via Vision-Guided mmWave Imaging and LLM Reasoning
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Bo Liang (Peking University); JingZhe Peng (Beijing Jiaotong University); Xingyuming Liu (Peking Univerisity); Chen Gong, Chenren Xu (Peking University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Demo: Low-Power Onboard Computer Vision for IoT Cameras
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Chae Young Lee, Sara Achour, Zerina Kapetanovic (Stanford University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Demo: ROARQuad: Robust, Open Academic Research Quadcopter
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Matthew Hatch, Cody Fellinge, Jonathan Diller, Qi Han (Colorado School of Mines)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Demo: InvisibleFence: Non-Lethal, Edge-Optimized AI for Coexistence and Crop Protection
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Snehalraj Chugh, Milind Rampure, Elijah Polyakov, Bipendra Basnyat, Nirmalya Roy (University of Maryland Baltimore County)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Demo: Enabling Ubiquitous Connectivity for Embedded Systems through Audio-Broadcasting Low-power Tags
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Rajashekar Reddy Chinthalapani, Dhairya Shah, Ambuj Varshney (National University of Singapore)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Demo: UI Based Attacks in WebXR
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Chandrika Mukherjee (Purdue University); Reham Mohamed Aburas (American University of Sharjah); Arjun Arunasalam (Purdue University); Habiba Farrukh (University of California, Irvine); Z. Berkay Celik (Purdue University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Demo: Balboa Park Alive!: Exploring Biodiversity through Mobile AR
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Biayna Bogosian (Arizona State University); Ying Choon Wu (UC San Diego); Akshit Nassa (Arizona State University); Daniel Jalali (Florida International University); Jacob Yenney (UC San Diego)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Demo: No Wires, Just Wear: Monitoring Breathing With Smart Fabrics
+ 
+ 
+ &lt;span class="paper-badges">
+ 
+ 
+ Best Demo Award - Runner up
+ 
+ &lt;/span>
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Hajara-Yasmin Isa (University of Illinois at Urbana-Champaign); Robin Kravets (University of Illinois Urbana Champaign)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Demo: Unveiling Randomized Device Identity in Dynamic Wi-Fi Networks
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Federico Cifuentes-Urtubey, Deepak Vasisht, Robin Kravets (University of Illinois Urbana-Champaign)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Demo: Agile3D: Adaptive Contention- and Content-Aware 3D Object Detection for Embedded GPUs
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Pengcheng Wang (Purdue University); Zhuoming Liu (University of Wisconsin-Madison); Shayok Bagchi (West Lafayette Jr./Sr. High School); Ran Xu (NVIDIA); Saurabh Bagchi (Purdue University); Yin Li (University of Wisconsin-Madison); Somali Chaterji (Purdue University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Demo: Exploring Dental Health Sensing using a Sonic Toothbrush
+ 
+ 
+ &lt;span class="paper-badges">
+ 
+ Best Demo Award
+ 
+ 
+ &lt;/span>
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Kuang Yuan (Carnegie Mellon University); Mohamed Ibrahim (Hewlett Packard Labs); Yiwen Song, Guoxiang Deng (Carnegie Mellon University); Robert A Nerone, Suvendra Vijayan (University of Pittsburgh School of Dental Medicine); Akshay Gadre (University of Washington); Swarun Kumar (Carnegie Mellon University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Demo: HELIX – A High-Speed Real-Time Experimentation Platform for 6G Wireless Networks
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Rafael Ruiz (IMDEA Networks); Jesus O. Lacruz (IMDEA Networks Institute); Bastian Bloessl, Matthias Hollick (TU Darmstadt, Germany); Joerg Widmer (IMDEA Networks)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+&lt;/div></description></item><item><title>Accepted Papers</title><link>https://www.sigmobile.org/mobisys/2025/accepted_papers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/accepted_papers/</guid><description>&lt;div class="accepted">
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729140" target="_blank">Empilo: Realizing Immersive Mobile 3D Video Conferencing through Parameterized Communication&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Donggyu Yang, Wooseung Nam, Byunggu Kang, Kyunghan Lee (Seoul National University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/ML9E-tanGdw" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729125" target="_blank">Are LoRa Logical Channels Really Orthogonal? Practically Orthogonalizing Massive Logical Channels&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Shiming Yu, Ziyue Zhang, Xianjin Xia, Yuanqing Zheng (The Hong Kong Polytechnic University); Jiliang Wang (Tsinghua University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/G9aeRJSKPHk" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729128" target="_blank">CoT-LM: A Data-Free Collaborative Fine-Tuning Framework for Large and Small Language Models&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Yongheng Deng, Ziqing Qiao (Tsinghua University); Ye Zhang (Beijing Information Science &amp;amp; Technology University); Zhenya Ma (Tsinghua University); Yang Liu (Institute for AI Industry Research, Tsinghua University); Ju Ren (Tsinghua University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/FaDMuEmwXUs" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729123" target="_blank">Data Can Speak for Itself: Quality-guided Utilization of Wireless Synthetic Data&lt;/a>
+ 
+ 
+ &lt;span class="paper-badges">
+ 
+ Best Paper
+ 
+ 
+ &lt;/span>
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Chen Gong, Bo Liang (Peking University); Wei Gao (University of Pittsburgh); Chenren Xu (Peking University, Key Laboratory of High Confidence Software Technologies, Ministry of Education (PKU))&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/KM-bNYa2rN8" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729156" target="_blank">Detection and Tracking of Drone Swarms using LiDAR&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Tasnim Azad Abir (The University of Texas at Arlington); Vu Le (University of Massachusetts Amherst); Endrowednes Kuantama (Macquarie University); Pranjol Sen Gupta (University of Texas at Arlington); Austin Copley (UMass Amherst); Judith Dawes (Macquarie University); Mohammad Islam (University of Texas at Arlington); Richard Han (Macquarie University); Phuc Nguyen (University of Massachusetts Amherst)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/PU-GMtTg1jk" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729157" target="_blank">Dynamic Defense for Car-Borne LiDAR Vehicle Detection&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Yihan Xu, Dongfang Guo (Nanyang Technological University); Qun Song (Singapore University of Technology and Design); Yang Lou (City University of Hong Kong); Yi Zhu (Wayne State University); Jianping Wang (City University of Hong Kong); Chunming Qiao (SUNY at Buffalo); Rui Tan (Nanyang Technological University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/KHAaI19ptBg" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729141" target="_blank">EdgeLoRA: An Efficient Multi-Tenant LLM Serving System on Edge Devices&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Zheyu Shen, Yexiao He, Ziyao Wang, Yuning Zhang, Guoheng Sun, Wanghao Ye, Ang Li (University of Maryland College Park)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/YC9JV3kI70A" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729133" target="_blank">EffVR: Enhancing Energy and Computation Efficiency of Mobile Virtual Reality&lt;/a>
+ 
+ 
+ 
+ &lt;span class="paper-badges-artifact">
+ 
+ 
+ 
+ Best Artifact Award - Honorable Mention
+ 
+ &lt;/span>
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Xingyu Chen (University of California San Diego); Xinmin Fang (University of Colorado Denver); Shuting Zhang (Guangdong University of Technology); Xinyu Zhang (University of California San Diego); Liang He (University of Nebraska Lincoln); Zhengxiong Li (University of Colorado Denver)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/8yECTLhxqFE" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729126" target="_blank">LEGO&amp;#43;: Redefining the Redundancy Removal for IoT Sensing Edge-End Systems&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Chong Zhang (University of Electronic Science and Technology of China; Southwest Petroleum University; Sichuan Artifcial Intelligence Research Institute, Yibin, China); Han Wang, Qianhe Meng, Yize Zhao, Yihang Song, kanglin Xu, Jinzhe Li, Li Lu (University of Electronic Science and Technology of China)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/Tgb_sZfV-Vw" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729135" target="_blank">MobiChem: A Low-Cost Smartphones-based Toolkit for Practical Fruit Monitoring&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Zhiying Li (Michigan State University); Abdul Aziz, Patrick Do, VP Nguyen (University of Massachusetts Amherst); Tianxing Li (Michigan State University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/8mfntjxgy_k" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729132" target="_blank">Never Start from Scratch: Expediting On-Device LLM Personalization via Explainable Model Selection&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Haoming Wang, Boyuan Yang, Xiangyu Yin, Wei Gao (University of Pittsburgh)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/e3SgiPx3iuE" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729138" target="_blank">Non-Line-of-Sight 3D Object Reconstruction via mmWave Surface Normal Estimation&lt;/a>
+ 
+ 
+ &lt;span class="paper-badges">
+ 
+ 
+ Best Paper Nominee
+ 
+ &lt;/span>
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Laura Dodds, Tara Boroushaki, Kaichen Zhou (Massachusetts Institute of Technology); Fadel Adib (MIT &amp;amp; Cartesian)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/EifvS_0Elz4" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729158" target="_blank">CAMPrints: Leveraging the &amp;#34;Fingerprints&amp;#34; of Digital Cameras to Combat Image Theft&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Bangjie Sun, Mun Choon Chan (National University of Singapore); Jun Han (KAIST)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/Lx2ngeAK60E" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729148" target="_blank">PointPresence: An Online Habitat for Multi-User Mixed Reality Telepresence&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Eugene Chai, Kittipat Apicharttrisorn, Limin Wang, Hyunseok Chang, Sarit Mukherjee (Nokia Bell Labs)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/Xj4irC1M6xc" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729136" target="_blank">Programming Embedded IoT Applications in Natural Language with IoTPilot&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Kaijie Gong, Wei Dong, hao wang, Yingqi Peng, Yi Gao (Zhejiang University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/45OcYarEDqU" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729154" target="_blank">RISENSE: Long-Range In-Band Wireless Control of Passive Reconfigurable Intelligent Surfaces&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Sai Pavan Deram (IMDEA Networks Institute and UC3M); Marco Rossanese, Andres Garcia-Saavedra (NEC Laboratories Europe); Syed Waqas Haider Shah (IMDEA Networks Institute); Vincenzo Sciancalepore (NEC Laboratories Europe); Joerg Widmer (IMDEA Networks Institute); Xavier Costa-Perez (i2CAT, NEC Labs Europe, and ICREA)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/X-MatWIkRIY" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729153" target="_blank">Satori: In-band Analog Backscatter for Audio Transmission&lt;/a>
+ 
+ 
+ &lt;span class="paper-badges">
+ 
+ 
+ Best Paper Nominee
+ 
+ &lt;/span>
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Yang Zou, Xin Na, Yimiao Sun, Yande Chen, Yuan He (Tsinghua University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/Ip5eaA2jtvk" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729142" target="_blank">SecHeadset: A Practical Privacy Protection System for Real-time Voice Communication&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Peng Huang, Kun Pan, Qinglong Wang, Peng Cheng, Li Lu, Zhongjie Ba, Kui Ren (Zhejiang University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/Lr1wNxxnzK4" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729143" target="_blank">Chameleon: Towards Building Least-privileged TEE via Functionality-based Resource Re-grouping&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Nan Jiang, Qihang Zhou, Feifan Qian, Jiayun Chen, Heqing Huang, Xiaoqi Jia, Haichao Du (Institute of Information Engineering, Chinese Academy of Sciences)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/7t7HF-LNEC8" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729159" target="_blank">SigChord: Sniffing Wide Non-sparse Multiband Signals for Terrestrial and Non-terrestrial Networks&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Jinbo Peng, Junwen Duan, Zheng Lin, Haoxuan Yuan, Yue Gao, Zhe Chen (Fudan University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/w_-L01tlFPA" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729144" target="_blank">TerraSLAM: Towards GPS-Denied Localization&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Jingao Xu, Mihir Bala, Thomas Eiszler, Xiangliang Chen, Qifei Dong, Aditya Chanana, Padmanabhan Pillai, Mahadev Satyanarayanan (Carnegie Mellon University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/I0fv_BQl_bU" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729145" target="_blank">DAF: An Efficient End-to-End Dynamic Activation Framework for on-Device DNN Training&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Renyuan Liu, Yuyang Leng (George Mason University); Kaiyan Liu (Geogre Mason University); Shaohan Hu (JPMorganChase); Chun-Fu Chen, Peijun Zhao (JPMorgan Chase); Heechul Yun (University of Kansas); Shuochao Yao (George Mason University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/6yr5XvyFPhg" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729149" target="_blank">Hopter: a Safe, Robust, and Responsive Embedded Operating System&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Zhiyao Ma, Guojun Chen, Zhuo Chen, Lin Zhong (Yale University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/DxDUc_NZyA0" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729139" target="_blank">Towards End-to-End Latency Guarantee in MEC Live Video Analytics with App-RAN Mutual Awareness&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Juheon Yi, Goodsol Lee, Minkyung Jeong, Seokgyeong Shin (Seoul National University); Daehyeok Kim (The University of Texas at Austin); Youngki Lee (Seoul National University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/f0Mg9mSU59I" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729150" target="_blank">Tracking Blink Dynamics and Mental States on Glasses&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Dongyin Hu, Xin Yang, Ahhyun Yuh, Zihao Wang, Lama Al-Aswad, Insup Lee, Mingmin Zhao (University of Pennsylvania)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/0dRM10i1cGc" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729130" target="_blank">UniSense: Spatial-Uncertainty-Aware Collaborative Sensing for Autonomous Driving&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Haojie Ren (University of Science and Technology of China); Wuyang Zhang (Meta); Shuyao Shi (The Chinese University of Hong Kong, Hong Kong SAR, China); Xinran Zhang (University of Science and Technology of China); Lu Zhang (Institute of Artificial Intelligence, Hefei Comprehensive National Science Center); Yanyong Zhang (University of Science and Technology of China)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/Wwkiyi9lgZk" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729164" target="_blank">Unraveling the Missing Link in Low-power Communication: An Autodyning Receiver Architecture that Achieves a Long Range&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Sooriya Patabandige Pramuka Medaranga, Rajashekar Reddy Chinthalapani (National University of Singapore); Wenqing Yan (Uppsala University); Prabal Dutta (UC Berkeley); Ambuj Varshney (National University of Singapore)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/obJMK-sXgbk" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729151" target="_blank">WhisperFlow: Speech Foundation Models in Real Time&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Rongxiang Wang (University of Virginia); Zhiming Xu (unaffiliated); Felix Xiaozhu Lin (University of Virginia)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/0aYNXNLVOwM" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729129" target="_blank">MetaGen: LLM-Driven Generative Framework for Intelligent Metasurface Element&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Yizhe Zhao (Tsinghua University); Lili Chen (Northwestern Polytechnical University); Xinyi Li, Yue-Jiang Dong, Ju Ren, Yaoxue Zhang (Tsinghua University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/WrzHSO2gBnw" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729131" target="_blank">DeltaStream: 2D-Inferred Delta Encoding for Live Volumetric Video Streaming&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Hojeong Lee (Korea University); Yu Hong Kim (University of Colorado Boulder); Sangwoo Ryu, James Won-Ki Hong (POSTECH); Sangtae Ha, Seyeon Kim (University of Colorado Boulder)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/JqHKaUhY8NM" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729160" target="_blank">NeRFlow: Towards Adaptive Streaming for NeRF Videos&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Rui-Xiao Zhang (University of Illinois Urbana-Champaign); Tianchi Huang (Tsinghua University); Bo Chen, Klara Nahrstedt (University of Illinois at Urbana-Champaign)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729146" target="_blank">Shepherd Nova: A Public Testbed for Rigorous Experiments Under Repeatable Energy-Harvesting Conditions&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Kai Geissdoerfer (Nessie Circuits); Ingmar Splitt, Matthias Sokolowski (TU Darmstadt); Carsten Herrmann (TU Dresden); Jonas Kubicki (TU Darmstadt); Jasper de Winkel (TU Delft); Marco Zimmerling (TU Darmstadt)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/wrdr1hxJZ0I" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729147" target="_blank">Agile3D: Adaptive Contention- and Content-Aware 3D Object Detection for Embedded GPUs&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Pengcheng Wang (Purdue University); Zhuoming Liu (University of Wisconsin); Shayok Bagchi (West Lafayette Jr./Sr. High School); Ran Xu (NVIDIA); Saurabh Bagchi (Purdue University); Yin Li (University of Wisconsin); Somali Chaterji (Purdue University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/p7g1sUM_j9k" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729161" target="_blank">ARIA: Optimizing Vision Foundation Model Inference on Heterogeneous Mobile Processors for Augmented Reality&lt;/a>
+ 
+ 
+ &lt;span class="paper-badges">
+ 
+ Best Paper
+ 
+ 
+ &lt;/span>
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Chanyoung Jung, Jeho Lee, Gunjoong Kim (Yonsei University); Jiwon Kim (Uppsala University); Seonghoon Park, Hojung Cha (Yonsei University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/8g8eSjhRaiU" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729163" target="_blank">ARMing x86 Games: Accelerating Binary Translation Using Software-Only Validated Flag Speculation&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">James Yen, Jiarui Wang, Zhibai Huang, Zhixiang Wei, Ziyang Zhang, Chen Chen, Senhao Yu, Yun Wang (Shanghai Jiao Tong University); Hao Wang (Stevens Institue of Technology); Zhengwei Qi (Shanghai Jiao Tong University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/H44ye-B8t8k" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729162" target="_blank">High-resolution mmWave Imaging using Metasurface and Diffusion&lt;/a>
+ 
+ 
+ 
+ &lt;span class="paper-badges-artifact">
+ 
+ 
+ Best Artifact Award - Runner Up
+ 
+ 
+ &lt;/span>
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Yida Wang, Yu Lu (Shanghai Jiao Tong University); Yuxuan ZHOU (The Hong Kong University of Science and Technology); Yifei Shen (Microsoft Research Asia); Lili Qiu (Microsoft Research, UT Austin); Zeyuan Lai (University of Science and Technology of China); Yi-Chao Chen (Shanghai Jiao Tong University); Hao Pan (Microsoft Research); Juntao Zhou, Dian Ding (Shanghai Jiao Tong University); Mei Wang (UT Austin); Guangtao Xue (Shanghai Jiao Tong University); Qian Zhang (Hong Kong University of Science and Technology, China)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/h2T5c9jGvqI" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729155" target="_blank">Toward Spoofing-Resilient and Communication-Integrated MmWave Radar Sensing&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Kun Qian (University of Virginia); Parth Pathak (George Mason University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/riMjc4X0veM" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729134" target="_blank">AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation&lt;/a>
+ 
+ 
+ 
+ &lt;span class="paper-badges-artifact">
+ 
+ Best Artifact Award
+ 
+ 
+ 
+ &lt;/span>
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Hao Wen, Shizuo Tian, Borislav Pavlov, Wenjie Du, Yixuan Li, Ge Chang, Shanhui Zhao, Jiacheng Liu, Yunxin Liu, Ya-Qin Zhang, Yuanchun Li (Institute for AI Industry Research (AIR), Tsinghua University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/8mfntjxgy_k" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729137" target="_blank">Towards Distance-Adaptive Wireless Charging&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Lili Chen (Northwestern Polytechnical University); Yizhe Zhao (Tsinghua University); Shuning Wang, Linghui Zhong, Yongjian Fu (Central South University); Sheng Yue (Sun Yat-sen University); Ju Ren, Yaoxue Zhang (Tsinghua University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/rea_d0mdHq8" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729152" target="_blank">HELIX: High-speed Real-Time Experimentation Platform for 6G Wireless Networks&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Rafael Ruiz, Jesus O. Lacruz (IMDEA Networks Institute); Bastian Bloessl, Matthias Hollick (TU Darmstadt, Germany); Joerg Widmer (IMDEA Networks Institute)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/f-ipx3v_Xp4" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729124" target="_blank">PIT: A Novel Toothbrush Providing Real-Time and Robust Plaque Indication During Brushing&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Kaixin Chen (Shenzhen University, The Hong Kong University of Science and Technology (Guangzhou)); Junfan Xiang, Wanying Tan, Keyu Chen (Shenzhen University); Yaqiong Luo (The Hong Kong University of Science and Technology (Guangzhou)); Chang Ma (Shenzhen University); Kaishun Wu (The Hong Kong University of Science and Technology (Guangzhou)); Lu Wang (Shenzhen University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/FyHLFhcp330" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ &lt;a href="https://doi.org/10.1145/3711875.3729127" target="_blank">EAR-Mapping: Edge-Assisted Real-Time Dense Mapping with Low Bandwidth Requirements&lt;/a>
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Yubin Dai, Bin Qian, Yuxuan Yan, Minglei Zhao, Yangkun Liu, Yuanchao Shu (Zhejiang University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ &lt;div class="paper-teaser">
+ &lt;i class="bi bi-youtube">&lt;/i>
+ &lt;a href="https://youtu.be/FrVn7W_gAnk" target="_blank">Teaser&lt;/a>
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+&lt;/div></description></item><item><title>Accepted Posters</title><link>https://www.sigmobile.org/mobisys/2025/accepted_posters/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/accepted_posters/</guid><description>&lt;div class="accepted">
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Poster: Large Language Model-powered Wi-Fi-based Human Activity Recognition
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Yili Ren (University of South Florida); Haopeng Zhang, Haohan Yuan (University of Hawaii at Manoa); Jingzhe Zhang, Yitong Shen, Yili Ren (University of South Florida)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Poster: GlueRT: Bridging the Gap Between Ray-tracing and Real-World Wireless Channel
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Bo Gao, Tianyue Zheng (Southern University of Science and Technology)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Poster: HeteroRF: Heterogeneity-Aware Federated Radio-Frequency Human Activity Recognition
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Yanru Cui, Tianyue Zheng (Southern University of Science and Technology)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Poster: Mobile Menstrual Health Advising with Multimodal Feature Engineering
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Xiang Ji, Liekang Zeng, Zhenyu Yan (The Chinese University of Hong Kong); Yunqi Guo (the Chinese University of Hong Kong); Hongkai Chen, Yao Wang, Guoliang Xing, Xiang Ji (The Chinese University of Hong Kong)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Improving Network Attack Classification on Imbalanced Real-world Intrusion Incident Datasets
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Miru Kim, Mugon Joe, Minhae Kwon (Soongsil University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Poster: A Diffusion Model for Predicting Spectrum Efficiency in 5G Networks
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Gyeongjune Hahm, Kyung-yul Cheon, Hyeyeon Kwon, Seungkeun Park (ETRI)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Poster: OCC Is Better Than Terahertz Wave for 6G
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Lih Wei Chia, Mehul Motani (National University of Singapore)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Poster: Tracking Blink Dynamics and Mental States on Glasses
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Dongyin Hu, Xin Yang, Ahhyun Yuh, Zihao Wang, Lama A. Al-Aswad, Insup Lee, Mingmin Zhao (University of Pennsylvania)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Non-Line-of-Sight 3D Object Reconstruction via mmWave Surface Normal Estimation
+ 
+ 
+ &lt;span class="paper-badges">
+ 
+ Best Poster Award
+ 
+ 
+ &lt;/span>
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Laura Dodds, Tara Boroushaki, Kaichen Zhou (Massachusetts Institute of Technology); Fadel Adib (MIT &amp;amp; Cartesian)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Data Can Speak for Itself: Quality-guided Utilization of Wireless Synthetic Data
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Chen Gong, Bo Liang (Peking University); Wei Gao (University of Pittsburgh); Chenren Xu (Peking University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ High-resolution mmWave Imaging using Metasurface and Diffusion
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Yida Wang, Yu Lu (Shanghai Jiao Tong University); Yuxuan ZHOU (The Hong Kong University of Science and Technology); Yifei Shen (Microsoft Research Asia); Lili Qiu (UT Austin, MSR Asia Shanghai); Zeyuan Lai (University of Science and Technology of China); Yi-Chao Chen (Shanghai Jiao Tong University); Hao Pan (Microsoft Research); Juntao Zhou, Dian Ding (Shanghai Jiao Tong University); Mei Wang (UT Austin); Guangtao Xue (Shanghai Jiao Tong University); Qian Zhang (Hong Kong University of Science and Technology, China)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ RISENSE: Long-Range In-Band Wireless Control of Passive Reconfigurable Intelligent Surfaces
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Sai Pavan Deram (IMDEA Networks Institute and UC3M); Marco Rossanese, Andres Garcia-Saavedra (NEC Laboratories Europe GmbH); Syed Waqas Haider Shah (IMDEA Networks Institute); Vincenzo Sciancalepore (NEC Laboratories Europe); Joerg Widmer (IMDEA Networks); Xavier Costa-Perez (i2CAT, NEC Labs Europe, and ICREA)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Posters: Edge AI-Based Integrated Model Architecture for Optimization of Semiconductor ALD Processes
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">HYUNGKOO KIM, ChulSeoung Chae, ByeolHee Sim, DongSik Yoon, JeongHoon Kang (Intelligence fusion-Software Research Center Korea Electronics Technology Institute Seong-Nam, Korea)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Are LoRa Logical Channels Really Orthogonal? Practically Orthogonalizing Massive Logical Channels
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Shiming Yu (The Hong Kong Polytechnic University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ LEGO&amp;#43;: Redefining the Redundancy Removal for IoT Sensing Edge-End Systems
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Chong Zhang (University of Electronic Science and Technology of China, Chengdu, China; Southwest Petroleum University, Chengdu, China; Sichuan Artifcial Intelligence Research Institute, Yibin, China); Han Wang, Qianhe Meng, Yize Zhao, Yihang Song, kanglin Xu, Jinzhe Li (University of Electronic Science and Technology of China); Li Lu (School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC), P.R. China); Chong Zhang (Southwest Petroleum University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Toward Spoofing-Resilient and Communication-Integrated MmWave Radar Sensing
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Kun Qian (University of Virginia); Parth Pathak (George Mason University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Poster: Towards Federated Embodied AI with FEAI
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Leming Shen, Yuanqing Zheng (The Hong Kong Polytechnic University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Hopter: a Safe, Robust, and Responsive Embedded Operating System
+ 
+ 
+ &lt;span class="paper-badges">
+ 
+ 
+ Best Poster Award - Runner up
+ 
+ &lt;/span>
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Zhiyao Ma, Guojun Chen, Zhuo Chen, Lin Zhong (Yale University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Poster: Efficient Passive Tracking using Commodity WiFi with Single-Shot Training
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Wei-Hsiang Wang, Yuqian Hu, Guozhen Zhu, Beibei Wang, K. J. Ray Liu (Origin Research)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Poster: IoT-Based Indoor Air Quality Monitoring for Health Risk Assessment and Well-Being
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Naser Hossein Motlagh, Martha Arbayani Zaidan, Pak Lun Fung, Samu Varjonen, Andrew Rebeiro-Hargrave, Petteri Nurmi, Sasu Tarkoma (University of Helsinki)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Poster: MobiChem: A Ubiquitous Smartphone-Based Toolkit for Practical Fruit Monitoring and Analysis
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Zhiying Li (Michigan State University); Abdul Aziz, Patrick Phuoc Do, Phuc Nguyen (University of Massachusetts Amherst); Tianxing Li (Michigan State University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Poster: Joint RF-Gas Sensing for Victim Localization using UAV Networks
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Guillermo Benito-Calvino, Ahmed Boubrima (INRIA); Herve Rivano (INSA Lyon); Alessandro Renzaglia (INRIA); Zhambyl Shaikhanov (University of Maryland)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Poster: PeekXR: Understanding Privacy Leakages from Eye Gaze in Extended Reality
+ 
+ 
+ &lt;span class="paper-badges">
+ 
+ 
+ Best Poster Award - Runner up
+ 
+ &lt;/span>
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Chuyang Peng, Mutahar Ali, Habiba Farrukh (University of California, Irvine)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Poster: SiHear (Sign-to-Hear): Empowering Seemless Sign-Speech Interactions over Smart Glasses
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Chen Peng, Jiaxin Du, Chunyi Peng (Purdue University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Poster: DNN Models for Underground Root Tuber Image Reconstruction using WiFi CSI
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Said Elhadi, Yang Zhao (Harbin Institute of Technology (Shenzhen))&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Unraveling the Missing Link in Low-power Communication: An Autodyning Receiver Architecture that Achieves a Long Range
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Sooriya Patabandige Pramuka Medaranga, Rajashekar Reddy Chinthalapani (National University of Singapore); Wenqing Yan (Uppsala University); Prabal Dutta (UC Berkeley); Ambuj Varshney (National University of Singapore)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Poster: InstaPose: Dynamic Photography Feedback via Adaptive Pose Recommendation System
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Yu Ji, I-Han Hsiao (Department of Computer Science and Engineering, Santa Clara University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ SecHeadset: A Practical Privacy Protection System for Real-time Voice Communication
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Peng Huang, Kun Pan, Qinglong Wang, Peng Cheng, Li Lu, Zhongjie Ba, Kui Ren (Zhejiang University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Poster: Mixture of Class-aware Experts for Efficient AIoT Inference
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Hyemin Jeong, Jeho Lee, Seunghyeok Jeon, Hojung Cha (Yonsei University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ PIT: A Novel Toothbrush Providing Real-Time and Robust Plaque Indication During Brushing
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Kaixin Chen (Shenzhen University, and The Hong Kong University of Science and Technology (Guangzhou)); Yaqiong Luo (The Hong Kong University of Science and Technology (Guangzhou)); Junfan Xiang, Wanying Tan, Keyu Chen, Chang Ma (Shenzhen University); Kaishun Wu (Hong Kong University of Science and Technology(GZ)); Lu Wang (Shenzhen University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Detection and Tracking of Drone Swarms using LiDAR
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Tasnim Azad Abir (The University of Texas at Arlington, University of Massachusetts Amherst, Airspace Forensics); Vu Le (University of Massachusetts Amherst); Endrowednes Kuantama, Pranjol Gupta (Macquarie University, Airspace Forensics); Austin Copley (University of Massachusetts Amherst, Airspace Forensics); Judith Dawes (Macquarie University); Mohammad Islam (University of Texas at Arlington); Richard Han (Macquarie University, Airspace Forensics); VP Nguyen (University of Massachusetts Amherst, Airspace Forensics)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Agile3D: Adaptive Contention- and Content-Aware 3D Object Detection for Embedded GPUs
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Pengcheng Wang (Purdue University); Zhuoming Liu (University of Wisconsin-Madison); Shayok Bagchi (West Lafayette Jr./Sr. High School); Ran Xu (NVIDIA); Saurabh Bagchi (Purdue University); Yin Li (University of Wisconsin-Madison); Somali Chaterji (Purdue University)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ CAMPrints: Leveraging the &amp;#34;Fingerprints&amp;#34; of Digital Cameras to Combat Image Theft
+ 
+ 
+ &lt;span class="paper-badges">
+ 
+ Best Poster Award
+ 
+ 
+ &lt;/span>
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Bangjie Sun, Mun Choon Chan (National University of Singapore); Jun Han (KAIST)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Poster: Real-time Keyboard Segmentation and Finger-Press Detection for Keystroke Tracking in Virtual Keyboards
+ 
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Lawrence Amadi (Futurewei Technologies, Inc.); Andrew Lu (University of Texas); Chih-Hsien Chou, Ning Lu (Futurewei Technologies, Inc.)&lt;/div>
+ &lt;div class="paper-info">
+ 
+ 
+ 
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+&lt;/div></description></item><item><title>Accepted Workshops</title><link>https://www.sigmobile.org/mobisys/2025/accepted_workshops/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/accepted_workshops/</guid><description>&lt;h2 id="envsys25">EnvSys’25&lt;/h2>
+&lt;p>&lt;strong>The 3rd ACM International Workshop on Environmental Sensing Systems for Smart Cities&lt;/strong>&lt;/p>
+&lt;p>Website: &lt;a href="https://envsensys.github.io/2025/">https://envsensys.github.io/2025/&lt;/a>&lt;/p>
+&lt;p>Workshop Chairs:&lt;/p>
+&lt;ul>
+&lt;li>Naser Hossein Motlagh – University of Helsinki, Finland&lt;/li>
+&lt;li>Guoyuan Wu – University of California, Riverside&lt;/li>
+&lt;li>Martha Arbayani Zaidan - University of Helsinki, Finland&lt;/li>
+&lt;li>Andrew Rebeiro-Hargrave - University of Helsinki, Finland&lt;/li>
+&lt;/ul>
+&lt;h2 id="netaisys25">NetAISys’25&lt;/h2>
+&lt;p>&lt;strong>The 3rd International Workshop on Networked AI Systems&lt;/strong>&lt;/p>
+&lt;p>Website: &lt;a href="https://netaisys.github.io/">https://netaisys.github.io/&lt;/a>&lt;/p>
+&lt;p>Workshop Chairs:&lt;/p>
+&lt;ul>
+&lt;li>Roberto Morabito - EURECOM&lt;/li>
+&lt;li>SiYoung Jang - Nokia Bell Labs&lt;/li>
+&lt;li>Chee Wei Tan - Nanyang Technological University&lt;/li>
+&lt;/ul>
+&lt;h2 id="dronet-2025">DroNet 2025&lt;/h2>
+&lt;p>&lt;strong>Eleventh Workshop on Micro Aerial Vehicle Networks, Systems, and Applications.&lt;/strong>&lt;/p></description></item><item><title>Artifact Evaluation</title><link>https://www.sigmobile.org/mobisys/2025/artifact_evaluation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/artifact_evaluation/</guid><description>&lt;div class='button button-disabled'>
+ &lt;div class="button-left">&lt;span class="button-icon">
+ &lt;i class='bi bi-file-text-fill'>&lt;/i>
+ &lt;/span>&lt;div class="button-content">
+ &lt;span class="button-text">Artifact Submission&lt;/span>&lt;/div>
+ &lt;/div>
+ &lt;span class="button-arrow">
+ &lt;i class="bi bi-chevron-right">&lt;/i>
+ &lt;/span>
+ &lt;/div>
+ 
+
+ &lt;div class='button button-disabled'>
+ &lt;div class="button-left">&lt;span class="button-icon">
+ &lt;i class='bi bi-person-raised-hand'>&lt;/i>
+ &lt;/span>&lt;div class="button-content">
+ &lt;span class="button-text">TPC Self Nomination Form&lt;/span>&lt;/div>
+ &lt;/div>
+ &lt;span class="button-arrow">
+ &lt;i class="bi bi-chevron-right">&lt;/i>
+ &lt;/span>
+ &lt;/div>
+ 
+&lt;p>At MobiSys, we aim to promote high-quality research in mobile systems and to advance the state of the art. However, traditional peer-review of papers alone cannot guarantee the reproducibility of the research results. The Artifact Evaluation process complements the paper review process by verifying that the artifacts (e.g., code, data, scripts, or instructions) associated with a paper are correct, complete, and properly documented. The Artifact Evaluation committee also provides feedback to authors to improve the artifacts and ensure that they are reusable by others in the community.&lt;/p></description></item><item><title>Artifact Evaluation Committee</title><link>https://www.sigmobile.org/mobisys/2025/artifact_evaluation_committee/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/artifact_evaluation_committee/</guid><description>&lt;ul>
+ 
+ &lt;li>
+ 
+ &lt;strong>Ashwin Ashok&lt;/strong> Georgia State University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Yaxiong Xie&lt;/strong> University at Buffalo SUNY
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Abbaas Alif Mohamed Nishar&lt;/strong> Georgia State University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Abhishek Chanda&lt;/strong> Cloudflare
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Amartya Basu&lt;/strong> IIT Madras
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Amit Samanta&lt;/strong> University of Utah
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Argha Sen&lt;/strong> Indian Institute of Technology, Kharagpur
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Arunsingh Jeyasingh Jacob&lt;/strong> AWS
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Baodi Shan&lt;/strong> Stony Brook University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Baodong Chen&lt;/strong> The Ohio State University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Bhawana Chhaglani&lt;/strong> UMass
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Chaojie Gu&lt;/strong> Zhejiang University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Charalampos Orfanidis&lt;/strong> Technical University of Denmark
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Chi Lin&lt;/strong> Dalian University of Technology
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Dong Li&lt;/strong> University of Maryland, Baltimore County
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Dongfang Guo&lt;/strong> Nanyang Technological University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Gaosheng Liu&lt;/strong> VU Amsterdam
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Guanqun Song&lt;/strong> The Ohio State University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Han Wang&lt;/strong> University of Electronic Science and Technology of China
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Hanfei Yu&lt;/strong> Stevens Institute of Technology
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Hanqing Guo&lt;/strong> University of Hawaii at Mānoa
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Huixin Dong&lt;/strong> Huazhong University of Science and Techology
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Jian Ding&lt;/strong> Yale University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Lang Wei&lt;/strong> The Ohio State University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Leming Shen&lt;/strong> The Hong Kong Polytechnic University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Liyao Li&lt;/strong> University at Buffalo, SUNY
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Mebiratu Beyene&lt;/strong> Dalian University of Technology
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Mingyi Chen&lt;/strong> UC Irvine
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Payal Mohapatra&lt;/strong> Northwestern University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Pengcheng Wang&lt;/strong> Purdue University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Qifan Yang&lt;/strong> Ohio State University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Ritesh Kumar Singh&lt;/strong> IDLab - University of Antwerp - imec
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Rui Xiao&lt;/strong> Zhejiang University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Ruichen Li&lt;/strong> Ohio State University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Sangwon Choi&lt;/strong> Nokia Bell Labs
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Sarmistha Sarna Gomasta&lt;/strong> University of Massachusetts Amherst
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Shiming Yu&lt;/strong> The Hong Kong Polytechnic University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Siddharth Rupavatharam&lt;/strong> WINLAB, Rutgers University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Sumit Chakravarty&lt;/strong> Kennesaw State University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Tamseel Mahmood Syed&lt;/strong> University of Alabama in Huntsville
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Tao Chen&lt;/strong> University of Pittsburgh
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Venkatesh Kodukula&lt;/strong> Amazon Lab126
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Xuyan Cheng&lt;/strong> Ohio State University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Yao Lu&lt;/strong> The Ohio State University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Yongjian Fu&lt;/strong> Central South University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Yoon Chae&lt;/strong> University of Texas at Arlington
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Yufan Wu&lt;/strong> Ohio State University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Yuxin (Myles) Liu&lt;/strong> UC Irvine
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Zehua Sun&lt;/strong> City University of Hong Kong
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;strong>Zhiyuan Wang&lt;/strong> University of Virginia
+ 
+ 
+ &lt;/li>
+ 
+&lt;/ul></description></item><item><title>Call For Demos</title><link>https://www.sigmobile.org/mobisys/2025/call_for_demos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/call_for_demos/</guid><description>&lt;div class='button button-disabled'>
+ &lt;div class="button-left">&lt;span class="button-icon">
+ &lt;i class='bi bi-file-text-fill'>&lt;/i>
+ &lt;/span>&lt;div class="button-content">
+ &lt;span class="button-text">Demo Submission&lt;/span>&lt;/div>
+ &lt;/div>
+ &lt;span class="button-arrow">
+ &lt;i class="bi bi-chevron-right">&lt;/i>
+ &lt;/span>
+ &lt;/div>
+ 
+&lt;p>MobiSys 2025 invites proposals for live demonstrations of mobile systems, applications, and services. Both research prototypes and commercial products are welcome; however, MobiSys is not suitable for marketing or sales presentations. Presenters should possess a thorough understanding of the system being demonstrated and be able to articulate its technical contributions to the audience. Unlike posters, demonstrations of previously published systems are welcome. Demos will be selected based on their anticipated interest to the MobiSys audience.&lt;/p></description></item><item><title>Call For Papers</title><link>https://www.sigmobile.org/mobisys/2025/call_for_papers/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/call_for_papers/</guid><description>&lt;div class='button button-disabled'>
+ &lt;div class="button-left">&lt;span class="button-icon">
+ &lt;i class='bi bi-file-text-fill'>&lt;/i>
+ &lt;/span>&lt;div class="button-content">
+ &lt;span class="button-text">Paper Submission&lt;/span>&lt;/div>
+ &lt;/div>
+ &lt;span class="button-arrow">
+ &lt;i class="bi bi-chevron-right">&lt;/i>
+ &lt;/span>
+ &lt;/div>
+ 
+&lt;p>ACM MobiSys conference series, started in 2003, is a premier forum to present innovative and significant research on all aspects of mobile computing, mobile applications, and mobile services. ACM MobiSys values high-impact technical contributions with working, &lt;strong>replicable&lt;/strong> implementations and practical evaluations of modern mobile systems.&lt;/p>
+&lt;p>2025 edition of ACM MobiSys solicits papers in domains that include, but are not limited to:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Software for mobile devices, systems and mobile computing&lt;/strong>
+&lt;ul>
+&lt;li>Software architectures&lt;/li>
+&lt;li>Operating systems&lt;/li>
+&lt;li>Software debugging and testing&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Applications of mobile devices, systems and mobile computing&lt;/strong>
+&lt;ul>
+&lt;li>Mobile sensing and crowdsourcing&lt;/li>
+&lt;li>Healthcare and accessibility&lt;/li>
+&lt;li>Sustainability&lt;/li>
+&lt;li>Smart cities&lt;/li>
+&lt;li>Smart agriculture&lt;/li>
+&lt;li>Smart manufacturing&lt;/li>
+&lt;li>Wearables&lt;/li>
+&lt;li>Social networking&lt;/li>
+&lt;li>Mobile web and mobile video&lt;/li>
+&lt;li>Internet of Things&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Security and privacy of mobile devices, systems and mobile computing&lt;/strong>&lt;/li>
+&lt;li>&lt;strong>Machine learning and artificial intelligence with (and for) mobile computing&lt;/strong>
+&lt;ul>
+&lt;li>Novel applications of general machine learning for mobile systems&lt;/li>
+&lt;li>Novel uses of generative artificial intelligence and Large Language Models for mobile systems&lt;/li>
+&lt;li>Novel mobile systems applications and systems with machine learning&lt;/li>
+&lt;li>Resource-efficient artificial intelligence for mobile systems&lt;/li>
+&lt;li>Edge artificial intelligence and its application for mobile systems&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>System-level management for for mobile devices and applications&lt;/strong>
+&lt;ul>
+&lt;li>System-level energy management&lt;/li>
+&lt;li>System-level energy data management&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Sustainability of mobile devices, systems and mobile computing&lt;/strong>
+&lt;ul>
+&lt;li>Energy-neutral mobile systems&lt;/li>
+&lt;li>Reduction of carbon footprint of mobile systems&lt;/li>
+&lt;li>Energy harvesting for mobile systems&lt;/li>
+&lt;li>Sustainable ways of powering and energy storage for mobile infrastructure&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>New tools for mobile devices, systems and mobile computing&lt;/strong>
+&lt;ul>
+&lt;li>New ways to build mobile systems&lt;/li>
+&lt;li>New methods for measuring mobile systems&lt;/li>
+&lt;li>Infrastructure support for mobile systems&lt;/li>
+&lt;li>Metasurfaces and smart surfaces for mobile systems&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Reflection on mobile systems and applications&lt;/strong>
+&lt;ul>
+&lt;li>Experience with using and operating mobile applications, networks, and systems&lt;/li>
+&lt;li>Critical assessment of existing mobile systems and applications: academic and industrial&lt;/li>
+&lt;li>Verification studies of existing mobile systems results&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Cyber-physical systems and mobile devices, systems and mobile computing&lt;/strong>
+&lt;ul>
+&lt;li>Vehicular systems&lt;/li>
+&lt;li>Robotic and drone-based systems&lt;/li>
+&lt;li>Nano-satellites and mobile computing in outer space&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Mobile systems sensing and context awareness&lt;/strong>
+&lt;ul>
+&lt;li>Location-tracking systems&lt;/li>
+&lt;li>Sensing systems with radio, light, sound, and acoustics&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>User interaction&lt;/strong>
+&lt;ul>
+&lt;li>Systems and networking support for virtual reality, augmented reality, mixed reality, and spatial computing&lt;/li>
+&lt;li>Innovative wearable systems and applications&lt;/li>
+&lt;li>Techniques and systems for novel human-mobile interactions and experiences&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Datasets and benchmarks&lt;/strong>
+&lt;ul>
+&lt;li>Collection, analysis and scrutiny of data for mobile systems experiments&lt;/li>
+&lt;li>Proposal for new benchmarks evaluating mobile systems, also for machine learning with/on mobile devices&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Next-generation wireless systems&lt;/strong>
+&lt;ul>
+&lt;li>New mobile hardware architectures&lt;/li>
+&lt;li>Future cellular systems (5G, 6G and beyond)&lt;/li>
+&lt;li>Millimeter-wave and THz communication systems&lt;/li>
+&lt;li>Low-power wireless systems (RF backscatter, Low-Power WANs, etc.)&lt;/li>
+&lt;li>Joint communication and sensing systems&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Non-traditional topics in mobile systems and computing&lt;/strong>
+&lt;ul>
+&lt;li>Quantum mobile systems and mobile computing for quantum systems&lt;/li>
+&lt;li>Mobile systems for social studies&lt;/li>
+&lt;li>Mobile systems for epidemiology research&lt;/li>
+&lt;li>Mobile systems to combat disinformation&lt;/li>
+&lt;li>Mobile systems for underwater communication and sensing&lt;/li>
+&lt;li>Any other topics that bring new perspectives to mobile systems and computing&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>ACM MobiSys 2025 encourages the submission of papers that provide detailed technical explorations of real-world deployments of applications and systems.&lt;/p></description></item><item><title>Call For Posters</title><link>https://www.sigmobile.org/mobisys/2025/call_for_posters/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/call_for_posters/</guid><description>&lt;div class='button button-disabled'>
+ &lt;div class="button-left">&lt;span class="button-icon">
+ &lt;i class='bi bi-file-text-fill'>&lt;/i>
+ &lt;/span>&lt;div class="button-content">
+ &lt;span class="button-text">Poster Submission&lt;/span>&lt;/div>
+ &lt;/div>
+ &lt;span class="button-arrow">
+ &lt;i class="bi bi-chevron-right">&lt;/i>
+ &lt;/span>
+ &lt;/div>
+ 
+&lt;p>MobiSys 2025 continues the tradition of seeking proposals for posters describing novel work not published before on mobile systems, applications, and services. Posters will be presented during a specially designated session of the conference. The poster session is meant to introduce new or ongoing work and provide opportunities for authors to interact directly with conference attendees. Posters are especially suited for presenting controversial research directions that may generate discussion, or promising ideas not yet validated through extensive evaluation.&lt;/p></description></item><item><title>Call For Rising Stars Forum</title><link>https://www.sigmobile.org/mobisys/2025/rising_stars/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/rising_stars/</guid><description>&lt;div class='button button-disabled'>
+ &lt;div class="button-left">&lt;span class="button-icon">
+ &lt;i class='bi bi-file-text-fill'>&lt;/i>
+ &lt;/span>&lt;div class="button-content">
+ &lt;span class="button-text">Paper Submission&lt;/span>&lt;/div>
+ &lt;/div>
+ &lt;span class="button-arrow">
+ &lt;i class="bi bi-chevron-right">&lt;/i>
+ &lt;/span>
+ &lt;/div>
+ 
+&lt;p>ACM MobiSys 2025 will host the Rising Stars Forum, aimed at early career researchers, including early-stage postdoctoral researchers and PhD students, conducting research on any aspects of mobile computing, applications, and services. The forum will offer:&lt;/p>
+&lt;ul>
+&lt;li>A constructive environment for the Rising Stars to discuss their ongoing work with a panel of experienced researchers in the field.&lt;/li>
+&lt;li>An opportunity to initiate a personal network with other Rising Stars and leading experts outside of their own research groups.&lt;/li>
+&lt;/ul>
+&lt;p>The forum will also include a panel. The panelists will also offer their experience and advice on how to carry out successful research and start a career as a researcher. The forum will be structured as a series of short in-person presentations, followed by individual discussions and feedback. Interested participants should submit a 2-page extended abstract of their work. The accepted extended abstracts will be posted on the official conference website and will be included in the conference proceedings and the ACM Digital Library. The students/postdocs who are selected to present at the Rising Stars forum must attend the forum in person, and the students will receive some priority for travel grant applications. At the forum, the chairs will invite several senior researchers from the community to serve as a mentoring committee and provide comments on the presentation of the accepted extended abstracts. The best presenters selected by the mentoring committee during the Rising Stars Forum will be invited to present their work at a separate session of the MobiSys’25 main conference.&lt;/p></description></item><item><title>Call For Workshops</title><link>https://www.sigmobile.org/mobisys/2025/call_for_workshops/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/call_for_workshops/</guid><description>&lt;div class='button button-disabled'>
+ &lt;div class="button-left">&lt;span class="button-icon">
+ &lt;i class='bi bi-file-text-fill'>&lt;/i>
+ &lt;/span>&lt;div class="button-content">
+ &lt;span class="button-text">Workshop Submission&lt;/span>&lt;/div>
+ &lt;/div>
+ &lt;span class="button-arrow">
+ &lt;i class="bi bi-chevron-right">&lt;/i>
+ &lt;/span>
+ &lt;/div>
+ 
+&lt;p>ACM MobiSys is a premier venue for researchers working in the area of mobile and wireless systems, middleware, services, and applications. We solicit workshop proposals for workshops to be held in conjunction with the conference in June 2025. Workshop papers will be included with the ACM MobiSys proceedings and published in the ACM Digital Library. The duration and format of the workshop are flexible to best adapt to the audience and workshop goal.&lt;/p></description></item><item><title>Code of Conduct</title><link>https://www.sigmobile.org/mobisys/2025/code_of_conduct/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/code_of_conduct/</guid><description>&lt;a href='mailto:ardalan@uci.edu,chenren.xu@gmail.com' target="_blank">
+ 
+ &lt;div class='button '>
+ &lt;div class="button-left">&lt;span class="button-icon">
+ &lt;i class='bi bi-exclamation-diamond-fill'>&lt;/i>
+ &lt;/span>&lt;div class="button-content">
+ &lt;span class="button-text">Report a Violation&lt;/span>&lt;/div>
+ &lt;/div>
+ &lt;span class="button-arrow">
+ &lt;i class="bi bi-chevron-right">&lt;/i>
+ &lt;/span>
+ &lt;/div>
+ 
+&lt;/a>
+
+&lt;p>ACM MobiSys 2025 is dedicated to maintaining a professional, respectful, and safe environment for all participants, including attendees, organizers, speakers, sponsors, exhibitors, and student volunteers. All participants are expected to conduct themselves in a professional manner and treat one another with courtesy and respect throughout the duration of the conference, both in physical and virtual spaces.&lt;/p>
+&lt;h2 id="expected-behavior">Expected Behavior&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Professionalism&lt;/strong>&lt;/p>
+&lt;p>Participants shall conduct themselves in a professional and courteous manner at all times. This includes, but is not limited to, engaging in respectful dialogue, exercising sound judgment, and maintaining decorum during all conference-related activities.&lt;/p></description></item><item><title>IoT Day Program</title><link>https://www.sigmobile.org/mobisys/2025/iot_day_program/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/iot_day_program/</guid><description>&lt;div class="timeline-wrapper">
+ &lt;div class="timeline-item">
+ &lt;div class="timeline-item-time">08:20 AM - 08:30 AM&lt;/div>
+ 
+ &lt;div class="timeline-item-location">&lt;i class="bi bi-geo-fill">&lt;/i> Pacific Ballroom C&lt;/div>
+ 
+ &lt;div class="timeline-item-content">
+ 
+ &lt;h3 class="timeline-item-title">Opening Remarks&lt;/h3>
+ 
+ &lt;div class="timeline-item-body">
+ 
+
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+
+
+
+
+&lt;div class="timeline-wrapper">
+ &lt;div class="timeline-item">
+ &lt;div class="timeline-item-time">08:30 AM - 09:30 AM&lt;/div>
+ 
+ &lt;div class="timeline-item-location">&lt;i class="bi bi-geo-fill">&lt;/i> Pacific Ballroom C&lt;/div>
+ 
+ &lt;div class="timeline-item-content">
+ 
+ &lt;div class="timeline-item-body">
+ 
+
+
+
+
+
+
+
+
+
+&lt;div class="panel" id="keynote-1">
+ &lt;div class="panel-header">
+ &lt;div class="panel-title-container">
+ &lt;div class="panel-title-row">
+ &lt;h3>Keynote 1 - How IoT Systems Are Improving Healthcare Delivery in Low-Income Countries&lt;/h3>
+ &lt;button class="panel-toggle" aria-expanded="true" aria-controls="keynote-1">
+ &lt;span class="panel-toggle-icon">
+ &lt;i class="bi bi-plus-lg plus-icon">&lt;/i>
+ &lt;i class="bi bi-dash-lg minus-icon">&lt;/i>
+ &lt;/span>
+ &lt;/button>
+ &lt;/div>
+ 
+ &lt;div class="panel-subheader">&lt;b>Speaker:&lt;/b> Martin Lukac, Co-Founder and CTO of Nexleaf Analytics&lt;br>&lt;b>Moderator:&lt;/b> Tianxing Li, Assistant Professor, Michigan State University&lt;/div>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="panel-content clearfix" >
+ &lt;div class="panel-inner-content">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;div style="margin: 0 1rem 0 0; float: left;">
+ &lt;img src="../images/iot_day/martin_lukac.jpg" alt="Profile Picture" style="display: block; width: 180px; height: 180px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); border: 2px solid #fff;" />
+ 
+ &lt;div class="image-info">
+ &lt;div class="image-ref">
+ Martin Lukac
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;/div>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;div style="margin: 0 1rem 0 0; float: left;">
+ &lt;img src="../images/profiles/tianxin_li.png" alt="Profile Picture" style="display: block; width: 180px; height: 180px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); border: 2px solid #fff;" />
+ 
+ &lt;div class="image-info">
+ &lt;div class="image-ref">
+ Tianxing Li
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;/div>
+ &lt;strong>Abstract:&lt;/strong> This presentation explores the journey from academic sensor network research to real-world IoT applications in Low and Middle-Income Countries (LMICs). It emphasizes the importance of understanding local context and user needs, showcasing how data-driven approaches can solve critical challenges in health, infrastructure, and beyond. We'll discuss key lessons learned, including the realization that technology alone is not the solution and the essential role of user-centered design and adaptation.
+ &lt;p>&lt;strong>Bio:&lt;/strong> Dr. Martin L. Lukac, Ph.D. is Co-Founder and CTO of Nexleaf Analytics. Nexleaf is a social impact technology company with the mission to partner with countries to ensure they have the data they need to build lasting solutions that improve the health of people. In his role as CTO, Martin oversees the innovation pipeline and the continuous improvement of technologies saving lives in low- and middle-income countries (LMICs) at scale. Nexleaf technology moves data from more than 28,000 health facilities around the world and has been deployed in over 30 countries.&lt;/p></description></item><item><title>Keynotes</title><link>https://www.sigmobile.org/mobisys/2025/keynotes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/keynotes/</guid><description>&lt;div class="panel" id="keynote-1">
+ &lt;div class="panel-header">
+ &lt;div class="panel-title-container">
+ &lt;div class="panel-title-row">
+ &lt;h3>Keynote 1 - From Lab to Launch, from Ideas to Impacts&lt;/h3>
+ &lt;button class="panel-toggle" aria-expanded="true" aria-controls="keynote-1">
+ &lt;span class="panel-toggle-icon">
+ &lt;i class="bi bi-plus-lg plus-icon">&lt;/i>
+ &lt;i class="bi bi-dash-lg minus-icon">&lt;/i>
+ &lt;/span>
+ &lt;/button>
+ &lt;/div>
+ 
+ &lt;div class="panel-subheader">&lt;b>Speaker: &lt;/b> Tam Vu, Thomas A. and Georgina Tugwell Russo 1977 Distinguished Professor of Computer Science at Dartmouth College, Founder/CEO of Earable Neuroscience&lt;/div>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="panel-content clearfix" >
+ &lt;div class="panel-inner-content">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;div style="margin: 0 1rem 0 0; float: left;">
+ &lt;img src="../images/keynotes/keynote1.png" alt="Profile Picture" style="display: block; width: 200px; height: 200px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); border: 2px solid #fff;" />
+ 
+ &lt;/div>
+ &lt;strong>Abstract:&lt;/strong> After ten years of focused research, Tam Vu embarked on a new endeavor in 2018: turning his earable computing invention into a consumer product. Beyond his scientist's imagination, what followed was seven years of grit and grind until FRENZ Brainband was finally launched. Invested by Founders Fund and Samsung Ventures, FRENZ is now helping thousands of users across 37 countries sleep better.
+ &lt;p>In this talk, Tam shares lessons learnt through his journey, from the initial research idea to founding Earable Neuroscience and launching FRENZ. He unpacks the challenges of translating academic research into a real-world product, and shares how the team navigated hardware design hurdles, mass manufacturing complexities, team assembly, while securing multiple funding rounds from top-tier venture capital firms. He will further share his hard-earned lessons on leadership, resilience, and the entrepreneurial mindset, highlighting differences between the lab and startup worlds.&lt;/p></description></item><item><title>N&lt;sup>2&lt;/sup>Women Program</title><link>https://www.sigmobile.org/mobisys/2025/n2women_program/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/n2women_program/</guid><description>&lt;div class="timeline-wrapper">
+ &lt;div class="timeline-item">
+ &lt;div class="timeline-item-time">08:45 AM - 09:00 AM&lt;/div>
+ 
+ &lt;div class="timeline-item-location">&lt;i class="bi bi-geo-fill">&lt;/i> Huntington&lt;/div>
+ 
+ &lt;div class="timeline-item-content">
+ 
+ &lt;h3 class="timeline-item-title">Opening Remarks&lt;/h3>
+ 
+ &lt;div class="timeline-item-body">
+ 
+
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+
+
+
+
+&lt;div class="timeline-wrapper">
+ &lt;div class="timeline-item">
+ &lt;div class="timeline-item-time">09:00 AM - 10:00 AM&lt;/div>
+ 
+ &lt;div class="timeline-item-location">&lt;i class="bi bi-geo-fill">&lt;/i> Huntington&lt;/div>
+ 
+ &lt;div class="timeline-item-content">
+ 
+ &lt;div class="timeline-item-body">
+ 
+
+
+
+
+
+
+
+
+
+&lt;div class="panel" id="keynote">
+ &lt;div class="panel-header">
+ &lt;div class="panel-title-container">
+ &lt;div class="panel-title-row">
+ &lt;h3>Keynote - A Research Journey: Highlights and Lessons Learned Along the Way&lt;/h3>
+ &lt;button class="panel-toggle" aria-expanded="true" aria-controls="keynote">
+ &lt;span class="panel-toggle-icon">
+ &lt;i class="bi bi-plus-lg plus-icon">&lt;/i>
+ &lt;i class="bi bi-dash-lg minus-icon">&lt;/i>
+ &lt;/span>
+ &lt;/button>
+ &lt;/div>
+ 
+ &lt;div class="panel-subheader">&lt;b>Speaker:&lt;/b> Yasamin Mostofi, Professor, University of California, Santa Barbara&lt;/div>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="panel-content clearfix" >
+ &lt;div class="panel-inner-content">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;div style="margin: 0 1rem 0 0; float: left;">
+ &lt;img src="../images/n2women/yasamin_mostofi.jpg" alt="Profile Picture" style="display: block; width: 180px; height: 180px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); border: 2px solid #fff;" />
+ 
+ &lt;/div>
+ &lt;strong>Abstract:&lt;/strong> In this talk, I will start by discussing sample current research highlights of my lab in recent years. Specifically, I will discuss research breakthroughs in the area of wireless sensing and perception and for applications such as imaging, crowd analytics, context inference, and smart health. In the second part of the talk, I will reflect on my career path, share key lessons learned, and discuss tools to empower and inspire early-career researchers as they navigate their own paths.
+ &lt;p>&lt;strong>Bio:&lt;/strong> Yasamin Mostofi received the B.S. degree in electrical engineering from Sharif University of Technology, and the M.S. and Ph.D. degrees from Stanford University. She is currently a professor in the Department of Electrical and Computer Engineering at the University of California Santa Barbara. Yasamin is the recipient of the Presidential Early Career Award for Scientists and Engineers (PECASE), the Antonio Ruberti Prize from the IEEE Control Systems Society (research contribution award for 40 and under), the National Science Foundation (NSF) CAREER award, and the IEEE Outstanding Engineer Award of Region 6 (more than 10 Western U.S. states), among other awards. She is a fellow of IEEE. She was a semi-plenary speaker at the 2018 IEEE Conference on Decision and Control (CDC) and a keynote speaker at the 2018 Mediterranean Conference on Control and Automation (MED). Yasamin's research is multi-disciplinary, in the two areas of wireless systems and robotics. Current high-level research thrusts include 1) RF sensing for several different applications such as through-wall imaging, occupancy analytics, context inference, smart health, and smart spaces; and 2) communication-aware robotics, UAV-assisted connectivity, and joint robotic path planning and communication. Her research has appeared in several reputable news venues such as BBC, New Scientist, Daily Mail, Engadget, TechCrunch, NSF Science360, ACM News, and IEEE Spectrum, among others. Yasamin has served in many different professional capacities over the years. Recent samples include serving on the inaugural editorial board of NPJ Wireless Technology as part of Nature Portfolio, serving on the Board of Governors of IEEE CSS, serving as a senior editor for IEEE TCNS, and serving as a program co-chair for ACM MobiCom 2022, among others. &lt;/p></description></item><item><title>Networking Networking Women (N&lt;sup>2&lt;/sup>Women) Workshop</title><link>https://www.sigmobile.org/mobisys/2025/n2women/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/n2women/</guid><description>&lt;div class='button button-disabled'>
+ &lt;div class="button-left">&lt;span class="button-icon">
+ &lt;i class='bi bi-file-text-fill'>&lt;/i>
+ &lt;/span>&lt;div class="button-content">
+ &lt;span class="button-text">Poster Submission&lt;/span>&lt;/div>
+ &lt;/div>
+ &lt;span class="button-arrow">
+ &lt;i class="bi bi-chevron-right">&lt;/i>
+ &lt;/span>
+ &lt;/div>
+ 
+
+ &lt;div class='button button-disabled'>
+ &lt;div class="button-left">&lt;span class="button-icon">
+ &lt;i class='bi bi-suitcase-fill'>&lt;/i>
+ &lt;/span>&lt;div class="button-content">
+ &lt;span class="button-text">Travel Grant Application&lt;/span>&lt;/div>
+ &lt;/div>
+ &lt;span class="button-arrow">
+ &lt;i class="bi bi-chevron-right">&lt;/i>
+ &lt;/span>
+ &lt;/div>
+ 
+
+ &lt;div class='button button-disabled'>
+ &lt;div class="button-left">&lt;span class="button-icon">
+ &lt;i class='bi bi-person-raised-hand'>&lt;/i>
+ &lt;/span>&lt;div class="button-content">
+ &lt;span class="button-text">Mentor Application&lt;/span>&lt;/div>
+ &lt;/div>
+ &lt;span class="button-arrow">
+ &lt;i class="bi bi-chevron-right">&lt;/i>
+ &lt;/span>
+ &lt;/div>
+ 
+&lt;p>The 
+N&lt;sup>2&lt;/sup>Women
+ workshop aims to foster professional networking among women in computer networking and related research fields in which women are traditionally underrepresented. Its goal is to:&lt;/p>
+&lt;ul>
+&lt;li>Connect newer generations of networking women researchers with the community and create mentorship relationships;&lt;/li>
+&lt;li>Create a research forum in which students and junior researchers learn and discuss current trends in networking, present their research and receive feedback;&lt;/li>
+&lt;li>Engage a diverse body of junior researchers in the field.&lt;/li>
+&lt;/ul>
+&lt;p>The workshop welcomes women, but also underrepresented minorities of any gender identity, students, and men who share the same research interests and face the same career hurdles.&lt;/p></description></item><item><title>Organizing Committee</title><link>https://www.sigmobile.org/mobisys/2025/organizing_committee/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/organizing_committee/</guid><description>&lt;!-- Modify the assets/charis.json to add or remove chairs -->
+
+
+
+
+
+&lt;h3>General Chairs&lt;/h3>
+
+&lt;table class="table table-striped table-bordered table-fixed table-responsive-profile">
+ &lt;tbody>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/ardalan-amiri-sani.jpg" alt="Ardalan Amiri Sani">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Ardalan Amiri Sani&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:ardalan@uci.edu">ardalan@uci.edu&lt;/a>
+ &lt;/div>
+ &lt;div>University of California, Irvine&lt;/div>
+ &lt;/td>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/chenren_xu.jpg" alt="Chenren Xu">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Chenren Xu&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:chenren.xu@gmail.com">chenren.xu@gmail.com&lt;/a>
+ &lt;/div>
+ &lt;div>Peking University&lt;/div>
+ &lt;/td>
+ 
+ &lt;/tbody>
+&lt;/table>
+
+&lt;h3>TPC Chairs&lt;/h3>
+
+&lt;table class="table table-striped table-bordered table-fixed table-responsive-profile">
+ &lt;tbody>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/swarun_kumar.png" alt="Swarun Kumar">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Swarun Kumar&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:swarun@cmu.edu">swarun@cmu.edu&lt;/a>
+ &lt;/div>
+ &lt;div>Carnegie Mellon University&lt;/div>
+ &lt;/td>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/przemys%c5%82aw_pawe%c5%82czak.jpg" alt="Przemysław Pawełczak">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Przemysław Pawełczak&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:P.Pawelczak@tudelft.nl">P.Pawelczak@tudelft.nl&lt;/a>
+ &lt;/div>
+ &lt;div>Delft University of Technology&lt;/div>
+ &lt;/td>
+ 
+ &lt;/tbody>
+&lt;/table>
+
+&lt;h3>Workshop Chairs&lt;/h3>
+
+&lt;table class="table table-striped table-bordered table-fixed table-responsive-profile">
+ &lt;tbody>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/jiliang_wang.jpg" alt="Jiliang Wang">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Jiliang Wang&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:jiliangwang99@gmail.com">jiliangwang99@gmail.com&lt;/a>
+ &lt;/div>
+ &lt;div>Tsinghua University&lt;/div>
+ &lt;/td>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/phuc_nguyen.jpeg" alt="VP Nguyen">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>VP Nguyen&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:vp.nguyen@cs.umass.edu">vp.nguyen@cs.umass.edu&lt;/a>
+ &lt;/div>
+ &lt;div>University of Massachusetts Amherst&lt;/div>
+ &lt;/td>
+ 
+ &lt;/tbody>
+&lt;/table>
+
+&lt;h3>Poster Chairs&lt;/h3>
+
+&lt;table class="table table-striped table-bordered table-fixed table-responsive-profile">
+ &lt;tbody>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/jun_han.jpg" alt="Jun Han">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Jun Han&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:jun.han@kaist.ac.kr">jun.han@kaist.ac.kr&lt;/a>
+ &lt;/div>
+ &lt;div>Korea Advanced Institute of Science and Technology&lt;/div>
+ &lt;/td>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/hang_qiu.jpg" alt="Hang Qiu">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Hang Qiu&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:hangq@ucr.edu">hangq@ucr.edu&lt;/a>
+ &lt;/div>
+ &lt;div>University of California, Riverside&lt;/div>
+ &lt;/td>
+ 
+ &lt;/tbody>
+&lt;/table>
+
+&lt;h3>Demo Chairs&lt;/h3>
+
+&lt;table class="table table-striped table-bordered table-fixed table-responsive-profile">
+ &lt;tbody>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/felix_lin.jpg" alt="Felix Lin">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Felix Lin&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:felixlin@virginia.edu">felixlin@virginia.edu&lt;/a>
+ &lt;/div>
+ &lt;div>The University of Virginia&lt;/div>
+ &lt;/td>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/habiba_farrukh.jpeg" alt="Habiba Farrukh">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Habiba Farrukh&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:habibaf@uci.edu">habibaf@uci.edu&lt;/a>
+ &lt;/div>
+ &lt;div>University of California, Irvine&lt;/div>
+ &lt;/td>
+ 
+ &lt;/tbody>
+&lt;/table>
+
+&lt;h3>Artifact Evaluation Chairs&lt;/h3>
+
+&lt;table class="table table-striped table-bordered table-fixed table-responsive-profile">
+ &lt;tbody>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/yaxiong_xie.jpeg" alt="Yaxiong Xie">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Yaxiong Xie&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:yaxiongx@buffalo.edu">yaxiongx@buffalo.edu&lt;/a>
+ &lt;/div>
+ &lt;div>University of Buffalo&lt;/div>
+ &lt;/td>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/ashwin_ashok.png" alt="Ashwin Ashok">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Ashwin Ashok&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:aashok@gsu.edu">aashok@gsu.edu&lt;/a>
+ &lt;/div>
+ &lt;div>Georgia State University&lt;/div>
+ &lt;/td>
+ 
+ &lt;/tbody>
+&lt;/table>
+
+&lt;h3>Publicity Chairs&lt;/h3>
+
+&lt;table class="table table-striped table-bordered table-fixed table-responsive-profile">
+ &lt;tbody>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/renjie_zhao.webp" alt="Renjie Zhao">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Renjie Zhao&lt;/strong> &lt;span class="badge">North America&lt;/span>
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:rjzhao@jhu.edu">rjzhao@jhu.edu&lt;/a>
+ &lt;/div>
+ &lt;div>Johns Hopkins University&lt;/div>
+ &lt;/td>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/sicong_liu.jpeg" alt="Sicong Liu">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Sicong Liu&lt;/strong> &lt;span class="badge">Asia&lt;/span>
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:scliu@nwpu.edu.cn">scliu@nwpu.edu.cn&lt;/a>
+ &lt;/div>
+ &lt;div>Northwestern Polytechnical University&lt;/div>
+ &lt;/td>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/ksy.png" alt="Kasım Sinan Yıldırım">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Kasım Sinan Yıldırım&lt;/strong> &lt;span class="badge">Europe&lt;/span>
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:sinanyil81@gmail.com">sinanyil81@gmail.com&lt;/a>
+ &lt;/div>
+ &lt;div>University of Trento&lt;/div>
+ &lt;/td>
+ 
+ &lt;/tbody>
+&lt;/table>
+
+&lt;h3>Publication Chairs&lt;/h3>
+
+&lt;table class="table table-striped table-bordered table-fixed table-responsive-profile">
+ &lt;tbody>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/ruipeng_gao.jpg" alt="Ruipeng Gao">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Ruipeng Gao&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:rpgao@bjtu.edu.cn">rpgao@bjtu.edu.cn&lt;/a>
+ &lt;/div>
+ &lt;div>Beijing Jiaotong University&lt;/div>
+ &lt;/td>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/tianxin_li.png" alt="Tianxin Li">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Tianxin Li&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:litianx2@msu.edu">litianx2@msu.edu&lt;/a>
+ &lt;/div>
+ &lt;div>Michigan State University&lt;/div>
+ &lt;/td>
+ 
+ &lt;/tbody>
+&lt;/table>
+
+&lt;h3>IoT Day Chairs&lt;/h3>
+
+&lt;table class="table table-striped table-bordered table-fixed table-responsive-profile">
+ &lt;tbody>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/wei_gao.jpg" alt="Wei Gao">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Wei Gao&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:weigao@pitt.edu">weigao@pitt.edu&lt;/a>
+ &lt;/div>
+ &lt;div>University of Pittsburgh&lt;/div>
+ &lt;/td>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/luca_mottola.webp" alt="Luca Mottola">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Luca Mottola&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:luca.mottola@polimi.it">luca.mottola@polimi.it&lt;/a>
+ &lt;/div>
+ &lt;div>Politecnico di Milano&lt;/div>
+ &lt;/td>
+ 
+ &lt;/tbody>
+&lt;/table>
+
+&lt;h3>Rising Stars Forum Chairs&lt;/h3>
+
+&lt;table class="table table-striped table-bordered table-fixed table-responsive-profile">
+ &lt;tbody>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/shijia_pan.jpg" alt="Shijia Pan">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Shijia Pan&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:span24@ucmerced.edu">span24@ucmerced.edu&lt;/a>
+ &lt;/div>
+ &lt;div>University of California, Merced&lt;/div>
+ &lt;/td>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/nirupam_roy.jpg" alt="Nirupam Roy">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Nirupam Roy&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:niruroy@umd.edu">niruroy@umd.edu&lt;/a>
+ &lt;/div>
+ &lt;div>The University of Maryland&lt;/div>
+ &lt;/td>
+ 
+ &lt;/tbody>
+&lt;/table>
+
+&lt;h3>N&lt;sup>2&lt;/sup>Women Chairs&lt;/h3>
+
+&lt;table class="table table-striped table-bordered table-fixed table-responsive-profile">
+ &lt;tbody>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/xiaomin_ouyang.jpeg" alt="Xiaomin Ouyang">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Xiaomin Ouyang&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:xmouyang@cse.ust.hk">xmouyang@cse.ust.hk&lt;/a>
+ &lt;/div>
+ &lt;div>Hong Kong University of Science and Technology&lt;/div>
+ &lt;/td>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/zerina_kapetanovi.jpg" alt="Zerina Kapetanovic">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Zerina Kapetanovic&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:zerina@stanford.edu">zerina@stanford.edu&lt;/a>
+ &lt;/div>
+ &lt;div>Standford University&lt;/div>
+ &lt;/td>
+ 
+ &lt;/tbody>
+&lt;/table>
+
+&lt;h3>Finance Chairs&lt;/h3>
+
+&lt;table class="table table-striped table-bordered table-fixed table-responsive-profile">
+ &lt;tbody>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/jingao_xu.jpg" alt="Jingao Xu">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Jingao Xu&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:jingaox@andrew.cmu.edu">jingaox@andrew.cmu.edu&lt;/a>
+ &lt;/div>
+ &lt;div>Carnegie Mellon University&lt;/div>
+ &lt;/td>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/yuanqing_zheng.jpg" alt="Yuanqin Zheng">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Yuanqin Zheng&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:zhengyq7@gmail.com">zhengyq7@gmail.com&lt;/a>
+ &lt;/div>
+ &lt;div>The Hong Kong Polytechnic University&lt;/div>
+ &lt;/td>
+ 
+ &lt;/tbody>
+&lt;/table>
+
+&lt;h3>Sponsorship Chairs&lt;/h3>
+
+&lt;table class="table table-striped table-bordered table-fixed table-responsive-profile">
+ &lt;tbody>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/zhihao_yao.jpg" alt="Zhihao (Zephyr) Yao">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Zhihao (Zephyr) Yao&lt;/strong> &lt;span class="badge">North America&lt;/span>
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:zhihao.yao@njit.edu">zhihao.yao@njit.edu&lt;/a>
+ &lt;/div>
+ &lt;div>New Jersey Institute of Technology&lt;/div>
+ &lt;/td>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/yuuki_nishiyama.jpg" alt="Yuuki Nishiyama">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Yuuki Nishiyama&lt;/strong> &lt;span class="badge">Asia&lt;/span>
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:nishiyama@csis.u-tokyo.ac.jp">nishiyama@csis.u-tokyo.ac.jp&lt;/a>
+ &lt;/div>
+ &lt;div>University of Tokyo&lt;/div>
+ &lt;/td>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/qing_wang.jpg" alt="Qing Wang">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Qing Wang&lt;/strong> &lt;span class="badge">Europe&lt;/span>
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:qing.wang@tudelft.nl">qing.wang@tudelft.nl&lt;/a>
+ &lt;/div>
+ &lt;div>Delft University of Technology&lt;/div>
+ &lt;/td>
+ 
+ &lt;/tbody>
+&lt;/table>
+
+&lt;h3>Student Volunteer Chairs&lt;/h3>
+
+&lt;table class="table table-striped table-bordered table-fixed table-responsive-profile">
+ &lt;tbody>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/ge_wang.webp" alt="Ge Wang">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Ge Wang&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:gewang@xjtu.edu.cn">gewang@xjtu.edu.cn&lt;/a>
+ &lt;/div>
+ &lt;div>Xi&amp;#39;an Jiaotong University&lt;/div>
+ &lt;/td>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/mehdi_sepasi.jpeg" alt="Mehdi Sepasi">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Mehdi Sepasi&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:msepasia@uci.edu">msepasia@uci.edu&lt;/a>
+ &lt;/div>
+ &lt;div>University of California, Irvine&lt;/div>
+ &lt;/td>
+ 
+ &lt;/tbody>
+&lt;/table>
+
+&lt;h3>Local Arrangement Chairs&lt;/h3>
+
+&lt;table class="table table-striped table-bordered table-fixed table-responsive-profile">
+ &lt;tbody>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/yuxin_liu.jpeg" alt="Yuxin (Myles) Liu">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Yuxin (Myles) Liu&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:yuxin.liu@uci.edu">yuxin.liu@uci.edu&lt;/a>
+ &lt;/div>
+ &lt;div>University of California, Irvine&lt;/div>
+ &lt;/td>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/zhaowei_tan.jpeg" alt="Zhaowei Tan">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Zhaowei Tan&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:ztan@ucr.edu">ztan@ucr.edu&lt;/a>
+ &lt;/div>
+ &lt;div>University of California, Riverside&lt;/div>
+ &lt;/td>
+ 
+ &lt;/tbody>
+&lt;/table>
+
+&lt;h3>Registration Chairs&lt;/h3>
+
+&lt;table class="table table-striped table-bordered table-fixed table-responsive-profile">
+ &lt;tbody>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/dongyao_chen.jpg" alt="Dongyao Chen">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Dongyao Chen&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:chendy@sjtu.edu.cn">chendy@sjtu.edu.cn&lt;/a>
+ &lt;/div>
+ &lt;div>Shanghai Jiaotong University&lt;/div>
+ &lt;/td>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/anh_guyen.jpg" alt="Anh Nguyen">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Anh Nguyen&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:anh.nguyen@umontana.edu">anh.nguyen@umontana.edu&lt;/a>
+ &lt;/div>
+ &lt;div>University of Montana&lt;/div>
+ &lt;/td>
+ 
+ &lt;/tbody>
+&lt;/table>
+
+&lt;h3>Student Travel Grant Chairs&lt;/h3>
+
+&lt;table class="table table-striped table-bordered table-fixed table-responsive-profile">
+ &lt;tbody>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/tingjun_chen.jpg" alt="Tingjun Chen">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Tingjun Chen&lt;/strong> &lt;span class="badge">North America&lt;/span>
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:tingjun.chen@duke.edu">tingjun.chen@duke.edu&lt;/a>
+ &lt;/div>
+ &lt;div>Duke University&lt;/div>
+ &lt;/td>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/zhimeng_yin.jpg" alt="Zhimeng Yin">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Zhimeng Yin&lt;/strong> &lt;span class="badge">Asia&lt;/span>
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:zhimeyin@cityu.edu.hk">zhimeyin@cityu.edu.hk&lt;/a>
+ &lt;/div>
+ &lt;div>City University of Hong Kong&lt;/div>
+ &lt;/td>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/aaron-ding.jpg" alt="Aaron Ding">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Aaron Ding&lt;/strong> &lt;span class="badge">Europe&lt;/span>
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:Aaron.Ding@tudelft.nl">Aaron.Ding@tudelft.nl&lt;/a>
+ &lt;/div>
+ &lt;div>Delft University of Technology&lt;/div>
+ &lt;/td>
+ 
+ &lt;/tbody>
+&lt;/table>
+
+&lt;h3>Web Chairs&lt;/h3>
+
+&lt;table class="table table-striped table-bordered table-fixed table-responsive-profile">
+ &lt;tbody>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/zhibo_wang.jpeg" alt="Zhibo Wang">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Zhibo Wang&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:zhibowang@zju.edu.cn">zhibowang@zju.edu.cn&lt;/a>
+ &lt;/div>
+ &lt;div>Zhejiang University&lt;/div>
+ &lt;/td>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/mingyi_chen.png" alt="Mingyi Chen">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Mingyi Chen&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:mingyi.chen@uci.edu">mingyi.chen@uci.edu&lt;/a>
+ &lt;/div>
+ &lt;div>University of California, Irvine&lt;/div>
+ &lt;/td>
+ 
+ &lt;td class="member-group">
+ &lt;div class="profile">
+ 
+ &lt;img src="../images/profiles/rui_zheng.jpg" alt="Rui Zheng">
+ 
+ &lt;/div>
+ &lt;div>
+ &lt;strong>Rui Zheng&lt;/strong> 
+ &lt;/div>
+ &lt;div>
+ &lt;a href="mailto:zr_12f@zju.edu.cn">zr_12f@zju.edu.cn&lt;/a>
+ &lt;/div>
+ &lt;div>Zhejiang University&lt;/div>
+ &lt;/td>
+ 
+ &lt;/tbody>
+&lt;/table></description></item><item><title>PC Self Nomination</title><link>https://www.sigmobile.org/mobisys/2025/pc_self_nomination/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/pc_self_nomination/</guid><description>&lt;div class='button button-disabled'>
+ &lt;div class="button-left">&lt;span class="button-icon">
+ &lt;i class='bi bi-person-raised-hand'>&lt;/i>
+ &lt;/span>&lt;div class="button-content">
+ &lt;span class="button-text">PC Self Nomination Form&lt;/span>&lt;/div>
+ &lt;/div>
+ &lt;span class="button-arrow">
+ &lt;i class="bi bi-chevron-right">&lt;/i>
+ &lt;/span>
+ &lt;/div>
+ 
+&lt;p>The ACM MobiSys program committee (PC) is a set of experts in mobile systems, wireless networks and mobile computing that review academic papers for publication in the ACM MobiSys 2025 program. Please fill out this form (&lt;del>&lt;a href="https://forms.gle/gpCttBLPfvGkFd2K7">https://forms.gle/gpCttBLPfvGkFd2K7&lt;/a>&lt;/del>) to apply to be a member of the ACM MobiSys 2025 PC.&lt;/p>
+&lt;p>To apply, you must have:&lt;/p>
+&lt;ul>
+&lt;li>Published at least one full-length paper in a SIGMOBILE conference: MobiSys, MobiCom, UbiComp, MobiHoc, SenSys or SEC.&lt;/li>
+&lt;li>Have graduated with a PhD.&lt;/li>
+&lt;/ul>
+&lt;p>Applications for the MobiSys 2025 PC are due by &lt;strong>Friday October 4th, 2024&lt;/strong>.&lt;/p></description></item><item><title>Program</title><link>https://www.sigmobile.org/mobisys/2025/program/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/program/</guid><description>&lt;div id='calendar'>&lt;/div>
+
+
+&lt;h2 id="monday-june-23">Monday, June 23&lt;/h2>
+&lt;p>Please visit the respective program of &lt;a href="../iot_day_program/">IoT Day&lt;/a>, &lt;a href="../n2women_program/">
+N&lt;sup>2&lt;/sup>Women
+&lt;/a> and &lt;a href="../rising_stars_program/">Rising Stars&lt;/a> for their detailed schedule.&lt;/p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;h2>Day 1: Tuesday, June 24&lt;/h2>
+
+
+&lt;div class="timeline-wrapper">
+ &lt;div class="timeline-item">
+ &lt;div class="timeline-item-time">10:30 AM - 12:00 PM&lt;/div>
+ 
+ &lt;div class="timeline-item-location">&lt;i class="bi bi-geo-fill">&lt;/i> Pacific Ballroom C&lt;/div>
+ 
+ &lt;div class="timeline-item-content">
+ &lt;div class="timeline-item-body">
+ 
+ &lt;div class="panel" id="session-1---sensing">
+ &lt;div class="panel-header">
+ &lt;div class="panel-title-container">
+ &lt;div class="panel-title-row">
+ &lt;h3>Session 1 - Sensing&lt;/h3>
+ &lt;button class="panel-toggle" aria-expanded="true"
+ aria-controls="panel-session-1---sensing">
+ &lt;span class="panel-toggle-icon">
+ &lt;i class="bi bi-plus-lg plus-icon">&lt;/i>
+ &lt;i class="bi bi-dash-lg minus-icon">&lt;/i>
+ &lt;/span>
+ &lt;/button>
+ &lt;/div>
+ 
+ &lt;div class="panel-subheader">&lt;strong>Session Chair: &lt;/strong>Sijie Ji, California Institute of Technology&lt;/div>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div id="panel-session-1---sensing" class="panel-content" >
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ MobiChem: A Low-Cost Smartphones-based Toolkit for Practical Fruit Monitoring
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Zhiying Li (Michigan State University); Abdul Aziz, Patrick Do, VP Nguyen (University of Massachusetts Amherst); Tianxing Li (Michigan State University)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ PIT: A Novel Toothbrush Providing Real-Time and Robust Plaque Indication During Brushing
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Kaixin Chen (Shenzhen University, The Hong Kong University of Science and Technology (Guangzhou)); Junfan Xiang, Wanying Tan, Keyu Chen (Shenzhen University); Yaqiong Luo (The Hong Kong University of Science and Technology (Guangzhou)); Chang Ma (Shenzhen University); Kaishun Wu (The Hong Kong University of Science and Technology (Guangzhou)); Lu Wang (Shenzhen University)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ SigChord: Sniffing Wide Non-sparse Multiband Signals for Terrestrial and Non-terrestrial Networks
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Jinbo Peng, Junwen Duan, Zheng Lin, Haoxuan Yuan, Yue Gao, Zhe Chen (Fudan University)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ TerraSLAM: Towards GPS-Denied Localization
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Jingao Xu, Mihir Bala, Thomas Eiszler, Xiangliang Chen, Qifei Dong, Aditya Chanana, Padmanabhan Pillai, Mahadev Satyanarayanan (Carnegie Mellon University)&lt;/div>
+ &lt;/div>
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;div class="timeline-wrapper">
+ &lt;div class="timeline-item">
+ &lt;div class="timeline-item-time">1:30 PM - 3:25 PM&lt;/div>
+ 
+ &lt;div class="timeline-item-location">&lt;i class="bi bi-geo-fill">&lt;/i> Pacific Ballroom C&lt;/div>
+ 
+ &lt;div class="timeline-item-content">
+ &lt;div class="timeline-item-body">
+ 
+ &lt;div class="panel" id="session-2---internet-of-things">
+ &lt;div class="panel-header">
+ &lt;div class="panel-title-container">
+ &lt;div class="panel-title-row">
+ &lt;h3>Session 2 - Internet of Things&lt;/h3>
+ &lt;button class="panel-toggle" aria-expanded="true"
+ aria-controls="panel-session-2---internet-of-things">
+ &lt;span class="panel-toggle-icon">
+ &lt;i class="bi bi-plus-lg plus-icon">&lt;/i>
+ &lt;i class="bi bi-dash-lg minus-icon">&lt;/i>
+ &lt;/span>
+ &lt;/button>
+ &lt;/div>
+ 
+ &lt;div class="panel-subheader">&lt;strong>Session Chair: &lt;/strong>Zerina Kapetanovic, Stanford University&lt;/div>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div id="panel-session-2---internet-of-things" class="panel-content" >
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Are LoRa Logical Channels Really Orthogonal? Practically Orthogonalizing Massive Logical Channels
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Shiming Yu, Ziyue Zhang, Xianjin Xia, Yuanqing Zheng (The Hong Kong Polytechnic University); Jiliang Wang (Tsinghua University)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Programming Embedded IoT Applications in Natural Language with IoTPilot
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Kaijie Gong, Wei Dong, Hao Wang, Yingqi Peng, Yi Gao (Zhejiang University)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Satori: In-band Analog Backscatter for Audio Transmission
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Yang Zou, Xin Na, Yimiao Sun, Yande Chen, Yuan He (Tsinghua University)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Unraveling the Missing Link in Low-power Communication: An Autodyning Receiver Architecture that Achieves a Long Range
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Sooriya Patabandige Pramuka Medaranga, Rajashekar Reddy Chinthalapani (National University of Singapore); Wenqing Yan (Uppsala University); Prabal Dutta (UC Berkeley); Ambuj Varshney (National University of Singapore)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Towards Distance-Adaptive Wireless Charging
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Lili Chen (Northwestern Polytechnical University); Yizhe Zhao (Tsinghua University); Shuning Wang, Linghui Zhong, Yongjian Fu (Central South University); Sheng Yue (Sun Yat-sen University); Ju Ren, Yaoxue Zhang (Tsinghua University)&lt;/div>
+ &lt;/div>
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;div class="timeline-wrapper">
+ &lt;div class="timeline-item">
+ &lt;div class="timeline-item-time">3:50 PM - 5:20 PM&lt;/div>
+ 
+ &lt;div class="timeline-item-location">&lt;i class="bi bi-geo-fill">&lt;/i> Pacific Ballroom C&lt;/div>
+ 
+ &lt;div class="timeline-item-content">
+ &lt;div class="timeline-item-body">
+ 
+ &lt;div class="panel" id="session-3---llm">
+ &lt;div class="panel-header">
+ &lt;div class="panel-title-container">
+ &lt;div class="panel-title-row">
+ &lt;h3>Session 3 - LLM&lt;/h3>
+ &lt;button class="panel-toggle" aria-expanded="true"
+ aria-controls="panel-session-3---llm">
+ &lt;span class="panel-toggle-icon">
+ &lt;i class="bi bi-plus-lg plus-icon">&lt;/i>
+ &lt;i class="bi bi-dash-lg minus-icon">&lt;/i>
+ &lt;/span>
+ &lt;/button>
+ &lt;/div>
+ 
+ &lt;div class="panel-subheader">&lt;strong>Session Chair: &lt;/strong>Akshay Gadre, University of Washington&lt;/div>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div id="panel-session-3---llm" class="panel-content" >
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ CoT-LM: A Data-Free Collaborative Fine-Tuning Framework for Large and Small Language Models
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Yongheng Deng, Ziqing Qiao (Tsinghua University); Ye Zhang (Beijing Information Science &amp;amp; Technology University); Zhenya Ma (Tsinghua University); Yang Liu (Institute for AI Industry Research, Tsinghua University); Ju Ren (Tsinghua University)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ EdgeLoRA: An Efficient Multi-Tenant LLM Serving System on Edge Devices
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Zheyu Shen, Yexiao He, Ziyao Wang, Yuning Zhang, Guoheng Sun, Wanghao Ye, Ang Li (University of Maryland College Park)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Never Start from Scratch: Expediting On-Device LLM Personalization via Explainable Model Selection
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Haoming Wang, Boyuan Yang, Xiangyu Yin, Wei Gao (University of Pittsburgh)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ WhisperFlow: speech foundation models in real time
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Rongxiang Wang (University of Virginia); Zhiming Xu (unaffiliated); Felix Xiaozhu Lin (University of Virginia)&lt;/div>
+ &lt;/div>
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+
+
+&lt;h2>Day 2: Wednesday, June 25&lt;/h2>
+
+
+&lt;div class="timeline-wrapper">
+ &lt;div class="timeline-item">
+ &lt;div class="timeline-item-time">10:10 AM - 12:05 PM&lt;/div>
+ 
+ &lt;div class="timeline-item-location">&lt;i class="bi bi-geo-fill">&lt;/i> Pacific Ballroom C&lt;/div>
+ 
+ &lt;div class="timeline-item-content">
+ &lt;div class="timeline-item-body">
+ 
+ &lt;div class="panel" id="session-4---tools-and-testbeds">
+ &lt;div class="panel-header">
+ &lt;div class="panel-title-container">
+ &lt;div class="panel-title-row">
+ &lt;h3>Session 4 - Tools and Testbeds&lt;/h3>
+ &lt;button class="panel-toggle" aria-expanded="true"
+ aria-controls="panel-session-4---tools-and-testbeds">
+ &lt;span class="panel-toggle-icon">
+ &lt;i class="bi bi-plus-lg plus-icon">&lt;/i>
+ &lt;i class="bi bi-dash-lg minus-icon">&lt;/i>
+ &lt;/span>
+ &lt;/button>
+ &lt;/div>
+ 
+ &lt;div class="panel-subheader">&lt;strong>Session Chair: &lt;/strong>Huangxun Chen, Hong Kong University of Science and Technology (Guangzhou)&lt;/div>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div id="panel-session-4---tools-and-testbeds" class="panel-content" >
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ ARMing x86 Games: Accelerating Binary Translation Using Software-Only Validated Flag Speculation
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">James Yen, Jiarui Wang, Zhibai Huang, Zhixiang Wei, Ziyang Zhang, Chen Chen, Senhao Yu, Yun Wang (Shanghai Jiao Tong University); Hao Wang (Stevens Institue of Technology); Zhengwei Qi (Shanghai Jiao Tong University)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ DAF: An Efficient End-to-End Dynamic Activation Framework for on-Device DNN Training
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Renyuan Liu, Yuyang Leng (George Mason University); Kaiyan Liu (Geogre Mason University); Shaohan Hu (JPMorganChase); Chun-Fu Chen, Peijun Zhao (JPMorgan Chase); Heechul Yun (University of Kansas); Shuochao Yao (George Mason University)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Data Can Speak for Itself: Quality-guided Utilization of Wireless Synthetic Data
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Chen Gong, Bo Liang (Peking University); Wei Gao (University of Pittsburgh); Chenren Xu (Peking University, Key Laboratory of High Confidence Software Technologies, Ministry of Education (PKU))&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ AutoDroid-V2: Boosting SLM-based GUI Agents via Code Generation
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Hao Wen, Shizuo Tian, Borislav Pavlov, Wenjie Du, Yixuan Li, Ge Chang, Shanhui Zhao, Jiacheng Liu, Yunxin Liu, Ya-Qin Zhang, Yuanchun Li (Institute for AI Industry Research (AIR), Tsinghua University)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Shepherd Nova: A Public Testbed for Rigorous Experiments Under Repeatable Energy-Harvesting Conditions
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Kai Geissdoerfer (Nessie Circuits); Ingmar Splitt, Matthias Sokolowski (TU Darmstadt); Carsten Herrmann (TU Dresden); Jonas Kubicki (TU Darmstadt); Jasper de Winkel (TU Delft); Marco Zimmerling (TU Darmstadt)&lt;/div>
+ &lt;/div>
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;div class="timeline-wrapper">
+ &lt;div class="timeline-item">
+ &lt;div class="timeline-item-time">1:35 PM - 3:05 PM&lt;/div>
+ 
+ &lt;div class="timeline-item-location">&lt;i class="bi bi-geo-fill">&lt;/i> Pacific Ballroom C&lt;/div>
+ 
+ &lt;div class="timeline-item-content">
+ &lt;div class="timeline-item-body">
+ 
+ &lt;div class="panel" id="session-5---arvrxr">
+ &lt;div class="panel-header">
+ &lt;div class="panel-title-container">
+ &lt;div class="panel-title-row">
+ &lt;h3>Session 5 - AR/VR/XR&lt;/h3>
+ &lt;button class="panel-toggle" aria-expanded="true"
+ aria-controls="panel-session-5---arvrxr">
+ &lt;span class="panel-toggle-icon">
+ &lt;i class="bi bi-plus-lg plus-icon">&lt;/i>
+ &lt;i class="bi bi-dash-lg minus-icon">&lt;/i>
+ &lt;/span>
+ &lt;/button>
+ &lt;/div>
+ 
+ &lt;div class="panel-subheader">&lt;strong>Session Chair: &lt;/strong>Anh Nguyen, University of Montana&lt;/div>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div id="panel-session-5---arvrxr" class="panel-content" >
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ ARIA: Optimizing Vision Foundation Model Inference on Heterogeneous Mobile Processors for Augmented Reality
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Chanyoung Jung, Jeho Lee, Gunjoong Kim (Yonsei University); Jiwon Kim (Uppsala University); Seonghoon Park, Hojung Cha (Yonsei University)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ EffVR: Enhancing Energy and Computation Efficiency of Mobile Virtual Reality
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Xingyu Chen (University of California San Diego); Xinmin Fang (University of Colorado Denver); Shuting Zhang (Guangdong University of Technology); Xinyu Zhang (University of California San Diego); Liang He (University of Nebraska Lincoln); Zhengxiong Li (University of Colorado Denver)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ PointPresence: An Online Habitat for Multi-User Mixed Reality Telepresence
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Eugene Chai, Kittipat Apicharttrisorn, Limin Wang, Hyunseok Chang, Sarit Mukherjee (Nokia Bell Labs)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Tracking Blink Dynamics and Mental States on Glasses
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Dongyin Hu, Xin Yang, Ahhyun Yuh, Zihao Wang, Lama Al-Aswad, Insup Lee, Mingmin Zhao (University of Pennsylvania)&lt;/div>
+ &lt;/div>
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;div class="timeline-wrapper">
+ &lt;div class="timeline-item">
+ &lt;div class="timeline-item-time">4:00 PM - 5:30 PM&lt;/div>
+ 
+ &lt;div class="timeline-item-location">&lt;i class="bi bi-geo-fill">&lt;/i> Pacific Ballroom C&lt;/div>
+ 
+ &lt;div class="timeline-item-content">
+ &lt;div class="timeline-item-body">
+ 
+ &lt;div class="panel" id="session-6---smart-surfaces-and-futureg">
+ &lt;div class="panel-header">
+ &lt;div class="panel-title-container">
+ &lt;div class="panel-title-row">
+ &lt;h3>Session 6 - Smart Surfaces and FutureG&lt;/h3>
+ &lt;button class="panel-toggle" aria-expanded="true"
+ aria-controls="panel-session-6---smart-surfaces-and-futureg">
+ &lt;span class="panel-toggle-icon">
+ &lt;i class="bi bi-plus-lg plus-icon">&lt;/i>
+ &lt;i class="bi bi-dash-lg minus-icon">&lt;/i>
+ &lt;/span>
+ &lt;/button>
+ &lt;/div>
+ 
+ &lt;div class="panel-subheader">&lt;strong>Session Chair: &lt;/strong>Elahe Soltanaghai, University of Illinois Urbana-Champaign&lt;/div>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div id="panel-session-6---smart-surfaces-and-futureg" class="panel-content" >
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ HELIX: High-speed Real-Time Experimentation Platform for 6G Wireless Networks
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Rafael Ruiz, Jesus O. Lacruz (IMDEA Networks Institute); Bastian Bloessl, Matthias Hollick (TU Darmstadt, Germany); Joerg Widmer (IMDEA Networks Institute)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ High-resolution mmWave Imaging using Metasurface and Diffusion
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Yida Wang, Yu Lu (Shanghai Jiao Tong University); Yuxuan ZHOU (The Hong Kong University of Science and Technology); Yifei Shen (Microsoft Research Asia); Lili Qiu (Microsoft Research, UT Austin); Zeyuan Lai (University of Science and Technology of China); Yi-Chao Chen (Shanghai Jiao Tong University); Hao Pan (Microsoft Research); Juntao Zhou, Dian Ding (Shanghai Jiao Tong University); Mei Wang (UT Austin); Guangtao Xue (Shanghai Jiao Tong University); Qian Zhang (Hong Kong University of Science and Technology, China)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ MetaGen: LLM-Driven Generative Framework for Intelligent Metasurface Element
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Yizhe Zhao (Tsinghua University); Lili Chen (Northwestern Polytechnical University); Xinyi Li, Yue-Jiang Dong, Ju Ren, Yaoxue Zhang (Tsinghua University)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ RISENSE: Long-Range In-Band Wireless Control of Passive Reconfigurable Intelligent Surfaces
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Sai Pavan Deram (IMDEA Networks Institute and UC3M); Marco Rossanese, Andres Garcia-Saavedra (NEC Laboratories Europe); Syed Waqas Haider Shah (IMDEA Networks Institute); Vincenzo Sciancalepore (NEC Laboratories Europe); Joerg Widmer (IMDEA Networks Institute); Xavier Costa-Perez (i2CAT, NEC Labs Europe, and ICREA)&lt;/div>
+ &lt;/div>
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+
+
+&lt;h2>Day 3: Thursday, June 26&lt;/h2>
+
+
+&lt;div class="timeline-wrapper">
+ &lt;div class="timeline-item">
+ &lt;div class="timeline-item-time">9:00 AM - 10:30 AM&lt;/div>
+ 
+ &lt;div class="timeline-item-location">&lt;i class="bi bi-geo-fill">&lt;/i> Pacific Ballroom C&lt;/div>
+ 
+ &lt;div class="timeline-item-content">
+ &lt;div class="timeline-item-body">
+ 
+ &lt;div class="panel" id="session-7---video-and-vision">
+ &lt;div class="panel-header">
+ &lt;div class="panel-title-container">
+ &lt;div class="panel-title-row">
+ &lt;h3>Session 7 - Video and Vision&lt;/h3>
+ &lt;button class="panel-toggle" aria-expanded="true"
+ aria-controls="panel-session-7---video-and-vision">
+ &lt;span class="panel-toggle-icon">
+ &lt;i class="bi bi-plus-lg plus-icon">&lt;/i>
+ &lt;i class="bi bi-dash-lg minus-icon">&lt;/i>
+ &lt;/span>
+ &lt;/button>
+ &lt;/div>
+ 
+ &lt;div class="panel-subheader">&lt;strong>Session Chair: &lt;/strong>Swarun Kumar, Carnegie Mellon University&lt;/div>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div id="panel-session-7---video-and-vision" class="panel-content" >
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ DeltaStream: 2D-Inferred Delta Encoding for Live Volumetric Video Streaming
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Hojeong Lee (Korea University); Yu Hong Kim (University of Colorado Boulder); Sangwoo Ryu, James Won-Ki Hong (POSTECH); Sangtae Ha, Seyeon Kim (University of Colorado Boulder)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Empilo: Realizing Immersive Mobile 3D Video Conferencing through Parameterized Communication
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Donggyu Yang, Wooseung Nam, Byunggu Kang, Kyunghan Lee (Seoul National University)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ NeRFlow: Towards Adaptive Streaming for NeRF Videos
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Rui-Xiao Zhang (University of Illinois Urbana-Champaign); Tianchi Huang (Tsinghua University); Bo Chen, Klara Nahrstedt (University of Illinois at Urbana-Champaign)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Towards End-to-End Latency Guarantee in MEC Live Video Analytics with App-RAN Mutual Awareness
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Juheon Yi, Goodsol Lee, Minkyung Jeong, Seokgyeong Shin (Seoul National University); Daehyeok Kim (The University of Texas at Austin); Youngki Lee (Seoul National University)&lt;/div>
+ &lt;/div>
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;div class="timeline-wrapper">
+ &lt;div class="timeline-item">
+ &lt;div class="timeline-item-time">10:40 AM - 12:10 PM&lt;/div>
+ 
+ &lt;div class="timeline-item-location">&lt;i class="bi bi-geo-fill">&lt;/i> Pacific Ballroom C&lt;/div>
+ 
+ &lt;div class="timeline-item-content">
+ &lt;div class="timeline-item-body">
+ 
+ &lt;div class="panel" id="session-8---robotic-and-vehicular-systems">
+ &lt;div class="panel-header">
+ &lt;div class="panel-title-container">
+ &lt;div class="panel-title-row">
+ &lt;h3>Session 8 - Robotic and Vehicular Systems&lt;/h3>
+ &lt;button class="panel-toggle" aria-expanded="true"
+ aria-controls="panel-session-8---robotic-and-vehicular-systems">
+ &lt;span class="panel-toggle-icon">
+ &lt;i class="bi bi-plus-lg plus-icon">&lt;/i>
+ &lt;i class="bi bi-dash-lg minus-icon">&lt;/i>
+ &lt;/span>
+ &lt;/button>
+ &lt;/div>
+ 
+ &lt;div class="panel-subheader">&lt;strong>Session Chair: &lt;/strong>Hang Qiu, University of California, Riverside (UCR)&lt;/div>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div id="panel-session-8---robotic-and-vehicular-systems" class="panel-content" >
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Toward Spoofing-Resilient and Communication-Integrated MmWave Radar Sensing
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Kun Qian (University of Virginia); Parth Pathak (George Mason University)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Dynamic Defense for Car-Borne LiDAR Vehicle Detection
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Yihan Xu, Dongfang Guo (Nanyang Technological University); Qun Song (Singapore University of Technology and Design); Yang Lou (City University of Hong Kong); Yi Zhu (Wayne State University); Jianping Wang (City University of Hong Kong); Chunming Qiao (SUNY at Buffalo); Rui Tan (Nanyang Technological University)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Non-Line-of-Sight 3D Object Reconstruction via mmWave Surface Normal Estimation
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Laura Dodds, Tara Boroushaki, Kaichen Zhou (Massachusetts Institute of Technology); Fadel Adib (MIT &amp;amp; Cartesian)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ UniSense: Spatial-Uncertainty-Aware Collaborative Sensing for Autonomous Driving
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Haojie Ren (University of Science and Technology of China); Wuyang Zhang (Meta); Shuyao Shi (The Chinese University of Hong Kong, Hong Kong SAR, China); Xinran Zhang (University of Science and Technology of China); Lu Zhang (Institute of Artificial Intelligence, Hefei Comprehensive National Science Center); Yanyong Zhang (University of Science and Technology of China)&lt;/div>
+ &lt;/div>
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;div class="timeline-wrapper">
+ &lt;div class="timeline-item">
+ &lt;div class="timeline-item-time">1:40 PM - 3:10 PM&lt;/div>
+ 
+ &lt;div class="timeline-item-location">&lt;i class="bi bi-geo-fill">&lt;/i> Pacific Ballroom C&lt;/div>
+ 
+ &lt;div class="timeline-item-content">
+ &lt;div class="timeline-item-body">
+ 
+ &lt;div class="panel" id="session-9---security-and-privacy">
+ &lt;div class="panel-header">
+ &lt;div class="panel-title-container">
+ &lt;div class="panel-title-row">
+ &lt;h3>Session 9 - Security and Privacy&lt;/h3>
+ &lt;button class="panel-toggle" aria-expanded="true"
+ aria-controls="panel-session-9---security-and-privacy">
+ &lt;span class="panel-toggle-icon">
+ &lt;i class="bi bi-plus-lg plus-icon">&lt;/i>
+ &lt;i class="bi bi-dash-lg minus-icon">&lt;/i>
+ &lt;/span>
+ &lt;/button>
+ &lt;/div>
+ 
+ &lt;div class="panel-subheader">&lt;strong>Session Chair: &lt;/strong>Zephyr Yao, New Jersey Institute of Technology&lt;/div>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div id="panel-session-9---security-and-privacy" class="panel-content" >
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ CAMPrints: Leveraging the &amp;#34;Fingerprints&amp;#34; of Digital Cameras to Combat Image Theft
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Bangjie Sun, Mun Choon Chan (National University of Singapore); Jun Han (KAIST)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Chameleon: Towards Building Least-privileged TEE via Functionality-based Resource Re-grouping
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Nan Jiang, Qihang Zhou, Feifan Qian, Jiayun Chen, Heqing Huang, Xiaoqi Jia, Haichao Du (Institute of Information Engineering,Chinese Academy of Sciences)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Detection and Tracking of Drone Swarms using LiDAR
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Tasnim Azad Abir (The University of Texas at Arlington); Vu Le (University of Massachusetts Amherst); Endrowednes Kuantama (Macquarie University); Pranjol Sen Gupta (University of Texas at Arlington); Austin Copley (UMass Amherst); Judith Dawes (Macquarie University); Mohammad Islam (University of Texas at Arlington); Richard Han (Macquarie University); VP Nguyen (University of Massachusetts Amherst)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ SecHeadset: A Practical Privacy Protection System for Real-time Voice Communication
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Peng Huang, Kun Pan, Qinglong Wang, Peng Cheng, Li Lu, Zhongjie Ba, Kui Ren (Zhejiang University)&lt;/div>
+ &lt;/div>
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;div class="timeline-wrapper">
+ &lt;div class="timeline-item">
+ &lt;div class="timeline-item-time">3:35 PM - 5:05 PM&lt;/div>
+ 
+ &lt;div class="timeline-item-location">&lt;i class="bi bi-geo-fill">&lt;/i> Pacific Ballroom C&lt;/div>
+ 
+ &lt;div class="timeline-item-content">
+ &lt;div class="timeline-item-body">
+ 
+ &lt;div class="panel" id="session-10---edge-and-embedded-systems">
+ &lt;div class="panel-header">
+ &lt;div class="panel-title-container">
+ &lt;div class="panel-title-row">
+ &lt;h3>Session 10 - Edge and Embedded Systems&lt;/h3>
+ &lt;button class="panel-toggle" aria-expanded="true"
+ aria-controls="panel-session-10---edge-and-embedded-systems">
+ &lt;span class="panel-toggle-icon">
+ &lt;i class="bi bi-plus-lg plus-icon">&lt;/i>
+ &lt;i class="bi bi-dash-lg minus-icon">&lt;/i>
+ &lt;/span>
+ &lt;/button>
+ &lt;/div>
+ 
+ &lt;div class="panel-subheader">&lt;strong>Session Chair: &lt;/strong>Przemysław Pawełczak, Technische Universiteit Delft (TU Delft)&lt;/div>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div id="panel-session-10---edge-and-embedded-systems" class="panel-content" >
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Agile3D: Adaptive Contention- and Content-Aware 3D Object Detection for Embedded GPUs
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Pengcheng Wang (Purdue University); Zhuoming Liu (University of Wisconsin); Shayok Bagchi (West Lafayette Jr./Sr. High School); Ran Xu (NVIDIA); Saurabh Bagchi (Purdue University); Yin Li (University of Wisconsin); Somali Chaterji (Purdue University)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ EAR-Mapping: Edge-Assisted Real-Time Dense Mapping with Low Bandwidth Requirements
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Yubin Dai, Bin Qian, Yuxuan Yan, Minglei Zhao, Yangkun Liu, Yuanchao Shu (Zhejiang University)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ Hopter: a Safe, Robust, and Responsive Embedded Operating System
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Zhiyao Ma, Guojun Chen, Zhuo Chen, Lin Zhong (Yale University)&lt;/div>
+ &lt;/div>
+ 
+ &lt;hr>
+ 
+ 
+ &lt;div class="paper">
+ &lt;div class="paper-title">
+ 
+ LEGO&amp;#43;: Redefining the Redundancy Removal for IoT Sensing Edge-End Systems
+ 
+ 
+ &lt;/div>
+ &lt;div class="paper-authors">Chong Zhang (University of Electronic Science and Technology of China; Southwest Petroleum University; Sichuan Artifcial Intelligence Research Institute, Yibin, China); Han Wang, Qianhe Meng, Yize Zhao, Yihang Song, kanglin Xu, Jinzhe Li, Li Lu (University of Electronic Science and Technology of China)&lt;/div>
+ &lt;/div>
+ 
+ 
+ &lt;/div>
+ &lt;/div>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+
+
+&lt;h2 id="friday-june-27">Friday, June 27&lt;/h2>
+&lt;p>Please visit the respective program of &lt;a href="../accepted_workshops/">Workshops&lt;/a> for its detailed schedule.&lt;/p></description></item><item><title>Program Committee</title><link>https://www.sigmobile.org/mobisys/2025/program_committee/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/program_committee/</guid><description>&lt;h3 id="heavy-track-committee">Heavy Track Committee&lt;/h3>
+
+
+
+
+&lt;ul>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=LdNIR90AAAAJ" target="blank_">&lt;strong>Yi-Chao Chen&lt;/strong>&lt;/a> Shanghai Jiao Tong University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=qT7OIRoAAAAJ" target="blank_">&lt;strong>Jun Huang&lt;/strong>&lt;/a> City University of Hong Kong
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=HQB8W_IAAAAJ" target="blank_">&lt;strong>Xinyu Zhang&lt;/strong>&lt;/a> University of California San Diego
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=pBf2M3QAAAAJ" target="blank_">&lt;strong>VP Nguyen&lt;/strong>&lt;/a> University of Massachusetts Amherst
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=jPKDQwgAAAAJ" target="blank_">&lt;strong>Wei Gao&lt;/strong>&lt;/a> University of Pittsburgh
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=qGDL0KYAAAAJ" target="blank_">&lt;strong>Zhichao Cao&lt;/strong>&lt;/a> Michigan State University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=y7oUVucAAAAJ" target="blank_">&lt;strong>Xiaomin Ouyang&lt;/strong>&lt;/a> Hong Kong University of Science and Technology
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=VTKbhWIAAAAJ" target="blank_">&lt;strong>Jun Han&lt;/strong>&lt;/a> KAIST
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=q9llreMAAAAJ" target="blank_">&lt;strong>Chenshu Wu&lt;/strong>&lt;/a> The University of Hong Kong
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=aWMwpKAAAAAJ" target="blank_">&lt;strong>Mohamed Ibrahim&lt;/strong>&lt;/a> Hewlett Packard Labs
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?&amp;amp;user=P9Z011YAAAAJ" target="blank_">&lt;strong>Shubham Jain&lt;/strong>&lt;/a> Stony Brook University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=jCZaWOEAAAAJ" target="blank_">&lt;strong>Yingying (Jennifer) Chen&lt;/strong>&lt;/a> Rutgers University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=IivlhesAAAAJ" target="blank_">&lt;strong>Haojian Jin&lt;/strong>&lt;/a> UCSD
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=38RuCN4AAAAJ" target="blank_">&lt;strong>Lu Su&lt;/strong>&lt;/a> Purdue University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=up5DfNkAAAAJ" target="blank_">&lt;strong>Vaishnavi Ranganathan&lt;/strong>&lt;/a> Microsoft Research
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=beAeG20AAAAJ" target="blank_">&lt;strong>Radu Stoleru&lt;/strong>&lt;/a> Texas A&amp;amp;M University 
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=_tKsRSMAAAAJ" target="blank_">&lt;strong>Chulhong Min&lt;/strong>&lt;/a> Nokia Bell Labs
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.nl/citations?user=xWdb5R8AAAAJ" target="blank_">&lt;strong>Marco Zúñiga Zamalloa&lt;/strong>&lt;/a> TU Delft
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=VP4egzMAAAAJ" target="blank_">&lt;strong>Parth Pathak&lt;/strong>&lt;/a> George Mason University
+ 
+ 
+ &lt;span class="badge">Best PC Member&lt;/span>
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=ByqnKOkAAAAJ" target="blank_">&lt;strong>Yaxiong Xie&lt;/strong>&lt;/a> University at Buffalo
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=aOO2tOwAAAAJ" target="blank_">&lt;strong>Karthik Dantu&lt;/strong>&lt;/a> University at Buffalo State University of New York
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=7QF1eF4AAAAJ" target="blank_">&lt;strong>Chunyi Peng&lt;/strong>&lt;/a> Purdue University 
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=nuxKtp4AAAAJ" target="blank_">&lt;strong>Hao Pan&lt;/strong>&lt;/a> Microsoft Research
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=r1Z8YhQAAAAJ" target="blank_">&lt;strong>Y. Charlie Hu&lt;/strong>&lt;/a> Purdue University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=cLb-v7gAAAAJ" target="blank_">&lt;strong>Suman Banerjee&lt;/strong>&lt;/a> UW-Madison
+ 
+ 
+ &lt;/li>
+ 
+&lt;/ul>
+&lt;h3 id="light-track-committee">Light Track Committee&lt;/h3>
+
+
+
+
+&lt;ul>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=JGr8fywAAAAJ" target="blank_">&lt;strong>Akarsh Prabhakara&lt;/strong>&lt;/a> University of Wisconsin Madison
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=NmYsA1oAAAAJ" target="blank_">&lt;strong>Linke Guo&lt;/strong>&lt;/a> Clemson University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=QodpJREAAAAJ" target="blank_">&lt;strong>Sijie Ji&lt;/strong>&lt;/a> California Institute of Technology
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=fAZqlmgAAAAJ%20" target="blank_">&lt;strong>Huining Li&lt;/strong>&lt;/a> North Carolina State University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=1ebZN5gAAAAJ" target="blank_">&lt;strong>Guohao Lan&lt;/strong>&lt;/a> Delft University of Technology
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=1SIKS28AAAAJ" target="blank_">&lt;strong>Ashwin Ashok&lt;/strong>&lt;/a> Georgia State University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=9i_MgykAAAAJ" target="blank_">&lt;strong>Hang Qiu&lt;/strong>&lt;/a> UC Riverside
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=cxgcHywAAAAJ" target="blank_">&lt;strong>Zerina Kapetanovic&lt;/strong>&lt;/a> Stanford University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=C4Uol80AAAAJ" target="blank_">&lt;strong>Minsung Kim&lt;/strong>&lt;/a> Rutgers University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=IdUTN7YAAAAJ" target="blank_">&lt;strong>Kleomenis Katevas&lt;/strong>&lt;/a> Brave Software
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=oauqR3wAAAAJ" target="blank_">&lt;strong>Shijia Pan&lt;/strong>&lt;/a> University of California Merced
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=YZWCK4gAAAAJ" target="blank_">&lt;strong>Ke Sun&lt;/strong>&lt;/a> University of Michigan Ann Arbor
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=umiRGkUAAAAJ" target="blank_">&lt;strong>Yi Ding&lt;/strong>&lt;/a> University at Texas at Dallas
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=7NC41JMAAAAJ" target="blank_">&lt;strong>Zhaowei Tan&lt;/strong>&lt;/a> University of California Riverside
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=LXUvnL0AAAAJ" target="blank_">&lt;strong>Kasim Sinan Yildirim&lt;/strong>&lt;/a> University of Trento
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=zH4j6GcAAAAJ" target="blank_">&lt;strong>Andres Garcia-Saavedra&lt;/strong>&lt;/a> NEC Laboratories Europe
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=hCAsFqkAAAAJ" target="blank_">&lt;strong>Yuze He&lt;/strong>&lt;/a> Carnegie Mellon University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=lgl21ZgAAAAJ" target="blank_">&lt;strong>Binbin Xie&lt;/strong>&lt;/a> University of Texas at Arlington
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=9RVkIfsAAAAJ" target="blank_">&lt;strong>RR Venkatesha Prasad&lt;/strong>&lt;/a> Delft University of Technology
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?&amp;amp;user=RpnrDmYAAAAJ" target="blank_">&lt;strong>Anh Nguyen&lt;/strong>&lt;/a> University of Montana
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=7bEQ7XkAAAAJ" target="blank_">&lt;strong>Pengfei Zhou&lt;/strong>&lt;/a> University of Pittsburgh
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=Q9ExZbAAAAAJ" target="blank_">&lt;strong>Hong Jia&lt;/strong>&lt;/a> University of Melbourne
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=F5PfbSwAAAAJ" target="blank_">&lt;strong>Mingmin Zhao&lt;/strong>&lt;/a> University of Pennsylvania
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=w1RoaOMAAAAJ" target="blank_">&lt;strong>Wei Niu&lt;/strong>&lt;/a> University of Georgia
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=co5MGPkAAAAJ" target="blank_">&lt;strong>Rui Tan&lt;/strong>&lt;/a> Nanyang Technological University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=JMmLdgsAAAAJ" target="blank_">&lt;strong>Xiuzhen Guo&lt;/strong>&lt;/a> Zhejiang University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=r3A90uAAAAAJ" target="blank_">&lt;strong>Mi Zhang&lt;/strong>&lt;/a> The Ohio State University 
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=c5pfl44AAAAJ" target="blank_">&lt;strong>Nam Bui&lt;/strong>&lt;/a> University of Colorado Denver
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=1OHEpEsAAAAJ" target="blank_">&lt;strong>Yan Long&lt;/strong>&lt;/a> Northeastern University &amp;amp; University of Virginia
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=dX8YgiQAAAAJ" target="blank_">&lt;strong>Yuanqing Zheng&lt;/strong>&lt;/a> The Hong Kong Polytechnic University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=hhl5-78AAAAJ" target="blank_">&lt;strong>Zhe Chen&lt;/strong>&lt;/a> Fudan University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=JVKSaWIAAAAJ" target="blank_">&lt;strong>Ang Li&lt;/strong>&lt;/a> University of Maryland College Park
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=Xj-XNmsAAAAJ" target="blank_">&lt;strong>Zhenyu Yan&lt;/strong>&lt;/a> The Chinese University of Hong Kong
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=P5kDLb0AAAAJ" target="blank_">&lt;strong>Petteri Nurmi&lt;/strong>&lt;/a> University of Helsinki
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=idu78-EAAAAJ" target="blank_">&lt;strong>Chris Xiaoxuan Lu&lt;/strong>&lt;/a> University College London
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=fGNCS9oAAAAJ" target="blank_">&lt;strong>Kun Qian&lt;/strong>&lt;/a> University of Virginia
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=lvAcSnoAAAAJ" target="blank_">&lt;strong>Qijia Shao&lt;/strong>&lt;/a> Hong Kong University of Science and Technology
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=9YeSV8EAAAAJ" target="blank_">&lt;strong>Huangxun Chen&lt;/strong>&lt;/a> Hong Kong University of Science and Technology (Guangzhou)
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=prIwSokAAAAJ" target="blank_">&lt;strong>Yang Liu&lt;/strong>&lt;/a> University of Cambridge
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=xqXm3xUAAAAJ" target="blank_">&lt;strong>Chi Ian Tang&lt;/strong>&lt;/a> Nokia Bell Labs &amp;amp; University of Cambridge
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=M3gdduIAAAAJ" target="blank_">&lt;strong>Thivya Kandappu&lt;/strong>&lt;/a> Singapore Management University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=fqE36d0AAAAJ" target="blank_">&lt;strong>Qing Wang&lt;/strong>&lt;/a> Delft University of Technology
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=E0qNSfwAAAAJ" target="blank_">&lt;strong>Ish Jain&lt;/strong>&lt;/a> Rensselaer Polytechnic Institute
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=_kenE7EAAAAJ" target="blank_">&lt;strong>Olaf Landsiedel&lt;/strong>&lt;/a> Kiel University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=m5uTjOkAAAAJ" target="blank_">&lt;strong>Xiaolong Zheng&lt;/strong>&lt;/a> Beijing University of Posts and Telecommunications
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=VTuOCIAAAAAJ" target="blank_">&lt;strong>Akshay Gadre&lt;/strong>&lt;/a> University of Washington
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=KsFC07EAAAAJ" target="blank_">&lt;strong>Abu Bakar&lt;/strong>&lt;/a> Qualcomm
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=CsBZyd0AAAAJ" target="blank_">&lt;strong>Robert LiKamWa&lt;/strong>&lt;/a> Arizona State University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=atrBEDkAAAAJ" target="blank_">&lt;strong>Elahe Soltanaghai&lt;/strong>&lt;/a> University of Illinois Urbana-Champaign
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=ArOh3LwAAAAJ" target="blank_">&lt;strong>Kasthuri Jayarajah&lt;/strong>&lt;/a> New Jersey Institute of Technology
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=5AIv8YoAAAAJ" target="blank_">&lt;strong>Wan Du&lt;/strong>&lt;/a> University of California Merced
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=AzcmAtgAAAAJ" target="blank_">&lt;strong>Junfeng (Jayden) Guan&lt;/strong>&lt;/a> Bosch Research
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=A-YvDJgAAAAJ" target="blank_">&lt;strong>Tianyue Zheng&lt;/strong>&lt;/a> Southern University of Science and Technology
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=s5-hnX8AAAAJ" target="blank_">&lt;strong>Haitham Hassanieh&lt;/strong>&lt;/a> EPFL
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=2V2CfHgAAAAJ" target="blank_">&lt;strong>Qun Song&lt;/strong>&lt;/a> Singapore University of Technology and Design
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=2IrtUS4AAAAJ" target="blank_">&lt;strong>Renjie Zhao&lt;/strong>&lt;/a> Johns Hopkins University
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=N0Lv5FUAAAAJ" target="blank_">&lt;strong>Suraj Jog&lt;/strong>&lt;/a> Microsoft Research
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=CN2l9GEAAAAJ" target="blank_">&lt;strong>Meng Jin&lt;/strong>&lt;/a> Shanghai Jiao Tong university
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=CtbzNl8AAAAJ" target="blank_">&lt;strong>Wei Gong&lt;/strong>&lt;/a> University of Science and Technology of China
+ 
+ 
+ &lt;/li>
+ 
+ &lt;li>
+ 
+ &lt;a href="https://scholar.google.com/citations?user=t_DFZvgAAAAJ" target="blank_">&lt;strong>Xia Zhou&lt;/strong>&lt;/a> Columbia University
+ 
+ 
+ &lt;/li>
+ 
+&lt;/ul></description></item><item><title>Registration</title><link>https://www.sigmobile.org/mobisys/2025/registration/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/registration/</guid><description>&lt;a href='https://web.cvent.com/event/3d8f4bde-961f-43f2-a2c9-3d1dd12f53b7/summary' target="_blank">
+ 
+ &lt;div class='button '>
+ &lt;div class="button-left">&lt;span class="button-icon">
+ &lt;i class='bi bi-cash-coin'>&lt;/i>
+ &lt;/span>&lt;div class="button-content">
+ &lt;span class="button-text">Registration Now!&lt;/span>&lt;/div>
+ &lt;/div>
+ &lt;span class="button-arrow">
+ &lt;i class="bi bi-chevron-right">&lt;/i>
+ &lt;/span>
+ &lt;/div>
+ 
+&lt;/a>
+
+&lt;p>MobiSys 2025 will be happening from Monday, June 23, 2025 to Friday, June 27, 2025.&lt;/p>
+&lt;h2 id="schedule">Schedule&lt;/h2>
+&lt;p>The main conference is from June 23rd to June 26th. The workshops are on June 27th. IoT Day is on June 23rd. The poster and demo sessions are on June 24th.&lt;/p>
+&lt;h2 id="fees">Fees&lt;/h2>
+
+
+
+&lt;h3 style="margin-top: 1em; margin-bottom: 0.25em">Full Pass (Main Conference + Workshops + IoT Day + Banquet)&lt;/h3>
+&lt;table class="styled-table styled-table-striped">
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="width: 30%;">Registration Type&lt;/th>
+ &lt;th>Early: &lt;br>
+ Before May 23, 23:59 PDT
+ &lt;/th>
+ &lt;th>Standard: &lt;br>
+ Before June 16, 23:59 PDT
+ &lt;/th>
+ &lt;th>Default: &lt;br>
+ After June 16, 23:59 PDT
+ &lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>ACM Professional / SIGMOBILE Member&lt;/td>
+ &lt;td>USD 1100&lt;/td>
+ &lt;td>USD 1250&lt;/td>
+ &lt;td>USD 1450&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Non-Member&lt;/td>
+ &lt;td>USD 1350&lt;/td>
+ &lt;td>USD 1450&lt;/td>
+ &lt;td>USD 1550&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>ACM Student Member&lt;/td>
+ &lt;td>USD 600&lt;/td>
+ &lt;td>USD 700&lt;/td>
+ &lt;td>USD 750&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Student Non-Member&lt;/td>
+ &lt;td>USD 650&lt;/td>
+ &lt;td>USD 750&lt;/td>
+ &lt;td>USD 800&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+
+&lt;h3 style="margin-top: 2em; margin-bottom: 0.25em">Workshops ONLY&lt;/h3>
+&lt;table class="styled-table styled-table-striped">
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="width: 30%;">Registration Type&lt;/th>
+ &lt;th>Early: &lt;br>
+ Before May 23, 23:59 PDT
+ &lt;/th>
+ &lt;th>Standard: &lt;br>
+ Before June 16, 23:59 PDT
+ &lt;/th>
+ &lt;th>Default: &lt;br>
+ After June 16, 23:59 PDT
+ &lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>ACM Professional / SIGMOBILE Member&lt;/td>
+ &lt;td>USD 450&lt;/td>
+ &lt;td>USD 500&lt;/td>
+ &lt;td>USD 550&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Non-Member&lt;/td>
+ &lt;td>USD 500&lt;/td>
+ &lt;td>USD 550&lt;/td>
+ &lt;td>USD 600&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>ACM Student Member&lt;/td>
+ &lt;td>USD 350&lt;/td>
+ &lt;td>USD 400&lt;/td>
+ &lt;td>USD 450&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Student Non-Member&lt;/td>
+ &lt;td>USD 400&lt;/td>
+ &lt;td>USD 450&lt;/td>
+ &lt;td>USD 500&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+
+&lt;h3 style="margin-top: 2em; margin-bottom: 0.25em">IoT Day ONLY&lt;/h3>
+&lt;table class="styled-table styled-table-striped">
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="width: 30%;">Registration Type&lt;/th>
+ &lt;th>Early: &lt;br>
+ Before May 23, 23:59 PDT
+ &lt;/th>
+ &lt;th>Standard: &lt;br>
+ Before June 16, 23:59 PDT
+ &lt;/th>
+ &lt;th>Default: &lt;br>
+ After June 16, 23:59 PDT
+ &lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>ACM Professional / SIGMOBILE Member&lt;/td>
+ &lt;td>USD 450&lt;/td>
+ &lt;td>USD 500&lt;/td>
+ &lt;td>USD 550&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Non-Member&lt;/td>
+ &lt;td>USD 500&lt;/td>
+ &lt;td>USD 550&lt;/td>
+ &lt;td>USD 600&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>ACM Student Member&lt;/td>
+ &lt;td>USD 350&lt;/td>
+ &lt;td>USD 400&lt;/td>
+ &lt;td>USD 450&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Student Non-Member&lt;/td>
+ &lt;td>USD 400&lt;/td>
+ &lt;td>USD 450&lt;/td>
+ &lt;td>USD 500&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+
+&lt;h3 style="margin-top: 2em; margin-bottom: 0.25em">Additional Items&lt;/h3>
+&lt;table class="styled-table styled-table-striped">
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="width: 70%;">Item&lt;/th>
+ &lt;th>Price&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Conference Banquet&lt;/td>
+ &lt;td>USD 150&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+
+
+
+&lt;ul>
+&lt;li>The banquet is on June 25th. This additional item is for attendees who need to purchase a ticket for their guest, or if your registration type does not include a banquet ticket and you want to join the banquet event.&lt;/li>
+&lt;li>Note that one banquet ticket is included with the Full Pass registration, whereas the “IoT Day ONLY” and “Workshops ONLY” registrations do not include a banquet ticket.&lt;/li>
+&lt;/ul>
+&lt;h2 id="note-for-the-authors">Note for the Authors&lt;/h2>
+&lt;ul>
+&lt;li>Each accepted paper must be covered by a non-student “Full Pass” registration by one of the authors, valid for the day of its presentation, even if presented by a student.&lt;/li>
+&lt;li>Each accepted poster/demo must be covered by a (student or non-student) “Full Pass” registration by one of the authors, valid for the day of its presentation.&lt;/li>
+&lt;li>A non-student “Full Pass” registration can cover { { 1 paper OR 1 demo OR 1 poster } AND 1 workshop paper }&lt;/li>
+&lt;li>A student “Full Pass” registration can cover { { 1 demo OR 1 poster } AND 1 workshop paper }&lt;/li>
+&lt;li>Any “Workshops ONLY” registration can cover { 1 workshop paper }&lt;/li>
+&lt;/ul>
+&lt;h2 id="terms-and-conditions">Terms and Conditions&lt;/h2>
+&lt;p>All payments are processed through the CVENT gateway - the ACM MobiSys 2025 organization committee has no liability whatsoever. Member registration rates are available to members of SIGMOBILE or ACM only. Student registration rates are available to full-time students only (a valid student ID or other proof of full-time student status is required to pick up the registration on-site).&lt;/p></description></item><item><title>Rising Stars Forum Program</title><link>https://www.sigmobile.org/mobisys/2025/rising_stars_program/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/rising_stars_program/</guid><description>&lt;div class="timeline-wrapper">
+ &lt;div class="timeline-item">
+ &lt;div class="timeline-item-time">08:45 AM - 09:00 AM&lt;/div>
+ 
+ &lt;div class="timeline-item-location">&lt;i class="bi bi-geo-fill">&lt;/i> Palos Verdes&lt;/div>
+ 
+ &lt;div class="timeline-item-content">
+ 
+ &lt;h3 class="timeline-item-title">Opening Remarks&lt;/h3>
+ 
+ &lt;div class="timeline-item-body">
+ 
+
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+
+
+
+
+&lt;div class="timeline-wrapper">
+ &lt;div class="timeline-item">
+ &lt;div class="timeline-item-time">09:00 AM - 10:00 AM&lt;/div>
+ 
+ &lt;div class="timeline-item-location">&lt;i class="bi bi-geo-fill">&lt;/i> Palos Verdes&lt;/div>
+ 
+ &lt;div class="timeline-item-content">
+ 
+ &lt;div class="timeline-item-body">
+ 
+
+
+
+
+
+
+
+
+
+&lt;div class="panel" id="keynote">
+ &lt;div class="panel-header">
+ &lt;div class="panel-title-container">
+ &lt;div class="panel-title-row">
+ &lt;h3>Keynote - Academic Social: A Retrospective Reflection on Unintentional Networking&lt;/h3>
+ &lt;button class="panel-toggle" aria-expanded="true" aria-controls="keynote">
+ &lt;span class="panel-toggle-icon">
+ &lt;i class="bi bi-plus-lg plus-icon">&lt;/i>
+ &lt;i class="bi bi-dash-lg minus-icon">&lt;/i>
+ &lt;/span>
+ &lt;/button>
+ &lt;/div>
+ 
+ &lt;div class="panel-subheader">&lt;b>Speaker:&lt;/b> Chenren Xu, Peking University&lt;/div>
+ 
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="panel-content clearfix" >
+ &lt;div class="panel-inner-content">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;div style="margin: 0 1rem 0 0; float: left;">
+ &lt;img src="../images/profiles/chenren_xu.jpg" alt="Profile Picture" style="display: block; width: 200px; height: 200px; object-fit: cover; border-radius: 4px; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); border: 2px solid #fff;" />
+ 
+ &lt;/div>
+ &lt;strong>Abstract:&lt;/strong> In academia, it is a common practice to work with what you have in a best effort manner. However, it will also potentially narrow down your vision that prevents you from exploring out-of-band opportunities. In this talk, I will share my research journey from my first Ph.D. project, and highlight several key moments that made retrospectively “superlinear” impacts in my career from the unintentional academic social perspective.
+ &lt;p>&lt;strong>Bio:&lt;/strong> Prof. Chenren Xu is a Boya Young Fellow Associate Professor, Deputy Director of Institute of Networking and Energy-efficient Computing and Assistant Dean of School of Computer Science at Peking University (PKU) where he directs Wireless AI for Science (WAIS) Lab. His research interests span wireless, networking and system, with a current focus on backscatter communication for low power IoT connectivity, future mobile Internet for high mobility data networking, and collaborative edge intelligence system for mobile and IoT computing. He earned his Ph.D. from WINLAB, Rutgers University, and worked as postdoctoral fellow in Carnegie Mellon University, guest professor of Keio University and visiting scholars in AT&amp;T Shannon Labs and Microsoft Research. He serves as an Editor of ACM IMWUT, General Chair of MobiSys’25, TPC Chair of UbiComp’25 and HotMobile’24, TPC &amp; OC in SIGCOMM, NSDI, MobiCom and INFOCOM, and on the executive committee of SIGMOBILE and SIGBED. He is a recipient of Okawa Foundation Grant, NSFC Excellent Young Scientists Fund (aka “Chinese NSF CAREER Award”), ACM SIGCOMM China Rising Star, Alibaba DAMO Academy Young Fellow and CCF-Intel Young Faculty awards. His work has been featured in MIT Technology Review.&lt;/p></description></item><item><title>Sightseeing</title><link>https://www.sigmobile.org/mobisys/2025/sightseeing/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/sightseeing/</guid><description>&lt;a href='https://www.visitanaheim.org/' target="_blank">
+ 
+ &lt;div class='button '>
+ &lt;div class="button-left">&lt;span class="button-icon">
+ &lt;i class='bi bi-suitcase-lg-fill'>&lt;/i>
+ &lt;/span>&lt;div class="button-content">
+ &lt;span class="button-text">Visit Anaheim&lt;/span>&lt;span class="button-subtext">// Discover more about Anaheim&lt;/span>&lt;/div>
+ &lt;/div>
+ &lt;span class="button-arrow">
+ &lt;i class="bi bi-chevron-right">&lt;/i>
+ &lt;/span>
+ &lt;/div>
+ 
+&lt;/a>
+
+&lt;h2 id="disneyland-and-disney-california-adventure-parks">Disneyland and Disney California Adventure Parks&lt;/h2>
+&lt;p>Disneyland is the very first theme park opened by the Walt Disney Company, where Disney California Adventure was opened back in 2001. Disneyland offers more family friendly attractions, where California Adventure offers more thrilling ones. They are both located one block away from the hotel. &lt;strong>Please note that although tickets are sold at the gate, reservation is needed to get into the park. If you plan to visit them, we recommend booking online.&lt;/strong> Along with the two Disney parks, there is also &lt;a href="https://disneyland.disney.go.com/destinations/downtown-disney-district/">Downtown Disney District&lt;/a>, which is free for everyone to go! It offers Disney-themed shopping and dinning experience. On select days, there is also live performance.&lt;/p></description></item><item><title>Sponsorship</title><link>https://www.sigmobile.org/mobisys/2025/sponsorship/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/sponsorship/</guid><description>&lt;p>The 23rd ACM International Conference on Mobile Systems, Applications, and Services (ACM MobiSys 2025) is the premier conference for the design, implementation, usage, and evaluation of mobile computing and wireless systems, applications, and services. MobiSys 2025 is sponsored by SIGMOBILE.&lt;/p>
+&lt;p>By becoming a ACM MobiSys 2025 supporter, your organization can reach a highly qualified technical audience of academics, industrial researchers, engineers, and students. You will be able to increase your visibility and product awareness among the people who are the most knowledgeable and passionate about your products.&lt;/p></description></item><item><title>Student Travel Grant</title><link>https://www.sigmobile.org/mobisys/2025/student_travel_grant/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/student_travel_grant/</guid><description>&lt;div class='button button-disabled'>
+ &lt;div class="button-left">&lt;span class="button-icon">
+ &lt;i class='bi bi-suitcase-fill'>&lt;/i>
+ &lt;/span>&lt;div class="button-content">
+ &lt;span class="button-text">Travel Grant Application&lt;/span>&lt;/div>
+ &lt;/div>
+ &lt;span class="button-arrow">
+ &lt;i class="bi bi-chevron-right">&lt;/i>
+ &lt;/span>
+ &lt;/div>
+ 
+&lt;p>ACM MobiSys 2025 is pleased to provide travel grants to support students attending the main conference and the co-located events. The purpose of this program is to encourage graduate student participation at the conference by funding the travel cost for students who would otherwise be unable to attend. Furthermore, underrepresented minorities and women students are particularly encouraged to apply.&lt;/p>
+&lt;h2 id="eligibility">Eligibility&lt;/h2>
+&lt;p>Grants are available only for full-time students attending colleges and universities in and outside the United States.&lt;/p></description></item><item><title>Student Volunteering</title><link>https://www.sigmobile.org/mobisys/2025/student_volunteering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/student_volunteering/</guid><description>&lt;div class='button button-disabled'>
+ &lt;div class="button-left">&lt;span class="button-icon">
+ &lt;i class='bi bi-person-raised-hand'>&lt;/i>
+ &lt;/span>&lt;div class="button-content">
+ &lt;span class="button-text">Volunteer Application&lt;/span>&lt;/div>
+ &lt;/div>
+ &lt;span class="button-arrow">
+ &lt;i class="bi bi-chevron-right">&lt;/i>
+ &lt;/span>
+ &lt;/div>
+ 
+&lt;p>ACM MobiSys 2025 will take place from June 23 to June 27, 2025, in Anaheim, California, US. We are seeking student volunteers to help ensure a smooth and successful conference. If you are interested, please apply by filling out the application form below before &lt;strong>April 30th AoE&lt;/strong>.&lt;/p>
+&lt;h2 id="benefits">Benefits&lt;/h2>
+&lt;p>Being a student volunteer is an excellent opportunity to meet, interact, and network with leading academic and industrial researchers and practitioners in the area of mobile computing and wireless systems. Once selected as a student volunteer, the program will &lt;strong>fully cover the registration fees&lt;/strong>. The program &lt;strong>does not cover transportation, accommodation costs&lt;/strong>. Student volunteers will need to rely on their own resources for accommodation and transportation. Sources of these funds might include their research supervisor or their own university.&lt;/p></description></item><item><title>Transportation</title><link>https://www.sigmobile.org/mobisys/2025/transportation/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/transportation/</guid><description>&lt;h2 id="getting-there">Getting there&lt;/h2>
+&lt;div class="navigation-buttons">
+ &lt;button onclick="openAppleMaps('Hilton Anaheim, Anaheim, California', '33.800734285777125', '-117.9180061')"
+ class="nav-button apple-maps-btn">
+ &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 6.827 6.827">
+ &lt;g>
+ &lt;path fill="#ffffff" d="M3.413.103a3.31 3.31 0 1 1 0 6.62 3.31 3.31 0 0 1 0-6.62z" />
+ &lt;path fill="#ffffff"
+ d="M3.413 0c.943 0 1.796.382 2.414 1 .618.617 1 1.47 1 2.413 0 .943-.382 1.796-1 2.414-.618.618-1.471 1-2.414 1a3.403 3.403 0 0 1-2.413-1 3.403 3.403 0 0 1-1-2.414C0 2.471.382 1.617 1 1c.617-.618 1.47-1 2.413-1zm2.268 1.146a3.196 3.196 0 0 0-2.268-.94c-.885 0-1.687.36-2.267.94-.58.58-.94 1.382-.94 2.267 0 .886.36 1.687.94 2.268.58.58 1.382.939 2.267.939.886 0 1.687-.36 2.268-.94.58-.58.939-1.381.939-2.267 0-.885-.36-1.687-.94-2.267z" />
+ &lt;path d="M3.483 1.615 5.15 5.04l.101.21-.207-.107-1.63-.838-1.631.838-.208.106.102-.21 1.666-3.424.07-.144z" />
+ &lt;/g>
+ &lt;/svg>
+ Navigate using Apple Maps
+ &lt;/button>
+
+ &lt;button onclick="openGoogleMaps('Hilton Anaheim, Anaheim, California')" class="nav-button google-maps-btn">
+ &lt;svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92.3 132.3">
+ &lt;path fill="#ffffff" d="M60.2 2.2C55.8.8 51 0 46.1 0 32 0 19.3 6.4 10.8 16.5l21.8 18.3L60.2 2.2z" />
+ &lt;path fill="#ffffff" d="M10.8 16.5C4.1 24.5 0 34.9 0 46.1c0 8.7 1.7 15.7 4.6 22l28-33.3-21.8-18.3z" />
+ &lt;path fill="#ffffff"
+ d="M46.2 28.5c9.8 0 17.7 7.9 17.7 17.7 0 4.3-1.6 8.3-4.2 11.4 0 0 13.9-16.6 27.5-32.7-5.6-10.8-15.3-19-27-22.7L32.6 34.8c3.3-3.8 8.1-6.3 13.6-6.3" />
+ &lt;path fill="#ffffff"
+ d="M46.2 63.8c-9.8 0-17.7-7.9-17.7-17.7 0-4.3 1.5-8.3 4.1-11.3l-28 33.3c4.8 10.6 12.8 19.2 21 29.9l34.1-40.5c-3.3 3.9-8.1 6.3-13.5 6.3" />
+ &lt;path fill="#ffffff"
+ d="M59.1 109.2c15.4-24.1 33.3-35 33.3-63 0-7.7-1.9-14.9-5.2-21.3L25.6 98c2.6 3.4 5.3 7.3 7.9 11.3 9.4 14.5 6.8 23.1 12.8 23.1s3.4-8.7 12.8-23.2" />
+ &lt;/svg>
+ Navigate using Google Maps
+ &lt;/button>
+&lt;/div>
+
+&lt;script>
+ function openAppleMaps(address, latitude, longitude) {
+ const encodedAddress = encodeURIComponent(address);
+ const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
+
+ if (isIOS) {
+ window.location.href = `maps://?q=${encodedAddress}&amp;ll=${latitude},${longitude}`;
+ } else {
+ window.open(`https://maps.apple.com/?q=${encodedAddress}&amp;ll=${latitude},${longitude}`, '_blank');
+ }
+ }
+
+ function openGoogleMaps(address) {
+ const encodedAddress = encodeURIComponent(address);
+ window.open(`https://www.google.com/maps/search/?api=1&amp;query=${encodedAddress}`, '_blank');
+ }
+&lt;/script>
+&lt;h3 id="from-los-angeles-international-airport-lax-about-37-miles-or-70-km-away">From Los Angeles International Airport (LAX) (About 37 miles or 70 km away)&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>By car&lt;/strong>: Depending on traffic, will take about 50 to 90 minutes.&lt;/li>
+&lt;li>&lt;strong>By ride-hailing (e.g., Uber/Lyft)&lt;/strong>: Time-wise is similar to by car, but need to go through &lt;a href="https://www.flylax.com/lax-it">LAXIT&lt;/a>, which might take an additional 20 minutes; depending on time and date, cost will be about $80 to $120.&lt;/li>
+&lt;li>&lt;strong>By public transportation (not recommended)&lt;/strong>: Will take about 150 minutes or more; need to do a few transfers; cost will be about $24.&lt;/li>
+&lt;/ul>
+&lt;h3 id="from-john-wayneocsanta-ana-airport-sna-about-14-miles-or-23-km-away">From John Wayne/OC/Santa Ana Airport (SNA) (About 14 miles or 23 km away)&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>By car&lt;/strong>: Depending on traffic, will take about 20 to 40 minutes.&lt;/li>
+&lt;li>&lt;strong>By ride-hailing (e.g., Uber/Lyft)&lt;/strong>: Time-wise is similar to by car; depending on time and date, cost will be about $35 to $55.&lt;/li>
+&lt;li>&lt;strong>By public transportation (not recommended)&lt;/strong>: Will take about 150 minutes or more; need to do 1 or more transfers; cost will be about $4.&lt;/li>
+&lt;/ul>
+&lt;h3 id="from-long-beach-airport-lgb-about-14-miles-or-23-km-away">From Long Beach Airport (LGB) (About 14 miles or 23 km away)&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>By car&lt;/strong>: Depending on traffic, will take about 22 to 40 minutes.&lt;/li>
+&lt;li>&lt;strong>By ride-hailing (e.g., Uber/Lyft)&lt;/strong>: Time-wise is similar to by car; depending on time and date, cost will be about $35 to $60.&lt;/li>
+&lt;li>&lt;strong>By public transportation (not recommended)&lt;/strong>: Will take about 90 minutes or more; need to do 1 or more transfers: cost will be about $4.&lt;/li>
+&lt;/ul>
+&lt;h2 id="getting-around">Getting around&lt;/h2>
+&lt;p>Anaheim Transportation Network (ATN) is widely available in the local area. Please checkout their &lt;a href="https://rideart.org/">website&lt;/a> for more information.&lt;/p></description></item><item><title>Venue</title><link>https://www.sigmobile.org/mobisys/2025/venue/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/venue/</guid><description>&lt;h2 id="main-conference">&lt;i class="bi bi-buildings-fill">&lt;/i> Hilton Anaheim&lt;/h2>
+
+
+&lt;p>&lt;img src="https://assets.hiltonstatic.com/hilton-asset-cache/image/upload/c_fill,w_1920,h_1080,q_70,f_auto,g_auto/Imagery/Property%20Photography/Hilton%20Full%20Service/S/SNAAHHH/SNAAH_Hilton%20Anaheim%20Facade.jpg" alt="Hilton Anaheim">&lt;/p>
+&lt;p>The Hilton Anaheim, fully-renovated in 2025, is located in the heart of California&amp;rsquo;s famous Orange County adjacent to the Anaheim Convention Center and steps from the Disneyland Resort. Their full-service hotel offers something for everyone, whether planning a family vacation, attending a conference or traveling on business. They are surrounded by a variety of restaurants, shopping, and nightlife venues.&lt;/p>
+&lt;p>&lt;strong>Address:&lt;/strong> 777 W Convention Way, Anaheim, CA 92802&lt;/p></description></item><item><title>Visa Information</title><link>https://www.sigmobile.org/mobisys/2025/visa/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.sigmobile.org/mobisys/2025/visa/</guid><description>&lt;a href='mailto:supportletters@acm.org' target="_blank">
+ 
+ &lt;div class='button '>
+ &lt;div class="button-left">&lt;span class="button-icon">
+ &lt;i class='bi bi-passport-fill'>&lt;/i>
+ &lt;/span>&lt;div class="button-content">
+ &lt;span class="button-text">Visa Support Letter Request&lt;/span>&lt;/div>
+ &lt;/div>
+ &lt;span class="button-arrow">
+ &lt;i class="bi bi-chevron-right">&lt;/i>
+ &lt;/span>
+ &lt;/div>
+ 
+&lt;/a>
+
+&lt;p>The &lt;a href="http://travel.state.gov/">U.S. Department of State website&lt;/a> has detailed information about obtaining a visa for those traveling to the United States with links to websites for U.S. embassies and consulates worldwide. The embassy and consulate websites have very helpful information about procedures, timelines, communities served, required documentation, and fees. International registrants should be particularly aware and careful about visa requirements, and should plan travel well in advance.&lt;/p></description></item></channel></rss>
