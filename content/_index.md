@@ -36,8 +36,10 @@ The 23rd ACM International Conference on Mobile Systems, Applications, and Servi
 <div class="no-indent">
 {{< /rawhtml >}}
 
-- June 18th, 2025 - **Program [iCalendar](./program/mobisys25_program.ics) is available** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
-- June 17th, 2025 - **[IoT Day Program](./iot_day_program/) is available** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
+- June 30th, 2025 - **Teaser videos are available** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
+- June 30th, 2025 - **Awards have been announced** {{< rawhtml >}} <span class="new"><sup><b>NEW</b></sup></span> {{< /rawhtml >}}
+- June 18th, 2025 - **Program [iCalendar](./program/mobisys25_program.ics) is available**
+- June 17th, 2025 - **[IoT Day Program](./iot_day_program/) is available**
 - June 15th, 2025 - **[Rising Stars Forum Program](./rising_stars_program/) is available**
 - June 10th, 2025 - {{<rawhtml>}}<a href="./n2women_program/">N<sup>2</sup>Women Program</a>{{</rawhtml>}} **is available**
 - June 10th, 2025 - **Hotel Room Conference Rate Deadline is extended**
